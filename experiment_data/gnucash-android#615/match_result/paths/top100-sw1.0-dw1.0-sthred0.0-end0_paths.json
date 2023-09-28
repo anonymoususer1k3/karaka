@@ -1,0 +1,5750 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "680",
+            "x_path": "/hierarchy/node/node/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Manage Books\u2026"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1272",
+            "tgt_y": "2224",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[3]",
+            "resource_id": "org.gnucash.android:id/fab_create_account",
+            "text_representation": [
+                "fab create account"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer closed"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer closed"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Recent"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "All"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1082",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[6]",
+            "resource_id": "",
+            "text_representation": [
+                "Reports"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1082",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[6]",
+            "resource_id": "",
+            "text_representation": [
+                "Reports"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1450",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[9]",
+            "resource_id": "",
+            "text_representation": [
+                "Scheduled Actions"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1450",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[9]",
+            "resource_id": "",
+            "text_representation": [
+                "Scheduled Actions"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1986",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[13]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node[1]/node[2]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "378",
+            "tgt_y": "512",
+            "x_path": "/hierarchy/node/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Book 1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Navigation drawer opened"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "507",
+            "tgt_y": "368",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.gnucash.android:id/book_name",
+            "text_representation": [
+                "Book 1",
+                "book name"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "914",
+            "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "",
+            "text_representation": [
+                "Favorites"
+            ]
+        }
+    ]
+]

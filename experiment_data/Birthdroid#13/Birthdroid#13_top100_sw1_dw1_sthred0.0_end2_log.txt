@@ -1,0 +1,176 @@
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-29] App ID: Birthdroid#13
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5558
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/Birthdroid#13
+06/06/2023 05:39:20 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 971
+06/06/2023 05:39:20 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for Birthdroid#13
+06/06/2023 05:39:20 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 05:39:20 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 05:39:20 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for recdroid_3...
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.008798599243164062 seconds.
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 60 matches.
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 0.011009454727172852 seconds.
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/06/2023 05:39:20 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/06/2023 05:39:21 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.3447558879852295 seconds.
+06/06/2023 05:39:21 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 1120 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 17:40:14 __init__:218] [pid:124728] atx-agent has something wrong, auto recovering
+[D 230606 17:40:14 __init__:322] [pid:124728] [emulator-5558] device emulator-5558 is online
+[I 230606 17:40:14 init:156] uiautomator2 version: 2.16.13
+[D 230606 17:40:14 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 17:40:14 init:346] Install atx-agent 0.10.0
+[D 230606 17:40:14 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 17:40:14 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 17:40:14 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 17:40:14 init:350] Check atx-agent version
+[D 230606 17:40:14 init:359] Forward: local:tcp:37443 -> remote:tcp:7912
+[D 230606 17:40:15 init:359] Forward: local:tcp:37443 -> remote:tcp:7912
+[D 230606 17:40:15 init:362] atx-agent version 0.10.0
+[D 230606 17:40:15 init:365] device wlan ip: route ip+net: no such network interface
+06/06/2023 05:40:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 17:40:15 __init__:661] [pid:124728] [emulator-5558] kill process(ps): uiautomator
+[D 230606 17:40:15 __init__:392] [pid:124728] [emulator-5558] Install app-uiautomator.apk
+[D 230606 17:40:16 __init__:392] [pid:124728] [emulator-5558] Install app-uiautomator-test.apk
+[D 230606 17:40:17 __init__:682] [pid:124728] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 17:40:18 __init__:682] [pid:124728] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 17:40:19 __init__:696] [pid:124728] [emulator-5558] show float window
+[D 230606 17:40:20 __init__:682] [pid:124728] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230606 17:40:21 __init__:682] [pid:124728] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230606 17:40:21 __init__:643] [pid:124728] [emulator-5558] uiautomator back to normal
+06/06/2023 05:40:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:40:21 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 17:40:22 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:40:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:40:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:40:25 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.1140072345733643
+06/06/2023 05:40:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:40:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:40:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:40:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:40:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:40:41 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 19.91018843650818 seconds.
+06/06/2023 05:40:41 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230606 17:40:42 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:40:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:40:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:40:45 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.5704686641693115
+06/06/2023 05:40:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:40:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:40:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:40:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:40:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1034, 1466)
+06/06/2023 05:41:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:41:03 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 42.09839844703674 seconds.
+06/06/2023 05:41:03 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230606 17:41:04 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:41:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:41:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:41:07 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.7601733207702637
+06/06/2023 05:41:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:41:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:41:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:41:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:41:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1034, 1466)
+06/06/2023 05:41:23 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 61.916879177093506 seconds.
+06/06/2023 05:41:23 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230606 17:41:23 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:41:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:41:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:41:27 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.817302942276001
+06/06/2023 05:41:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:41:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:41:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:41:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:41:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1034, 1466)
+06/06/2023 05:41:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1265, 1384)
+06/06/2023 05:41:45 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 84.48146343231201 seconds.
+06/06/2023 05:41:45 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230606 17:41:46 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:41:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:41:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:41:49 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.9020326137542725
+06/06/2023 05:41:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:41:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:41:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:41:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:42:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (405, 1466)
+06/06/2023 05:42:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 818)
+06/06/2023 05:42:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 107.11151075363159 seconds.
+06/06/2023 05:42:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230606 17:42:09 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:42:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:42:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:42:12 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.8885574340820312
+06/06/2023 05:42:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:42:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:42:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:42:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:42:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 05:42:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1610)
+06/06/2023 05:42:31 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 130.33630657196045 seconds.
+06/06/2023 05:42:31 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230606 17:42:32 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:42:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:42:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:42:35 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.592700481414795
+06/06/2023 05:42:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:42:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:42:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:42:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:42:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (405, 1466)
+06/06/2023 05:42:51 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 149.743567943573 seconds.
+06/06/2023 05:42:51 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230606 17:42:51 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:42:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:42:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:42:54 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.537224769592285
+06/06/2023 05:42:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:42:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:43:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:43:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:43:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 05:43:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1265, 1384)
+06/06/2023 05:43:14 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 173.10271000862122 seconds.
+06/06/2023 05:43:14 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230606 17:43:15 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:43:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:43:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:43:18 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.5116212368011475
+06/06/2023 05:43:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:43:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:43:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:43:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:43:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (405, 1466)
+06/06/2023 05:43:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:43:36 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 195.38902473449707 seconds.
+06/06/2023 05:43:36 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230606 17:43:37 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:43:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:43:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:43:40 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.706303119659424
+06/06/2023 05:43:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:43:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:43:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:43:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 05:43:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 818)
+06/06/2023 05:44:00 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 218.94963145256042 seconds.
+06/06/2023 05:44:00 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230606 17:44:01 __init__:1375] [pid:124728] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 05:44:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 05:44:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.rigid.birthdroid', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 05:44:04 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 3.4832003116607666
+06/06/2023 05:44:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 168)
+06/06/2023 05:44:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1069, 336)
+06/06/2023 05:44:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1158)
+06/06/2023 05:44:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1243'))
+06/06/2023 05:44:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1034, 1466)
+06/06/2023 05:44:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 05:44:22 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 240.96906423568726 seconds.
+06/06/2023 05:44:22 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 10.
+06/06/2023 05:44:22 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

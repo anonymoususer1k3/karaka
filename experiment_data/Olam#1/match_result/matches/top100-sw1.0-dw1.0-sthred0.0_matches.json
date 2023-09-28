@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "type",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": " ",
+                "sentence": "type only the \"space\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "818",
+                "tgt_y": "223",
+                "resource_id": "com.olam:id/editText1",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Type an English word",
+                    "editText1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.5,
+                "total_score": 0.5
+            }
+        }
+    ]
+]

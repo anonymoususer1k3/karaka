@@ -1,0 +1,3311 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1558",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[8]",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "com.android.gpstest:id/navigation_drawer",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[7]",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[6]",
+            "resource_id": "",
+            "text_representation": [
+                "Inject PSDS data"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[12]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[1]/node/node/node/node/node/node/node[1]/node",
+            "resource_id": "com.android.gpstest:id/status_location_card",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "01:11:32 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "803",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1148",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Signal Strength",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1148",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Signal Strength",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "980",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Carrier Frequency",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "980",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Carrier Frequency",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1652",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[6]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Constellation, Signal Strength",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1652",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[6]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Constellation, Signal Strength",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1484",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Constellation, Carrier Frequency",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "966",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/sort_sats",
+            "text_representation": [
+                "Sort by",
+                "sort sats"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1484",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[5]",
+            "resource_id": "android:id/text1",
+            "text_representation": [
+                "Constellation, Carrier Frequency",
+                "text1"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1783",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[10]",
+            "resource_id": "",
+            "text_representation": [
+                "Visit us on GitHub"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "803",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "982",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "803",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1076",
+            "tgt_y": "982",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[3]",
+            "resource_id": "com.android.gpstest:id/chip_degrees_decimal_minutes",
+            "text_representation": [
+                "Degrees Decimal Minutes",
+                "chip degrees decimal minutes"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "644",
+            "tgt_y": "803",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25.320,W\t122\u00b0 05.040",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[2]/node/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node/node[3]/node[1]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "734",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "37.421998333333335,-122.08400000000002",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node[3]/node[2]",
+            "resource_id": "com.android.gpstest:id/share",
+            "text_representation": [
+                "Share",
+                "share"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "751",
+            "tgt_y": "956",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[3]/node/node[2]",
+            "resource_id": "com.android.gpstest:id/chip_dms",
+            "text_representation": [
+                "DMS",
+                "chip dms"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "731",
+            "tgt_y": "777",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node/node[1]/node[2]",
+            "resource_id": "com.android.gpstest:id/location_value",
+            "text_representation": [
+                "N\t\u200737\u00b0 25' 19.19\",W\t122\u00b0  5' 02.40\"",
+                "location value"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ]
+]

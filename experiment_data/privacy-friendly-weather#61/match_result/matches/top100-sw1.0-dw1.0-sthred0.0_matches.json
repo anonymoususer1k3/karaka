@@ -1,0 +1,170 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "slide",
+                "action": "SWIPE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "slide next from welcome screen to add first location screen.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "SWIPE",
+                "start_x": "1435",
+                "start_y": "1196",
+                "end_x": "5",
+                "end_y": "1196"
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "rotate",
+                "action": "ROTATE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "After coming to add first location screen, just rotate device screen from portrait to landscape.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": null,
+            "matched_event": null,
+            "match_score": {
+                "total_score": 0
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "slide",
+                "action": "SWIPE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "slide next from welcome screen to add first location screen.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "SWIPE",
+                "start_x": "1435",
+                "start_y": "1196",
+                "end_x": "5",
+                "end_y": "1196"
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "rotate",
+                "action": "ROTATE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "After coming to add first location screen, just rotate device screen from portrait to landscape.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": null,
+            "matched_event": null,
+            "match_score": {
+                "total_score": 0
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "slide",
+                "action": "SWIPE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "slide next from welcome screen to add first location screen.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "SWIPE",
+                "start_x": "1435",
+                "start_y": "1196",
+                "end_x": "5",
+                "end_y": "1196"
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "rotate",
+                "action": "ROTATE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "After coming to add first location screen, just rotate device screen from portrait to landscape.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": null,
+            "matched_event": null,
+            "match_score": {
+                "total_score": 0
+            }
+        }
+    ]
+]

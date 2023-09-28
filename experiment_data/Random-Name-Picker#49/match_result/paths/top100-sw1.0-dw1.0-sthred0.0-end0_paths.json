@@ -1,0 +1,3984 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1070",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Source code",
+                "\uf233"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2074",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1139",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OK",
+                "md buttonDefaultPositive"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2074",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1139",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OK",
+                "md buttonDefaultPositive"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "542",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send feedback",
+                "\uf132"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "894",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rate this app",
+                "\uf251"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "894",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rate this app",
+                "\uf251"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "718",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "My other apps",
+                "\uf225"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "542",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send feedback",
+                "\uf132"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2310",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "List names cannot be blank."
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2074",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2310",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "List names cannot be blank."
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1154",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "In order for Random Name Picker to start backing up your app data, you need to give it the ability to write to your device's external file system. Would you like to do that now?",
+                "md content"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1154",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "In order for Random Name Picker to start backing up your app data, you need to give it the ability to write to your device's external file system. Would you like to do that now?",
+                "md content"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1139",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OK",
+                "md buttonDefaultPositive"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1139",
+            "tgt_y": "1448",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OK",
+                "md buttonDefaultPositive"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1070",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Source code",
+                "\uf233"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "366",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back up data",
+                "\uf255"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1154",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "In order for Random Name Picker to start backing up your app data, you need to give it the ability to write to your device's external file system. Would you like to do that now?",
+                "md content"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2074",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2310",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "List names cannot be blank."
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2074",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "import text file"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1906",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings",
+                "settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1324",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "add item"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "187",
+            "tgt_y": "1217",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "GOT IT",
+                "tv dismiss"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "View tutorial",
+                "view tutorial"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "623",
+            "tgt_y": "395",
+            "x_path": "",
+            "resource_id": "com.randomappsinc.studentpicker:id/item_name_input",
+            "text_representation": [
+                "List name",
+                "item name input",
+                "input box",
+                "input box"
+            ]
+        }
+    ]
+]

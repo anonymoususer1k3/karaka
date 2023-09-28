@@ -1,0 +1,188 @@
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-29] App ID: qksms#585
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5558
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/qksms#585
+06/06/2023 10:26:21 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 703
+06/06/2023 10:26:21 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for qksms#585
+06/06/2023 10:26:21 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 10:26:21 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 10:26:21 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 10:26:21 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for recdroid_42...
+06/06/2023 10:26:21 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 10:26:21 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 10:26:21 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.03157973289489746 seconds.
+06/06/2023 10:26:21 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 10:26:48 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 1992 matches.
+06/06/2023 10:26:48 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 26.228485822677612 seconds.
+06/06/2023 10:26:48 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/06/2023 10:26:48 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/06/2023 10:27:11 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/06/2023 10:27:11 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 22.755459785461426 seconds.
+06/06/2023 10:27:11 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 5010 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 10:27:42 __init__:218] [pid:81386] atx-agent has something wrong, auto recovering
+[D 230606 10:27:42 __init__:322] [pid:81386] [emulator-5558] device emulator-5558 is online
+[I 230606 10:27:42 init:156] uiautomator2 version: 2.16.13
+[D 230606 10:27:42 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 10:27:42 init:346] Install atx-agent 0.10.0
+[D 230606 10:27:42 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 10:27:42 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 10:27:42 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 10:27:42 init:350] Check atx-agent version
+[D 230606 10:27:42 init:359] Forward: local:tcp:57485 -> remote:tcp:7912
+[D 230606 10:27:43 init:359] Forward: local:tcp:57485 -> remote:tcp:7912
+[D 230606 10:27:43 init:362] atx-agent version 0.10.0
+[D 230606 10:27:43 init:365] device wlan ip: route ip+net: no such network interface
+06/06/2023 10:27:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 10:27:43 __init__:661] [pid:81386] [emulator-5558] kill process(ps): uiautomator
+[D 230606 10:27:43 __init__:392] [pid:81386] [emulator-5558] Install app-uiautomator.apk
+[D 230606 10:27:44 __init__:392] [pid:81386] [emulator-5558] Install app-uiautomator-test.apk
+[D 230606 10:27:45 __init__:682] [pid:81386] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 10:27:46 __init__:682] [pid:81386] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 10:27:47 __init__:696] [pid:81386] [emulator-5558] show float window
+[D 230606 10:27:48 __init__:682] [pid:81386] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230606 10:27:49 __init__:682] [pid:81386] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230606 10:27:49 __init__:643] [pid:81386] [emulator-5558] uiautomator back to normal
+06/06/2023 10:27:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:27:49 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 10:27:50 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:28:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:28:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:28:02 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 12.406889915466309
+06/06/2023 10:28:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:28:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:28:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:28:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:28:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:28:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2387) to (720,285)
+06/06/2023 10:28:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1749)
+06/06/2023 10:28:26 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 37.145445108413696 seconds.
+06/06/2023 10:28:26 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230606 10:28:27 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:28:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:28:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:28:36 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 9.157962799072266
+06/06/2023 10:28:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:28:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:28:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:28:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:28:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:28:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2387) to (720,285)
+06/06/2023 10:28:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (98, 182)
+06/06/2023 10:28:59 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 70.74288368225098 seconds.
+06/06/2023 10:28:59 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230606 10:29:01 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:29:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:29:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:29:09 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 9.217523574829102
+06/06/2023 10:29:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:29:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:29:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:29:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:29:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:29:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1823)
+06/06/2023 10:29:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1336)
+06/06/2023 10:29:33 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 104.51348733901978 seconds.
+06/06/2023 10:29:33 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230606 10:29:35 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:29:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:29:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:29:43 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 8.83744192123413
+06/06/2023 10:29:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:29:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:29:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:29:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:29:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:30:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1823)
+06/06/2023 10:30:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (98, 182)
+06/06/2023 10:30:06 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 137.6664638519287 seconds.
+06/06/2023 10:30:06 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230606 10:30:08 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:30:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:30:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:30:16 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 9.37814474105835
+06/06/2023 10:30:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:30:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:30:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:30:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:30:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:30:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1049)
+06/06/2023 10:30:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1691)
+06/06/2023 10:30:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 171.1102786064148 seconds.
+06/06/2023 10:30:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230606 10:30:41 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:30:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:30:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:30:49 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 8.732540845870972
+06/06/2023 10:30:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:30:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:30:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:30:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:31:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:31:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1307)
+06/06/2023 10:31:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:31:13 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 204.37893080711365 seconds.
+06/06/2023 10:31:13 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230606 10:31:15 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:31:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:31:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:31:22 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 7.576030731201172
+06/06/2023 10:31:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:31:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:31:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:31:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:31:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:31:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 407)
+06/06/2023 10:31:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (426, 1231)
+06/06/2023 10:31:45 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 236.41241335868835 seconds.
+06/06/2023 10:31:45 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230606 10:31:46 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:31:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:31:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:31:54 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 8.476983547210693
+06/06/2023 10:31:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:31:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:32:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:32:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:32:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:32:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2081)
+06/06/2023 10:32:15 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 266.1799268722534 seconds.
+06/06/2023 10:32:15 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230606 10:32:16 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:32:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:32:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:32:25 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 9.45655107498169
+06/06/2023 10:32:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:32:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:32:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:32:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:32:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:32:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1823)
+06/06/2023 10:32:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1793)
+06/06/2023 10:32:48 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 299.6374719142914 seconds.
+06/06/2023 10:32:48 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230606 10:32:50 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:32:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:32:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:32:58 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 9.00730037689209
+06/06/2023 10:32:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:33:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:33:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:33:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:33:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:33:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1307)
+06/06/2023 10:33:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1232)
+06/06/2023 10:33:21 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 332.6651804447174 seconds.
+06/06/2023 10:33:21 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230606 10:33:23 __init__:1375] [pid:81386] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 10:33:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 10:33:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.moez.QKSMS', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 10:33:31 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 8.867016315460205
+06/06/2023 10:33:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 10:33:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 182)
+06/06/2023 10:33:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2302)
+06/06/2023 10:33:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 10:33:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 10:33:49 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 360.46108317375183 seconds.
+06/06/2023 10:33:49 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 10.
+06/06/2023 10:33:49 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

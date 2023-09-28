@@ -1,0 +1,1850 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "50",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "872",
+                "x_path": "/hierarchy/node/node/node[5]",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "1040",
+                "x_path": "/hierarchy/node/node/node[6]",
+                "resource_id": "",
+                "text_representation": [
+                    "Server Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8689430619358411,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.2022763952691744
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "42",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node[1]/node/node[3]/node",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.5,
+                "total_score": 1.129050643997056
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "368",
+                "x_path": "/hierarchy/node/node/node[2]",
+                "resource_id": "",
+                "text_representation": [
+                    "Download images"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6415017042278947,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.974835037561228
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "704",
+                "x_path": "/hierarchy/node/node/node[4]",
+                "resource_id": "",
+                "text_representation": [
+                    "Download more items"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6382728327590974,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9716061660924307
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "35",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[3]/node",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9623839773303893
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "53",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[1]/node[1]/node/node[3]/node",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9623839773303893
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "55",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1556",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[5]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/cb_AllowAllSSLCertificates",
+                "text_representation": [
+                    "Disable Hostname Verification",
+                    "cb AllowAllSSLCertificates"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6886643098972907,
+                "distance_score": 0.25,
+                "total_score": 0.9386643098972907
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "59",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "263",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[2]/node/node[1]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/header_view",
+                "text_representation": [
+                    "header view",
+                    "ownCloud News"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5568961214799473,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8902294548132805
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "263",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[1]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/header_view",
+                "text_representation": [
+                    "header view",
+                    "ownCloud News"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5568961214799473,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8902294548132805
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "49",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1556",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[5]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/cb_AllowAllSSLCertificates",
+                "text_representation": [
+                    "Disable Hostname Verification",
+                    "cb AllowAllSSLCertificates"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6886643098972907,
+                "distance_score": 0.2,
+                "total_score": 0.8886643098972906
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "33",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1244",
+                "tgt_y": "1224",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/text_input_password_toggle",
+                "text_representation": [
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6373782042395943,
+                "distance_score": 0.25,
+                "total_score": 0.8873782042395943
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1244",
+                "tgt_y": "1224",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/text_input_password_toggle",
+                "text_representation": [
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6373782042395943,
+                "distance_score": 0.25,
+                "total_score": 0.8873782042395943
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "7",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node[1]/node/node[3]/node",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.25,
+                "total_score": 0.879050643997056
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1556",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[5]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/cb_AllowAllSSLCertificates",
+                "text_representation": [
+                    "Disable Hostname Verification",
+                    "cb AllowAllSSLCertificates"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6886643098972907,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.8553309765639573
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.5,
+                "total_score": 0.8546889827380276
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "46",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.5,
+                "total_score": 0.8546889827380276
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "32",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[3]/node",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.2,
+                "total_score": 0.829050643997056
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "29",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "536",
+                "x_path": "/hierarchy/node/node/node[3]",
+                "resource_id": "",
+                "text_representation": [
+                    "Mark all as read"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.48141308172642894,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8147464150597623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "52",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "200",
+                "x_path": "/hierarchy/node/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "Refresh"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44362861641901186,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7769619497523452
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "263",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[1]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/header_view",
+                "text_representation": [
+                    "header view",
+                    "ownCloud News"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5568961214799473,
+                "distance_score": 0.2,
+                "total_score": 0.7568961214799472
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "40",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1223",
+                "tgt_y": "1205",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[3]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/imgView_ShowPassword",
+                "text_representation": [
+                    "imgView ShowPassword",
+                    "show password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5062852998455277,
+                "distance_score": 0.25,
+                "total_score": 0.7562852998455277
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "27",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1055",
+                "tgt_y": "1208",
+                "x_path": "/hierarchy/node/node/node[7]",
+                "resource_id": "",
+                "text_representation": [
+                    "Add new feed"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.41516202449200407,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7484953578253374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1223",
+                "tgt_y": "1206",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node/node[3]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/imgView_ShowPassword",
+                "text_representation": [
+                    "imgView ShowPassword",
+                    "show password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5062852998455277,
+                "distance_score": 0.2,
+                "total_score": 0.7062852998455278
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "41",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.688022316071361
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "18",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.688022316071361
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "45",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "190",
+                "tgt_y": "767",
+                "x_path": "/hierarchy/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/tv_dismiss",
+                "text_representation": [
+                    "GOT IT",
+                    "tv dismiss"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3149630535770214,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6482963869103547
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.25,
+                "total_score": 0.6046889827380276
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "25",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "577",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/sp_folder",
+                "text_representation": [
+                    "No folder",
+                    "sp folder"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34985427902680954,
+                "distance_score": 0.25,
+                "total_score": 0.5998542790268095
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "37",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "577",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[2]/node/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/sp_folder",
+                "text_representation": [
+                    "No folder",
+                    "sp folder"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34985427902680954,
+                "distance_score": 0.25,
+                "total_score": 0.5998542790268095
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1213",
+                "tgt_y": "1710",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[3]/node",
+                "resource_id": "android:id/button1",
+                "text_representation": [
+                    "Sign in",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3415726513153413,
+                "distance_score": 0.25,
+                "total_score": 0.5915726513153413
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "51",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.32534652710593986,
+                "distance_score": 0.25,
+                "total_score": 0.5753465271059399
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[1]/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "No items here"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3546889827380276,
+                "distance_score": 0.2,
+                "total_score": 0.5546889827380277
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "21",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1213",
+                "tgt_y": "1710",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[3]/node",
+                "resource_id": "android:id/button1",
+                "text_representation": [
+                    "Sign in",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3415726513153413,
+                "distance_score": 0.2,
+                "total_score": 0.5415726513153414
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "61",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.32534652710593986,
+                "distance_score": 0.2,
+                "total_score": 0.5253465271059399
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "60",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1213",
+                "tgt_y": "1710",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[3]/node",
+                "resource_id": "android:id/button1",
+                "text_representation": [
+                    "Sign in",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3415726513153413,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5082393179820079
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "39",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "186",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node[1]/node/node[1]",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21253129969281442,
+                "distance_score": 0.25,
+                "total_score": 0.4625312996928144
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "38",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "522",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]/node[1]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "44",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "522",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[2]/node/node[2]/node[1]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1415",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/expandableListView",
+                "text_representation": [
+                    "expandableListView"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "3",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "690",
+                "x_path": "/hierarchy/node/node[1]/node/node/node/node/node/node[2]/node/node[2]/node[2]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1415",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/expandableListView",
+                "text_representation": [
+                    "expandableListView"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "47",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "690",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]/node[2]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "34",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1213",
+                "tgt_y": "1745",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "24",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1223",
+                "tgt_y": "1206",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "43",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "522",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]/node[1]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1223",
+                "tgt_y": "1206",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "690",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]/node[2]",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1415",
+                "x_path": "/hierarchy/node/node/node/node/node/node/node/node[2]/node/node[2]",
+                "resource_id": "de.luhmer.owncloudnewsreader:id/expandableListView",
+                "text_representation": [
+                    "expandableListView"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "23",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "692",
+                "tgt_y": "582",
+                "x_path": "/hierarchy/node/node",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "57",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "692",
+                "tgt_y": "582",
+                "x_path": "/hierarchy/node/node",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "entering",
+                "action": "CLICK",
+                "target_word": "Settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "App crashes when I was entering \"Settings\" on Android 4.4.4.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "54",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1213",
+                "tgt_y": "1745",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ]
+]

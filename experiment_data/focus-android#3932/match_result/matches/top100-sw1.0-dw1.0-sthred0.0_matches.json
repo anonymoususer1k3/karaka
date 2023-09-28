@@ -1,0 +1,1176 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "619",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "407",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Google",
+                    "Search engine"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "341",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "1526",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "619",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "407",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Google",
+                    "Search engine"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8085962292562496,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.141929562589583
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "390",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "736",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Firefox Focus will send what you type in the address bar to your search engine",
+                    "Get search suggestions",
+                    "OFF"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6291018119052406,
+                "distance_score": 0.5,
+                "total_score": 1.1291018119052407
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "41",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "185",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options button",
+                    "menuView"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.629050643997056,
+                "distance_score": 0.5,
+                "total_score": 1.129050643997056
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "619",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "407",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Google",
+                    "Search engine"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "390",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "736",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Firefox Focus will send what you type in the address bar to your search engine",
+                    "Get search suggestions",
+                    "OFF"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.7560189311748461,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.0893522645081795
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "619",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "407",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Google",
+                    "Search engine"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "344",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1029",
+                "tgt_y": "393",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8085962292562496,
+                "distance_score": 0.25,
+                "total_score": 1.0585962292562496
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.7842561061317276,
+                "distance_score": 0.25,
+                "total_score": 1.0342561061317275
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "619",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "407",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Google",
+                    "Search engine"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "341",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "1526",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "Set default, autocomplete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8085962292562496,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.141929562589583
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "259",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1309",
+                "tgt_y": "960",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "623",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1029",
+                "tgt_y": "393",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8085962292562496,
+                "distance_score": 0.5,
+                "total_score": 1.3085962292562496
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "go",
+                "action": "CLICK",
+                "target_word": "settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "go to settings",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "228",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "950",
+                "tgt_y": "563",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings",
+                    "settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "623",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1029",
+                "tgt_y": "393",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        },
+        {
+            "step": {
+                "index": 3,
+                "action_word": "clicks",
+                "action": "CLICK",
+                "target_word": "search engine",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "app crashes if user clicks search and search engine.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "623",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1029",
+                "tgt_y": "393",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8085962292562496,
+                "distance_score": 0.5,
+                "total_score": 1.3085962292562496
+            }
+        }
+    ]
+]

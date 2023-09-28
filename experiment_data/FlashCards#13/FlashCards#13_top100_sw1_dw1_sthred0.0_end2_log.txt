@@ -1,0 +1,324 @@
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-29] App ID: FlashCards#13
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5560
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/FlashCards#13
+06/07/2023 06:11:34 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 293
+06/07/2023 06:11:34 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for FlashCards#13
+06/07/2023 06:11:35 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/07/2023 06:11:35 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/07/2023 06:11:35 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for recdroid_33...
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.6092085838317871 seconds.
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 105 matches.
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 0.005021095275878906 seconds.
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/07/2023 06:11:35 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/07/2023 06:11:36 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.5014371871948242 seconds.
+06/07/2023 06:11:36 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 750 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230607 06:11:50 __init__:218] [pid:3059] atx-agent has something wrong, auto recovering
+[D 230607 06:11:50 __init__:322] [pid:3059] [emulator-5560] device emulator-5560 is online
+[I 230607 06:11:50 init:156] uiautomator2 version: 2.16.13
+[D 230607 06:11:50 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230607 06:11:50 init:346] Install atx-agent 0.10.0
+[D 230607 06:11:50 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230607 06:11:50 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230607 06:11:50 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230607 06:11:50 init:350] Check atx-agent version
+[D 230607 06:11:50 init:359] Forward: local:tcp:49135 -> remote:tcp:7912
+[D 230607 06:11:50 init:359] Forward: local:tcp:49135 -> remote:tcp:7912
+[D 230607 06:11:52 init:362] atx-agent version 0.10.0
+[D 230607 06:11:52 init:365] device wlan ip: wlan0 have no ip address
+06/07/2023 06:11:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230607 06:11:52 __init__:661] [pid:3059] [emulator-5560] kill process(ps): uiautomator
+[D 230607 06:11:54 __init__:392] [pid:3059] [emulator-5560] Install app-uiautomator.apk
+[D 230607 06:11:56 __init__:392] [pid:3059] [emulator-5560] Install app-uiautomator-test.apk
+[D 230607 06:11:59 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 40.0s
+[D 230607 06:12:00 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 39.0s
+[D 230607 06:12:01 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 38.0s
+[D 230607 06:12:01 __init__:696] [pid:3059] [emulator-5560] show float window
+[D 230607 06:12:02 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 36.3s
+[D 230607 06:12:04 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 35.3s
+[D 230607 06:12:05 __init__:682] [pid:3059] [emulator-5560] uiautomator-v2 is starting ... left: 34.3s
+[I 230607 06:12:05 __init__:643] [pid:3059] [emulator-5560] uiautomator back to normal
+06/07/2023 06:12:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:12:05 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230607 06:12:07 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:12:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:12:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:12:22 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 16.58658003807068
+06/07/2023 06:12:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:12:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:12:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:12:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:12:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:12:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:12:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:12:46 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 40.77574682235718 seconds.
+06/07/2023 06:12:46 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230607 06:12:47 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:12:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:12:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:12:57 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 11.038336277008057
+06/07/2023 06:13:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:13:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:13:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:13:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:13:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:13:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:13:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:13:22 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 77.5309705734253 seconds.
+06/07/2023 06:13:22 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230607 06:13:24 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:13:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:13:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:13:53 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 29.288910627365112
+06/07/2023 06:13:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:13:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:13:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:14:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:14:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:14:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:14:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:14:14 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 129.36399459838867 seconds.
+06/07/2023 06:14:14 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230607 06:14:16 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:14:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:14:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:14:25 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 9.559447765350342
+06/07/2023 06:14:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:14:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:14:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:14:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:14:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:14:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:14:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:14:47 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 162.15029048919678 seconds.
+06/07/2023 06:14:47 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230607 06:14:49 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:14:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:14:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:14:58 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.370391845703125
+06/07/2023 06:14:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:15:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:15:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:15:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:15:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:15:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:15:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:15:20 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 195.59251713752747 seconds.
+06/07/2023 06:15:20 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230607 06:15:22 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:15:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:15:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:15:51 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 29.52765154838562
+06/07/2023 06:15:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:15:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:15:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:16:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:16:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:16:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:16:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:16:15 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 249.77141857147217 seconds.
+06/07/2023 06:16:15 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230607 06:16:17 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:16:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:16:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:16:44 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 28.739502429962158
+06/07/2023 06:16:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:16:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:16:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:16:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:16:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:17:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:17:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:17:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 303.7140779495239 seconds.
+06/07/2023 06:17:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230607 06:17:10 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:17:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:17:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:17:20 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.715685844421387
+06/07/2023 06:17:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:17:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:17:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:17:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:17:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:17:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:17:41 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 336.3780574798584 seconds.
+06/07/2023 06:17:41 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230607 06:17:43 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:18:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:18:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:18:11 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 28.39270853996277
+06/07/2023 06:18:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:18:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:18:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:18:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:18:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:18:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:18:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:18:35 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 389.9066183567047 seconds.
+06/07/2023 06:18:35 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230607 06:18:36 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:18:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:18:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:18:46 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.558953762054443
+06/07/2023 06:18:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:18:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:18:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:18:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:19:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:19:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:19:07 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 421.9431622028351 seconds.
+06/07/2023 06:19:07 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230607 06:19:08 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:19:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:19:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:19:38 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 30.414562463760376
+06/07/2023 06:19:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:19:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:19:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:19:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:19:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:19:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:19:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:20:00 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 475.47134613990784 seconds.
+06/07/2023 06:20:00 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 11.
+[D 230607 06:20:02 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:20:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:20:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:20:12 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.833847284317017
+06/07/2023 06:20:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:20:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:20:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:20:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:20:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:20:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:20:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:20:35 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 11 Time: 509.7897698879242 seconds.
+06/07/2023 06:20:35 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 12.
+[D 230607 06:20:37 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:21:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:21:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:21:07 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 30.858636617660522
+06/07/2023 06:21:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:21:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:21:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:21:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:21:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:21:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:21:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:21:30 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 12 Time: 565.1160118579865 seconds.
+06/07/2023 06:21:30 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 13.
+[D 230607 06:21:32 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:22:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:22:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:22:01 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 29.55319118499756
+06/07/2023 06:22:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:22:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:22:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:22:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:22:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:22:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:22:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:22:24 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 13 Time: 618.8115429878235 seconds.
+06/07/2023 06:22:24 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 14.
+[D 230607 06:22:26 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:22:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:22:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:22:55 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 30.187413454055786
+06/07/2023 06:22:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:22:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:23:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:23:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:23:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:23:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:23:15 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 14 Time: 669.9447014331818 seconds.
+06/07/2023 06:23:15 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 15.
+[D 230607 06:23:16 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:23:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:23:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:23:46 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 29.7289080619812
+06/07/2023 06:23:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:23:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:23:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:23:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:23:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:24:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:24:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:24:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 15 Time: 722.8599088191986 seconds.
+06/07/2023 06:24:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 16.
+[D 230607 06:24:10 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:24:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:24:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:24:39 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 30.353139638900757
+06/07/2023 06:24:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:24:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:24:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:24:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:24:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:24:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:25:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:25:03 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 16 Time: 777.8431611061096 seconds.
+06/07/2023 06:25:03 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 17.
+[D 230607 06:25:05 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:25:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:25:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:25:34 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 30.13076686859131
+06/07/2023 06:25:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:25:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:25:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:25:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:25:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:25:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:25:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '649'))
+06/07/2023 06:25:56 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 17 Time: 831.6459510326385 seconds.
+06/07/2023 06:25:56 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 18.
+[D 230607 06:25:58 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:26:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:26:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:26:26 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 28.710237979888916
+06/07/2023 06:26:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:26:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:26:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:26:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:26:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:26:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:26:45 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 18 Time: 880.1178829669952 seconds.
+06/07/2023 06:26:45 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 19.
+[D 230607 06:26:47 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:26:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:26:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:26:58 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 11.558035850524902
+06/07/2023 06:26:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:27:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:27:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:27:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:27:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:27:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '453'))
+06/07/2023 06:27:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 868)
+06/07/2023 06:27:20 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 19 Time: 914.9061236381531 seconds.
+06/07/2023 06:27:20 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 20.
+[D 230607 06:27:22 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:27:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:27:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:27:32 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.788023710250854
+06/07/2023 06:27:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:27:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1312'))
+06/07/2023 06:27:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1987)
+06/07/2023 06:27:41 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 20 Time: 936.2000443935394 seconds.
+06/07/2023 06:27:41 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 21.
+[D 230607 06:27:43 __init__:1375] [pid:3059] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 06:27:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 06:27:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.example.terin.asu_flashcardapp', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 24, 'naturalOrientation': True}
+06/07/2023 06:27:52 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.137446165084839
+06/07/2023 06:27:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/07/2023 06:27:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '1312'))
+06/07/2023 06:27:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 06:28:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2063)
+06/07/2023 06:28:06 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 21 Time: 960.8108234405518 seconds.
+06/07/2023 06:28:06 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 21.
+06/07/2023 06:28:06 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

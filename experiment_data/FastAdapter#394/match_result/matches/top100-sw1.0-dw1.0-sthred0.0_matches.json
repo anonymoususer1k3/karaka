@@ -1,0 +1,3497 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1344",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "GenericItem Sample",
+                    "Split up Item and Model"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "3",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Grid, Expandable",
+                    "IconGrid Sample"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "50",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "336",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "FastScroller, Filter, Drag&Drop",
+                    "SimpleItemList Sample"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "55",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "504",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "ImageList Sample",
+                    "View Click Listener"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "85",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "672",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "MultiSelect Sample",
+                    "MultiSelect, CAB, Remove, Undo"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "63",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1008",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "StickyHeader Sample",
+                    "StickyHeader, Select"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "45",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1512",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "MultiGenericItem Sample",
+                    "Split up multiple Items and Models in one GenericAdapter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "92",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1848",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "RadioButton Sample",
+                    "Use FastAdapters internal state with a RadioButton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "59",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "2016",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Swipe, leave-behinds and actions",
+                    "SwipeList Sample"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "61",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "2184",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "EndlessScroll Sample",
+                    "EndlessScroll, Progress"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.9999999956127054,
+                "distance_score": 0.2,
+                "total_score": 1.1999999956127054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "44",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1238",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Advanced Sample",
+                    "materialize root"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8286344673496384,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.1619678006829717
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "33",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Expandable Sample",
+                    "Expandable, Select"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8622050598960616,
+                "distance_score": 0.2,
+                "total_score": 1.0622050598960615
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "57",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1680",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "CheckBox Sample",
+                    "Use FastAdapters internal state with a CheckBox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8613280788531115,
+                "distance_score": 0.2,
+                "total_score": 1.0613280788531114
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "89",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1176",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Advanced Sample",
+                    "Header, StickyHeader, Expandable, CAB, MultiSelect"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8286344673496384,
+                "distance_score": 0.2,
+                "total_score": 1.0286344673496384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1196",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "material drawer slider layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5162789519143819,
+                "distance_score": 0.5,
+                "total_score": 1.0162789519143818
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "75",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "2330",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Simply sort your items by providing a Comparator",
+                    "Sort Sample"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.7724459060652806,
+                "distance_score": 0.2,
+                "total_score": 0.9724459060652806
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "76",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "1196",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "material drawer slider layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5162789519143819,
+                "distance_score": 0.2,
+                "total_score": 0.716278951914382
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "7",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.25,
+                "total_score": 0.6953394127160122
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "14",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.25,
+                "total_score": 0.6953394127160122
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "43",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.25,
+                "total_score": 0.6953394127160122
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.25,
+                "total_score": 0.6953394127160122
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "32",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.25,
+                "total_score": 0.6953394127160122
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "20",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.25,
+                "total_score": 0.6599122215779623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "74",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.25,
+                "total_score": 0.6599122215779623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "91",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.25,
+                "total_score": 0.6599122215779623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "94",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.25,
+                "total_score": 0.6599122215779623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "84",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.25,
+                "total_score": 0.6599122215779623
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "71",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.2,
+                "total_score": 0.6453394127160121
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1188",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Change",
+                    "item change"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4453394127160122,
+                "distance_score": 0.2,
+                "total_score": 0.6453394127160121
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1112",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "NEW",
+                    "Newly added item"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.422091455152319,
+                "distance_score": 0.2,
+                "total_score": 0.622091455152319
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "82",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.2,
+                "total_score": 0.6099122215779622
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "64",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "852",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete",
+                    "item delete"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40991222157796225,
+                "distance_score": 0.2,
+                "total_score": 0.6099122215779622
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "52",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1020",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "item add"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3507184930894228,
+                "distance_score": 0.25,
+                "total_score": 0.6007184930894228
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "37",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1020",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "item add"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3507184930894228,
+                "distance_score": 0.25,
+                "total_score": 0.6007184930894228
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "53",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Move",
+                    "item move"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3214342827580061,
+                "distance_score": 0.25,
+                "total_score": 0.5714342827580061
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "93",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1020",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "item add"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3507184930894228,
+                "distance_score": 0.2,
+                "total_score": 0.5507184930894229
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "36",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1020",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "item add"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3507184930894228,
+                "distance_score": 0.2,
+                "total_score": 0.5507184930894229
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "70",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Move",
+                    "item move"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3214342827580061,
+                "distance_score": 0.2,
+                "total_score": 0.5214342827580061
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "65",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Move",
+                    "item move"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3214342827580061,
+                "distance_score": 0.2,
+                "total_score": 0.5214342827580061
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "69",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1112",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100017",
+                    "Yellowstone United States"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2713581194991344,
+                "distance_score": 0.25,
+                "total_score": 0.5213581194991344
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "99",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2212",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "80",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "73",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1708",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "66",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1372",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "62",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "700",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "60",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1204",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "51",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1540",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "41",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2044",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "39",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "532",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "34",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1036",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "17",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "868",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2358",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1876",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "97",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "700",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "86",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1708",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "81",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1204",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "72",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2044",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "67",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1372",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "56",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1876",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "47",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1036",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "46",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1540",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "42",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "868",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "35",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "23",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "532",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2212",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2358",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.34530665344212147,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5119733201087882
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "18",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1112",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100017",
+                    "Yellowstone United States"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2713581194991344,
+                "distance_score": 0.2,
+                "total_score": 0.4713581194991344
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "25",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1648",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100017",
+                    "Yellowstone United States"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2713581194991344,
+                "distance_score": 0.2,
+                "total_score": 0.4713581194991344
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "40",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.13473807552677142,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.46807140886010473
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "90",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100082",
+                    "Valencia Spain"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1635178547010611,
+                "distance_score": 0.25,
+                "total_score": 0.41351785470106106
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.16164535163497976,
+                "distance_score": 0.25,
+                "total_score": 0.41164535163497973
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "68",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "576",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100063",
+                    "Yang Zhuo Yong Cuo, Tibet China"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.11512038126174501,
+                "distance_score": 0.25,
+                "total_score": 0.365120381261745
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100082",
+                    "Valencia Spain"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1635178547010611,
+                "distance_score": 0.2,
+                "total_score": 0.3635178547010611
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "49",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.16164535163497976,
+                "distance_score": 0.2,
+                "total_score": 0.3616453516349798
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.16164535163497976,
+                "distance_score": 0.2,
+                "total_score": 0.3616453516349798
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "27",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Close"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.11823510754852637,
+                "distance_score": 0.2,
+                "total_score": 0.31823510754852635
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "96",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1648",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100031",
+                    "Victoria Australia"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.06810883720041183,
+                "distance_score": 0.25,
+                "total_score": 0.31810883720041183
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "77",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "576",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100063",
+                    "Yang Zhuo Yong Cuo, Tibet China"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.11512038126174501,
+                "distance_score": 0.2,
+                "total_score": 0.315120381261745
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "6",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "576",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100063",
+                    "Yang Zhuo Yong Cuo, Tibet China"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.11512038126174501,
+                "distance_score": 0.2,
+                "total_score": 0.315120381261745
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "29",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.09157097841584869,
+                "distance_score": 0.2,
+                "total_score": 0.29157097841584867
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "88",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1648",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100031",
+                    "Victoria Australia"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.06810883720041183,
+                "distance_score": 0.2,
+                "total_score": 0.26810883720041184
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "83",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "#100031",
+                    "Victoria Australia"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.06810883720041183,
+                "distance_score": 0.2,
+                "total_score": 0.26810883720041184
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "560",
+                "tgt_y": "168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "100",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1876",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "98",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1204",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "95",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1036",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "87",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1540",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "79",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "868",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "78",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "532",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "58",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1372",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "48",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2358",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "21",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "1708",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2044",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "700",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "clicking",
+                "action": "CLICK",
+                "target_word": "genericItem sample",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In v2.5.1 of the sample on the play store,  clicking the genericItem sample closes the app.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "112",
+                "tgt_y": "2212",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "radiobutton"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ]
+]

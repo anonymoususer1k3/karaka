@@ -1,0 +1,5224 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "237",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "134",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "104",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "346",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "288",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "90",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "80",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "108",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "42",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "331",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "85",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "352",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "245",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "225",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "143",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "163",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "102",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "88",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "6",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 1.1666666666666667
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "317",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.125,
+                "total_score": 1.125
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "89",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.125,
+                "total_score": 1.125
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "188",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.125,
+                "total_score": 1.125
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "149",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "841",
+                "tgt_y": "1201",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Night mode",
+                    "OFF",
+                    "switch compat"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.125,
+                "total_score": 1.125
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.5,
+                "total_score": 0.9696603492360185
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "279",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.5,
+                "total_score": 0.9375568197262927
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "201",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1369",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5899948657164389,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9233281990497721
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "39",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.5,
+                "total_score": 0.9180903711156763
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "255",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1719",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Disable all animations and use safer method for drawing cards. E-ink devices may require this.",
+                    "Safe display mode"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.7020170243820086,
+                "distance_score": 0.2,
+                "total_score": 0.9020170243820087
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "362",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.5,
+                "total_score": 0.8747342599288026
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "270",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.5,
+                "total_score": 0.8747342599288026
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "297",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1252",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "You must log in to a third party account to use the cloud sync service. You can create one in the next step.",
+                    "md content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5187329452369164,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8520662785702497
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "187",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Select timescale",
+                    "action time chooser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5916137350600461,
+                "distance_score": 0.25,
+                "total_score": 0.8416137350600461
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "46",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1369",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5899948657164389,
+                "distance_score": 0.25,
+                "total_score": 0.8399948657164389
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1141",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Deck options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49025577988244884,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8235891132157822
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "181",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1949",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Disable screen timeout",
+                    "Keep screen on"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6163511200734852,
+                "distance_score": 0.2,
+                "total_score": 0.8163511200734852
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "292",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8029936825693518
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "335",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8029936825693518
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "272",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8029936825693518
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "336",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.770890153059626
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "211",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.770890153059626
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "96",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.770890153059626
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1369",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5899948657164389,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.7566615323831055
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "234",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "1369",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5899948657164389,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.7566615323831055
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "200",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Create filtered deck"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4220830455295317,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.755416378862865
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "325",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7514237044490096
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "280",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7514237044490096
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "252",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7514237044490096
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "300",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7514237044490096
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "179",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1433",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "INTERVALS"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5013174897366235,
+                "distance_score": 0.25,
+                "total_score": 0.7513174897366235
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "101",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1241",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "REVIEW TIME"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4916984286735001,
+                "distance_score": 0.25,
+                "total_score": 0.7416984286735001
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "161",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.23851587621121345,
+                "distance_score": 0.5,
+                "total_score": 0.7385158762112134
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "14",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1295",
+                "tgt_y": "2308",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "HELP",
+                    "snackbar action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40489244297446536,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7382257763077986
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "138",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1235",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "This may take a long time with large media collections",
+                    "md content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.48652512061125847,
+                "distance_score": 0.25,
+                "total_score": 0.7365251206112584
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "145",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Select timescale",
+                    "action time chooser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5916137350600461,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.7344708779171889
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "52",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "791",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Automatically fetch missing media when syncing",
+                    "Fetch media on sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5334660246765603,
+                "distance_score": 0.2,
+                "total_score": 0.7334660246765603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "132",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "1022",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Manage note types"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3976695787834359,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7310029121167692
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "91",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1077",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Automatic synchronization",
+                    "Sync automatically on app start/exit if the last sync was more than 10 minutes ago."
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5239620215617644,
+                "distance_score": 0.2,
+                "total_score": 0.7239620215617644
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "372",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "AnkiDroid",
+                    "General settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4727252490151989,
+                "distance_score": 0.25,
+                "total_score": 0.722725249015199
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "116",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "924",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Gestures",
+                    "Use taps and swipes instead of buttons"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4711235844501724,
+                "distance_score": 0.25,
+                "total_score": 0.7211235844501724
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "151",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.25,
+                "total_score": 0.7196603492360185
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "233",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Check media"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3853662779175574,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7186996112508908
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "235",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "740",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Appearance",
+                    "Change themes and default font"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4682163436430405,
+                "distance_score": 0.25,
+                "total_score": 0.7182163436430404
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "17",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2308",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "This deck is empty"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3834685285626346,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.716801861895968
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "286",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "1527",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Create deck",
+                    "add deck action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37818760038489696,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7115209337182302
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "248",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1108",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Advanced",
+                    "Optimization and experimental features"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4607511197247863,
+                "distance_score": 0.25,
+                "total_score": 0.7107511197247862
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "180",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1235",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "This may take a long time",
+                    "md content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4594838816665309,
+                "distance_score": 0.25,
+                "total_score": 0.709483881666531
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "210",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.708067593262136
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "247",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.708067593262136
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "349",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.708067593262136
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "94",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1410",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "This is a special deck for studying outside of the normal schedule. Cards will be automatically returned to their original decks after you review them. Deleting this deck from the deck list will return all remaining cards to their original deck.",
+                    "studyoptions deck description"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5406789551563923,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.7073456218230589
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "367",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7069014891151412
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "291",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7069014891151412
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "2206",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "fab expand menu button"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.19738925793194387,
+                "distance_score": 0.5,
+                "total_score": 0.6973892579319438
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "307",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1080",
+                "tgt_y": "322",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Answer",
+                    "browser column2 spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44491487275159364,
+                "distance_score": 0.25,
+                "total_score": 0.6949148727515937
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "239",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "360",
+                "tgt_y": "322",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Question",
+                    "browser column1 spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44491487275159364,
+                "distance_score": 0.25,
+                "total_score": 0.6949148727515937
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "182",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.25,
+                "total_score": 0.6875568197262927
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "305",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.25,
+                "total_score": 0.6875568197262927
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "341",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "41",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "266",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "359",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "240",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "278",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6729151568524374
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "365",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "220",
+                "tgt_y": "476",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort field",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4725052989254808,
+                "distance_score": 0.2,
+                "total_score": 0.6725052989254808
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "197",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "808",
+                "tgt_y": "382",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Type:",
+                    "note type spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.42024041503172566,
+                "distance_score": 0.25,
+                "total_score": 0.6702404150317256
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "202",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.2,
+                "total_score": 0.6696603492360185
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "236",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.2,
+                "total_score": 0.6696603492360185
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "232",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "686",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Empty cards"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3354776033146824,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6688109366480157
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.25,
+                "total_score": 0.6680903711156763
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "97",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1048",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add note",
+                    "action add card from card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4119168849901602,
+                "distance_score": 0.25,
+                "total_score": 0.6619168849901602
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "110",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Search",
+                    "action search"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40998608891523025,
+                "distance_score": 0.25,
+                "total_score": 0.6599860889152303
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "147",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2034",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Type answer into the card",
+                    "Use a text input box inside the card to type in the answer"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.45762602662335655,
+                "distance_score": 0.2,
+                "total_score": 0.6576260266233566
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "260",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1393",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Deck options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49025577988244884,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6569224465491155
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "637",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Decks"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3210673466301754,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6544006799635087
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "44",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "1744",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Get shared decks",
+                    "add shared action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32103366403348843,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6543669973668218
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "178",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1597",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Help make Chrome better by sending usage statistics and crash reports to Google.",
+                    "send report checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4022230045317795,
+                "distance_score": 0.25,
+                "total_score": 0.6522230045317795
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "214",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "435",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Assign gestures to actions such as answering and editing cards.",
+                    "Enable gestures"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.45153280407332325,
+                "distance_score": 0.2,
+                "total_score": 0.6515328040733233
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "71",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "608",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0 cards shown",
+                    "Default",
+                    "toolbar spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40131777823285614,
+                "distance_score": 0.25,
+                "total_score": 0.6513177782328561
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "170",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "762",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Default",
+                    "Statistics",
+                    "toolbar spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40131777823285614,
+                "distance_score": 0.25,
+                "total_score": 0.6513177782328561
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "78",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "556",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Non-deck-specific reviewer settings",
+                    "Reviewing"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40092837333487297,
+                "distance_score": 0.25,
+                "total_score": 0.650928373334873
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "209",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1477",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete deck"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.31688445722808545,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6502177905614188
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "203",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "854",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Restore from backup"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3165968901126637,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6499302234459969
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "195",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1631",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Export deck"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.31499826518045976,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6483315985137931
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "363",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "1961",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add",
+                    "add note action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3117112551428262,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6450445884761595
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "304",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1433",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "INTERVALS"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5013174897366235,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.6441746325937663
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Save",
+                    "action save"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3896880302916163,
+                "distance_score": 0.25,
+                "total_score": 0.6396880302916164
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "332",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "350",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Check database"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3051579551695859,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6384912885029193
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "244",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.2,
+                "total_score": 0.6375568197262927
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "174",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.2,
+                "total_score": 0.6375568197262927
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "276",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "973",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Statistics"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30350180893183254,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6368351422651659
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "231",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "973",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Statistics"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30350180893183254,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6368351422651659
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "150",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6363270159026851
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "45",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Synchronization",
+                    "action sync"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.46966034923601846,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6363270159026851
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "324",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1241",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "REVIEW TIME"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4916984286735001,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.634555571530643
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "37",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1235",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Your collection will be replaced with an older copy. Any unsaved progress will be lost.",
+                    "md content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.38390454319364586,
+                "distance_score": 0.25,
+                "total_score": 0.6339045431936459
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "100",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "126",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Deck options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49025577988244884,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.6331129227395917
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "167",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1356",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Add note type",
+                    "action add new note type"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.38197773571365623,
+                "distance_score": 0.25,
+                "total_score": 0.6319777357136562
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "199",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "810",
+                "tgt_y": "550",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Deck:",
+                    "note deck spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37947267929850237,
+                "distance_score": 0.25,
+                "total_score": 0.6294726792985024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "295",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2034",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Share feature usage",
+                    "You can contribute to AnkiDroid by helping the development team see which features people use"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.42927266996676444,
+                "distance_score": 0.2,
+                "total_score": 0.6292726699667645
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "253",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "719",
+                "tgt_y": "1501",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "RESET PASSWORD",
+                    "reset password button"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3785126323974633,
+                "distance_score": 0.25,
+                "total_score": 0.6285126323974632
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "75",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "1524",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Create deck",
+                    "add deck action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37818760038489696,
+                "distance_score": 0.25,
+                "total_score": 0.628187600384897
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "DeckPickerHoriz",
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.25,
+                "total_score": 0.6247342599288026
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "722",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "706",
+                "tgt_y": "1235",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Default"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.25,
+                "total_score": 0.6247342599288026
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "141",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1367",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Reschedule",
+                    "Reschedule cards based on my answers in this deck"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4235785273284694,
+                "distance_score": 0.2,
+                "total_score": 0.6235785273284694
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "334",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.25,
+                "total_score": 0.6235681557818078
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "274",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.25,
+                "total_score": 0.6235681557818078
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "329",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1041",
+                "tgt_y": "462",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "deck life"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4220025342417842,
+                "distance_score": 0.2,
+                "total_score": 0.6220025342417842
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "361",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.2,
+                "total_score": 0.6180903711156763
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "105",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.2,
+                "total_score": 0.6180903711156763
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "366",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Empty",
+                    "action empty"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4425104939100527,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6091771605767193
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "217",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "1309",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Custom study"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2738572058720769,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6071905392054102
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "140",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6042234863929594
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6042234863929594
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "287",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.6042234863929594
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "66",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "664",
+                "tgt_y": "973",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Rename deck"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.26702631412310207,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6003596474564354
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "70",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1139",
+                "tgt_y": "1467",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "LOG IN",
+                    "md buttonDefaultPositive"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.25921600019068414,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5925493335240175
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "43",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "173",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "342",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "358",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "219",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "302",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "284",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "254",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "55",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "301",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "289",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "315",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "697",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "678",
+                "tgt_y": "1059",
+                "x_path": "",
+                "resource_id": "com.ichi2.anki:id/id_note_editText",
+                "text_representation": [
+                    "Back",
+                    "id note editText"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.33958182351910404,
+                "distance_score": 0.25,
+                "total_score": 0.589581823519104
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "611",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1058",
+                "x_path": "",
+                "resource_id": "com.ichi2.anki:id/password",
+                "text_representation": [
+                    "Password",
+                    "password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3388600810077313,
+                "distance_score": 0.25,
+                "total_score": 0.5888600810077314
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "333",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "360",
+                "tgt_y": "322",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Question",
+                    "browser column1 spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44491487275159364,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.5877720156087365
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "153",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1080",
+                "tgt_y": "322",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Answer",
+                    "browser column2 spinner"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44491487275159364,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.5877720156087365
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "137",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.584757037782343
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "256",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1303",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "0",
+                    "counts layout"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4180903711156763,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.584757037782343
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "226",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1027",
+                "tgt_y": "1302",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Export collection"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.24811273095932196,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5814460642926553
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "299",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43755681972629273,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.5804139625834356
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "264",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1592",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Define custom steps"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3782484831475897,
+                "distance_score": 0.2,
+                "total_score": 0.5782484831475897
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1255",
+                "tgt_y": "1527",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Create deck",
+                    "add deck action"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37818760038489696,
+                "distance_score": 0.2,
+                "total_score": 0.5781876003848969
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "125",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1103",
+                "tgt_y": "1450",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "CONTINUE",
+                    "md buttonDefaultPositive"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.324838100460969,
+                "distance_score": 0.25,
+                "total_score": 0.5748381004609691
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "229",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "552",
+                "tgt_y": "280",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Default",
+                    "dropdown deck name"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.2,
+                "total_score": 0.5747342599288027
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "103",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "670",
+                "tgt_y": "494",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Default",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37473425992880266,
+                "distance_score": 0.2,
+                "total_score": 0.5747342599288027
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "353",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.2,
+                "total_score": 0.5735681557818079
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Switch",
+                "action": "CLICK",
+                "target_word": "Night Mode",
+                "text": "",
+                "input_value": "",
+                "sentence": "Switch on Night Mode.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "192",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "490",
+                "tgt_y": "805",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Card browser"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.37356815578180785,
+                "distance_score": 0.2,
+                "total_score": 0.5735681557818079
+            }
+        }
+    ]
+]

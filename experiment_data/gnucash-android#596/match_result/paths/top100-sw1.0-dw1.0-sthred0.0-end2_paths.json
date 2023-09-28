@@ -1,0 +1,264 @@
+[
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1288",
+            "end_x": "5",
+            "end_y": "1288"
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "713",
+            "tgt_y": "1172",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "USD",
+                "text1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1288",
+            "end_x": "5",
+            "end_y": "1288"
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "360",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Back",
+                "btn cancel"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1387",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Default Currency",
+                "list"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1080",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Next",
+                "btn save"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "713",
+            "tgt_y": "656",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CHF",
+                "text1"
+            ]
+        }
+    ]
+]

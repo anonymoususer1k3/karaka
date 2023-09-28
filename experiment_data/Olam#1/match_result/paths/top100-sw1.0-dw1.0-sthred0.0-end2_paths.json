@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": " ",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1328",
+            "tgt_y": "224",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "imageButton"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": " ",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1328",
+            "tgt_y": "224",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "imageButton"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": " ",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": " ",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "818",
+            "tgt_y": "223",
+            "resource_id": "com.olam:id/editText1",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "Type an English word",
+                "editText1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1328",
+            "tgt_y": "224",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "imageButton"
+            ]
+        }
+    ]
+]

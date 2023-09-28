@@ -1,0 +1,54 @@
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-29] App ID: gnucash-android#596
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5558
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/gnucash-android#596
+06/06/2023 12:38:46 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 419
+06/06/2023 12:38:46 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for gnucash-android#596
+06/06/2023 12:38:46 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 12:38:47 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 12:38:47 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for recdroid_52...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.026533126831054688 seconds.
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 1 matches.
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 5.745887756347656e-05 seconds.
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.026060819625854492 seconds.
+06/06/2023 12:38:47 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 10 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 12:38:48 __init__:218] [pid:98252] atx-agent has something wrong, auto recovering
+[D 230606 12:38:48 __init__:322] [pid:98252] [emulator-5558] device emulator-5558 is online
+[I 230606 12:38:48 init:156] uiautomator2 version: 2.16.13
+[D 230606 12:38:48 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 12:38:48 init:346] Install atx-agent 0.10.0
+[D 230606 12:38:48 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 12:38:48 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 12:38:48 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 12:38:48 init:350] Check atx-agent version
+[D 230606 12:38:48 init:359] Forward: local:tcp:58069 -> remote:tcp:7912
+[D 230606 12:38:48 init:359] Forward: local:tcp:58069 -> remote:tcp:7912
+[D 230606 12:38:48 init:362] atx-agent version 0.10.0
+[D 230606 12:38:48 init:365] device wlan ip: route ip+net: no such network interface
+06/06/2023 12:38:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 12:38:48 __init__:661] [pid:98252] [emulator-5558] kill process(ps): uiautomator
+[D 230606 12:38:49 __init__:392] [pid:98252] [emulator-5558] Install app-uiautomator.apk
+[D 230606 12:38:50 __init__:392] [pid:98252] [emulator-5558] Install app-uiautomator-test.apk
+[D 230606 12:38:51 __init__:682] [pid:98252] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 12:38:52 __init__:682] [pid:98252] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 12:38:52 __init__:696] [pid:98252] [emulator-5558] show float window
+[D 230606 12:38:53 __init__:682] [pid:98252] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230606 12:38:54 __init__:682] [pid:98252] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230606 12:38:54 __init__:643] [pid:98252] [emulator-5558] uiautomator back to normal
+06/06/2023 12:38:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:38:54 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 12:38:56 __init__:1375] [pid:98252] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:39:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:39:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.gnucash.android', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:39:01 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.556579828262329
+06/06/2023 12:39:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 12:39:05 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 10.551573514938354 seconds.
+06/06/2023 12:39:05 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 0.
+06/06/2023 12:39:05 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

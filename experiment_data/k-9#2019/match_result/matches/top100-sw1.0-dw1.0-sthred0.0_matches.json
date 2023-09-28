@@ -1,0 +1,649 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "361",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "723",
+                "tgt_y": "166",
+                "resource_id": "android:id/search_src_text",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "   Search",
+                    "Search",
+                    "search src text"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "145",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1459",
+                "resource_id": "com.fsck.k9.debug:id/message_content",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Message text",
+                    "message content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4225737371045819,
+                "distance_score": 0.25,
+                "total_score": 0.6725737371045819
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1638",
+                "resource_id": "com.fsck.k9.debug:id/message_content",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Message text",
+                    "message content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4225737371045819,
+                "distance_score": 0.2,
+                "total_score": 0.6225737371045819
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1356",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1459",
+                "resource_id": "com.fsck.k9.debug:id/message_content",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Message text",
+                    "message content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4225737371045819,
+                "distance_score": 0.2,
+                "total_score": 0.6225737371045819
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "319",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1638",
+                "resource_id": "com.fsck.k9.debug:id/message_content",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Message text",
+                    "message content"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4225737371045819,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5892404037712485
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "643",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "2240",
+                "resource_id": "com.fsck.k9.debug:id/lower_signature",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.",
+                    "lower signature"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.33192614018459704,
+                "distance_score": 0.25,
+                "total_score": 0.581926140184597
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "970",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "713",
+                "tgt_y": "1147",
+                "resource_id": "com.fsck.k9.debug:id/account_password",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Password",
+                    "account password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.41285788617321006,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5795245528398767
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "174",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "713",
+                "tgt_y": "989",
+                "resource_id": "com.fsck.k9.debug:id/account_email",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Email address",
+                    "account email"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4101699909462217,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5768366576128884
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "418",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "739",
+                "resource_id": "com.fsck.k9.debug:id/subject",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Subject",
+                    "subject"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3257593102814229,
+                "distance_score": 0.25,
+                "total_score": 0.5757593102814229
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "664",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "713",
+                "tgt_y": "1147",
+                "resource_id": "com.fsck.k9.debug:id/account_password",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Password",
+                    "account password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.41285788617321006,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.555715029030353
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "479",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "713",
+                "tgt_y": "989",
+                "resource_id": "com.fsck.k9.debug:id/account_email",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Email address",
+                    "account email"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4101699909462217,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.5530271338033645
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "373",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "2240",
+                "resource_id": "com.fsck.k9.debug:id/lower_signature",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.",
+                    "lower signature"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.33192614018459704,
+                "distance_score": 0.2,
+                "total_score": 0.531926140184597
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "709",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "2240",
+                "resource_id": "com.fsck.k9.debug:id/lower_signature",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.",
+                    "lower signature"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.33192614018459704,
+                "distance_score": 0.2,
+                "total_score": 0.531926140184597
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "599",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1097",
+                "resource_id": "com.fsck.k9.debug:id/subject",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Subject",
+                    "subject"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3257593102814229,
+                "distance_score": 0.2,
+                "total_score": 0.5257593102814229
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "336",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "739",
+                "resource_id": "com.fsck.k9.debug:id/subject",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Subject",
+                    "subject"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3257593102814229,
+                "distance_score": 0.2,
+                "total_score": 0.5257593102814229
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "172",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "2240",
+                "resource_id": "com.fsck.k9.debug:id/lower_signature",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.",
+                    "lower signature"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.33192614018459704,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.4985928068512637
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "",
+                "action": "INPUT",
+                "target_word": "search",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": null,
+                "sentence": "application crashes when I search.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "235",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1097",
+                "resource_id": "com.fsck.k9.debug:id/subject",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "Subject",
+                    "subject"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3257593102814229,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.49242597694808954
+            }
+        }
+    ]
+]

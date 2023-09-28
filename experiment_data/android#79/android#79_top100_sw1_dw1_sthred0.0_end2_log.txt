@@ -1,0 +1,1181 @@
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-31] **************** TOOL Started ****************
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-32] App ID: android#79
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-36] Report Type: Non-Crash
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-37] Max Emulator Limit: 1
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-38] Output Dir: ~/android#79
+06/17/2023 07:23:17 [INFO] [reproduce:main] [tool_main.py-39] Random Seed: 827
+06/17/2023 07:23:17 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for android#79
+06/17/2023 07:23:17 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/17/2023 07:23:17 [DEBUG] [reproduce:gui-model] [gui_model.py-397] Initializing the shortest paths between nodes...
+06/17/2023 07:27:33 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Done...
+06/17/2023 07:27:33 [DEBUG] [reproduce:gui-model] [gui_model.py-420] Initializing edge reachability information...
+06/17/2023 07:27:34 [DEBUG] [reproduce:gui-model] [gui_model.py-432] Done...
+06/17/2023 07:28:03 [INFO] [reproduce:match-finder] [match_finder.py-500] Starting finding matches for saner2022_76...
+06/17/2023 07:28:03 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/17/2023 07:28:36 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/17/2023 07:28:36 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 33.18400502204895 seconds.
+06/17/2023 07:28:36 [INFO] [reproduce:match-finder] [match_finder.py-152] Identifying best matches using  algorithm with N=100...
+06/17/2023 07:28:44 [INFO] [reproduce:match-finder] [match_finder.py-171] Identified 4254 matches.
+06/17/2023 07:28:44 [INFO] [reproduce:match-finder] [match_finder.py-173]  Matching Time: 8.74630331993103 seconds.
+06/17/2023 07:28:44 [INFO] [reproduce:match-finder] [match_finder.py-367] Dumping all matches...
+06/17/2023 07:28:45 [INFO] [reproduce:match-finder] [match_finder.py-509] Starting inferring event sequences from best matches...
+06/17/2023 07:28:45 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 100 paths. Stop Searching to prevent exceeding memory limit.
+06/17/2023 07:28:45 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.0008726119995117188 seconds.
+06/17/2023 07:28:45 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 101 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+06/17/2023 07:28:45 [INFO] [reproduce:main] [tool_main.py-68] Combining paths from all matches into one batch since only allowing one emulator.
+06/17/2023 07:28:45 [INFO] [reproduce:main] [tool_main.py-71] Executing paths on 1 emulators/threads in parallelism.
+06/17/2023 07:28:45 [INFO] [reproduce:main] [tool_main.py-87] Finished executing 0/1 match ...
+06/17/2023 07:28:45 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-94] Starting Emulator...
+06/17/2023 07:28:45 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -accel-check
+accel:
+0
+KVM (version 12) is installed and usable.
+accel
+06/17/2023 07:28:45 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-174] Hardware acceleration is available.
+06/17/2023 07:28:45 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb start-server
+06/17/2023 07:28:45 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-208] Installing system images
+06/17/2023 07:28:45 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-28;google_apis;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/17/2023 07:28:48 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-28;default;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/17/2023 07:28:49 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-187] Creating AVD device
+06/17/2023 07:28:49 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -list-avds | grep Android973famkyo2w
+06/17/2023 07:28:49 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager create avd -n "Android973famkyo2w" -k "system-images;android-28;google_apis;x86" -d "Nexus 6"
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=======================================] 100% Fetch remote repository...       Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlAuto-selecting single ABI x86
+06/17/2023 07:28:51 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-200] Created new avd on Android 9 named with Android973famkyo2w
+06/17/2023 07:28:51 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -avd Android973famkyo2w -port 5564 -no-window    
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath ~/Sdk/system-images/android-28/google_apis/x86/
+INFO    | Crashreporting disabled, not reporting crashes.
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | added library ~/Sdk/emulator/lib64/vulkan/libvulkan.so
+Could not init `pa' audio driver
+INFO    | Setting display: 0 configuration to: 1440x2560, dpi: 560x560 
+INFO    | Boot completed in 48883 ms
+INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+INFO    | Revoking microphone permissions for Google App.
+06/17/2023 07:30:11 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb devices | grep emulator-5564
+emulator-5564	device
+06/17/2023 07:30:11 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-127] Emulator Android973famkyo2w started on port 5564
+06/17/2023 07:30:11 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5564 install -r /tmp/tmpol9qw1qi/reproduction_utils/libs/nullkeyboard.apk
+Performing Streamed Install
+Success
+06/17/2023 07:30:12 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-139] nullkeyboard.apk installed
+06/17/2023 07:30:12 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5564 shell ime set com.wparam.nullkeyboard/.NullKeyboard
+06/17/2023 07:30:12 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-148] Trying to kill emulator with pid: 702510
+06/17/2023 07:30:12 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-219] Deleting created emulator
+06/17/2023 07:30:12 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager delete avd -n "Android973famkyo2w"
+Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlDeleting file ~/.android/avd/Android973famkyo2w.ini
+Deleting folder ~/.android/avd/Android973famkyo2w.avd
+
+AVD 'Android973famkyo2w' deleted.
+06/17/2023 07:30:14 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-225] Deleted avd Android973famkyo2w
+06/17/2023 07:30:14 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-164] Cleaned up emulators
+06/17/2023 07:30:14 [WARNING] [reproduce:main] [tool_main.py-121] Thread for match 0 threw exception: Command adb -s emulator-5564 shell ime set com.wparam.nullkeyboard/.NullKeyboard failed to run: b'\nException occurred while executing:\njava.lang.IllegalArgumentException: Unknown id: com.wparam.nullkeyboard/.NullKeyboard\n\tat com.android.server.InputMethodManagerService.setInputMethodLocked(InputMethodManagerService.java:2509)\n\tat com.android.server.InputMethodManagerService.setInputMethodWithSubtypeIdLocked(InputMethodManagerService.java:3282)\n\tat com.android.server.InputMethodManagerService.setInputMethodWithSubtypeId(InputMethodManagerService.java:3261)\n\tat com.android.server.InputMethodManagerService.setInputMethod(InputMethodManagerService.java:3011)\n\tat com.android.server.InputMethodManagerService.handleShellCommandSetInputMethod(InputMethodManagerService.java:4985)\n\tat com.android.server.InputMethodManagerService.access$1700(InputMethodManagerService.java:181)\n\tat com.android.server.InputMethodManagerService$ShellCommandImpl.onCommand(InputMethodManagerService.java:4757)\n\tat android.os.ShellCommand.exec(ShellCommand.java:103)\n\tat com.android.server.InputMethodManagerService.onShellCommand(InputMethodManagerService.java:4719)\n\tat android.os.Binder.shellCommand(Binder.java:634)\n\tat android.os.Binder.onTransact(Binder.java:532)\n\tat com.android.internal.view.IInputMethodManager$Stub.onTransact(IInputMethodManager.java:486)\n\tat com.android.server.InputMethodManagerService.onTransact(InputMethodManagerService.java:1497)\n\tat android.os.Binder.execTransact(Binder.java:731)\n'. Retrying.
+06/17/2023 07:30:14 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-94] Starting Emulator...
+06/17/2023 07:30:14 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -accel-check
+accel:
+0
+KVM (version 12) is installed and usable.
+accel
+06/17/2023 07:30:14 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-174] Hardware acceleration is available.
+06/17/2023 07:30:14 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb start-server
+06/17/2023 07:30:14 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-208] Installing system images
+06/17/2023 07:30:14 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-28;google_apis;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/17/2023 07:30:15 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-28;default;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/17/2023 07:30:17 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-187] Creating AVD device
+06/17/2023 07:30:17 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -list-avds | grep Android9x070etp2av
+06/17/2023 07:30:17 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager create avd -n "Android9x070etp2av" -k "system-images;android-28;google_apis;x86" -d "Nexus 6"
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=======================================] 100% Fetch remote repository...       Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlAuto-selecting single ABI x86
+06/17/2023 07:30:19 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-200] Created new avd on Android 9 named with Android9x070etp2av
+06/17/2023 07:30:19 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -avd Android9x070etp2av -port 5564 -no-window    
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath ~/Sdk/system-images/android-28/google_apis/x86/
+INFO    | Crashreporting disabled, not reporting crashes.
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | added library ~/Sdk/emulator/lib64/vulkan/libvulkan.so
+Could not init `pa' audio driver
+INFO    | Setting display: 0 configuration to: 1440x2560, dpi: 560x560 
+INFO    | Boot completed in 37619 ms
+INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+INFO    | Revoking microphone permissions for Google App.
+06/17/2023 07:31:39 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb devices | grep emulator-5564
+emulator-5564	device
+06/17/2023 07:31:39 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-127] Emulator Android9x070etp2av started on port 5564
+06/17/2023 07:31:39 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5564 install -r /tmp/tmpol9qw1qi/reproduction_utils/libs/nullkeyboard.apk
+Performing Streamed Install
+Success
+06/17/2023 07:31:39 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-139] nullkeyboard.apk installed
+06/17/2023 07:31:39 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5564 shell ime set com.wparam.nullkeyboard/.NullKeyboard
+Input method com.wparam.nullkeyboard/.NullKeyboard  selected
+06/17/2023 07:31:39 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-144] Emulator is configured to hide keyboard.
+[W 230617 19:31:39 __init__:218] [pid:702386] atx-agent has something wrong, auto recovering
+[D 230617 19:31:39 __init__:322] [pid:702386] [emulator-5564] device emulator-5564 is online
+[I 230617 19:31:39 init:156] uiautomator2 version: 2.16.13
+[D 230617 19:31:39 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230617 19:31:40 init:346] Install atx-agent 0.10.0
+[D 230617 19:31:40 init:59] Use cached assets: ~/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230617 19:31:40 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230617 19:31:40 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230617 19:31:40 init:350] Check atx-agent version
+[D 230617 19:31:40 init:359] Forward: local:tcp:49417 -> remote:tcp:7912
+[D 230617 19:31:40 init:359] Forward: local:tcp:49417 -> remote:tcp:7912
+[D 230617 19:31:40 init:362] atx-agent version 0.10.0
+[D 230617 19:31:40 init:365] device wlan ip: 192.168.232.2
+06/17/2023 07:31:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230617 19:31:40 __init__:661] [pid:702386] [emulator-5564] kill process(ps): uiautomator
+[D 230617 19:31:40 __init__:392] [pid:702386] [emulator-5564] Install app-uiautomator.apk
+[D 230617 19:31:40 __init__:392] [pid:702386] [emulator-5564] Install app-uiautomator-test.apk
+[D 230617 19:31:41 __init__:682] [pid:702386] [emulator-5564] uiautomator-v2 is starting ... left: 40.0s
+[D 230617 19:31:42 __init__:682] [pid:702386] [emulator-5564] uiautomator-v2 is starting ... left: 39.0s
+[D 230617 19:31:42 __init__:696] [pid:702386] [emulator-5564] show float window
+[D 230617 19:31:43 __init__:682] [pid:702386] [emulator-5564] uiautomator-v2 is starting ... left: 37.9s
+[D 230617 19:31:44 __init__:682] [pid:702386] [emulator-5564] uiautomator-v2 is starting ... left: 36.8s
+[D 230617 19:31:45 __init__:682] [pid:702386] [emulator-5564] uiautomator-v2 is starting ... left: 35.8s
+[I 230617 19:31:45 __init__:643] [pid:702386] [emulator-5564] uiautomator back to normal
+06/17/2023 07:31:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.google.android.apps.nexuslauncher', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:31:45 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 0 from match 0.
+[D 230617 19:31:46 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:31:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:31:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:31:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.058610916137695
+06/17/2023 07:31:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:31:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1577)
+06/17/2023 07:32:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:03 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 1 from match 0.
+[D 230617 19:32:06 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:32:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:32:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:32:19 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.180920362472534
+06/17/2023 07:32:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:32:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:32:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:25 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 2 from match 0.
+[D 230617 19:32:27 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:32:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:32:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:32:39 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.707891464233398
+06/17/2023 07:32:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:32:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1815)
+06/17/2023 07:32:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:32:44 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 3 from match 0.
+[D 230617 19:32:46 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:32:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:32:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:32:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.417747735977173
+06/17/2023 07:32:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:32:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1998)
+06/17/2023 07:33:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:03 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 4 from match 0.
+[D 230617 19:33:06 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:33:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:33:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:33:17 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.413928508758545
+06/17/2023 07:33:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:33:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1161)
+06/17/2023 07:33:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:23 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 5 from match 0.
+[D 230617 19:33:24 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:33:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:33:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:33:36 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.910829544067383
+06/17/2023 07:33:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:33:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:33:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:42 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 6 from match 0.
+[D 230617 19:33:44 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:33:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:33:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:33:55 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.223129987716675
+06/17/2023 07:33:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:33:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:33:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:33:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:01 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 7 from match 0.
+[D 230617 19:34:03 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:34:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:34:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:34:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.70203685760498
+06/17/2023 07:34:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:34:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:34:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:19 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 8 from match 0.
+[D 230617 19:34:21 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:34:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:34:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:34:34 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.292102575302124
+06/17/2023 07:34:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:34:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 07:34:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:39 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 9 from match 0.
+[D 230617 19:34:42 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:34:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:34:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:34:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.51071047782898
+06/17/2023 07:34:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:34:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 07:34:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:34:59 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 10 from match 0.
+[D 230617 19:35:01 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:35:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:35:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:35:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.960508584976196
+06/17/2023 07:35:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:35:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 779)
+06/17/2023 07:35:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:19 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 11 from match 0.
+[D 230617 19:35:21 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:35:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:35:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:35:33 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.600831031799316
+06/17/2023 07:35:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:35:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1195)
+06/17/2023 07:35:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:38 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 12 from match 0.
+[D 230617 19:35:40 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:35:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:35:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:35:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.054749727249146
+06/17/2023 07:35:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:35:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1909)
+06/17/2023 07:35:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:35:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 13 from match 0.
+[D 230617 19:36:00 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:36:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:36:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:36:11 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.9685378074646
+06/17/2023 07:36:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:36:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1433)
+06/17/2023 07:36:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:17 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 14 from match 0.
+[D 230617 19:36:19 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:36:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:36:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:36:31 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.380283832550049
+06/17/2023 07:36:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:36:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1671)
+06/17/2023 07:36:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 15 from match 0.
+[D 230617 19:36:38 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:36:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:36:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:36:50 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.568943977355957
+06/17/2023 07:36:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:36:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1291)
+06/17/2023 07:36:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:36:56 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 16 from match 0.
+[D 230617 19:36:58 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:37:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:37:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:37:08 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.325690746307373
+06/17/2023 07:37:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:37:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:37:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 17 from match 0.
+[D 230617 19:37:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:37:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:37:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:37:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.262131690979004
+06/17/2023 07:37:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:37:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:37:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:34 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 18 from match 0.
+[D 230617 19:37:36 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:37:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:37:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:37:48 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.132446050643921
+06/17/2023 07:37:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:37:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1767)
+06/17/2023 07:37:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:37:53 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 19 from match 0.
+[D 230617 19:37:56 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:38:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:38:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:38:07 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.779884099960327
+06/17/2023 07:38:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:38:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 07:38:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:13 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 20 from match 0.
+[D 230617 19:38:15 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:38:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:38:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:38:27 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.93286657333374
+06/17/2023 07:38:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:38:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 07:38:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:32 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 21 from match 0.
+[D 230617 19:38:34 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:38:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:38:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:38:47 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.117892265319824
+06/17/2023 07:38:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:38:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:38:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:38:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 22 from match 0.
+[D 230617 19:38:55 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:39:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:39:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:39:07 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.974308490753174
+06/17/2023 07:39:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (373, 2082)
+06/17/2023 07:39:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (468, 364)
+06/17/2023 07:39:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 745)
+06/17/2023 07:39:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:15 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 23 from match 0.
+[D 230617 19:39:17 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:39:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:39:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:39:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.00115156173706
+06/17/2023 07:39:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (373, 2082)
+06/17/2023 07:39:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (468, 364)
+06/17/2023 07:39:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 2180)
+06/17/2023 07:39:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 24 from match 0.
+[D 230617 19:39:39 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:39:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:39:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:39:51 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.095475912094116
+06/17/2023 07:39:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (373, 2082)
+06/17/2023 07:39:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (468, 364)
+06/17/2023 07:39:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1745)
+06/17/2023 07:39:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:39:59 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 25 from match 0.
+[D 230617 19:40:01 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:40:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:40:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:40:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.679905414581299
+06/17/2023 07:40:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (373, 2082)
+06/17/2023 07:40:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (468, 364)
+06/17/2023 07:40:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1329)
+06/17/2023 07:40:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:21 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 26 from match 0.
+[D 230617 19:40:23 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:40:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:40:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:40:35 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.710633277893066
+06/17/2023 07:40:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (373, 2082)
+06/17/2023 07:40:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (468, 364)
+06/17/2023 07:40:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1983)
+06/17/2023 07:40:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:40:43 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 27 from match 0.
+[D 230617 19:40:46 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:40:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:40:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:40:57 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.441869020462036
+06/17/2023 07:40:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:40:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (79, 2112)
+06/17/2023 07:41:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1577)
+06/17/2023 07:41:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:05 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 28 from match 0.
+[D 230617 19:41:08 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:41:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:41:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:41:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.1883544921875
+06/17/2023 07:41:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:41:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:41:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1577)
+06/17/2023 07:41:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 29 from match 0.
+[D 230617 19:41:30 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:41:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:41:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:41:42 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.774158239364624
+06/17/2023 07:41:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/17/2023 07:41:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:41:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1577)
+06/17/2023 07:41:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:41:50 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 30 from match 0.
+[D 230617 19:41:52 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:42:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:42:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:42:04 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.450798511505127
+06/17/2023 07:42:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:42:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (79, 2112)
+06/17/2023 07:42:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:42:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:12 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 31 from match 0.
+[D 230617 19:42:14 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:42:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:42:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:42:26 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.591263771057129
+06/17/2023 07:42:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:42:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:42:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:42:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:34 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 32 from match 0.
+[D 230617 19:42:36 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:42:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:42:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:42:49 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.202057361602783
+06/17/2023 07:42:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/17/2023 07:42:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:42:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:42:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:42:57 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 33 from match 0.
+[D 230617 19:42:58 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:43:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:43:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:43:10 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.752805471420288
+06/17/2023 07:43:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:43:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (79, 2112)
+06/17/2023 07:43:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1815)
+06/17/2023 07:43:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:18 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 34 from match 0.
+[D 230617 19:43:20 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:43:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:43:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:43:31 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.151322364807129
+06/17/2023 07:43:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:43:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:43:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1815)
+06/17/2023 07:43:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:39 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 35 from match 0.
+[D 230617 19:43:41 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:43:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.205702543258667
+06/17/2023 07:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/17/2023 07:43:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:43:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:43:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1815)
+06/17/2023 07:43:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:01 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 36 from match 0.
+[D 230617 19:44:03 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:44:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:44:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:44:15 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.280323266983032
+06/17/2023 07:44:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:44:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (79, 2112)
+06/17/2023 07:44:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1998)
+06/17/2023 07:44:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:23 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 37 from match 0.
+[D 230617 19:44:25 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:44:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:44:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:44:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.119209289550781
+06/17/2023 07:44:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:44:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:44:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1998)
+06/17/2023 07:44:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:44:45 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 38 from match 0.
+[D 230617 19:44:47 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:44:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:44:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:44:59 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.71337080001831
+06/17/2023 07:45:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/17/2023 07:45:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:45:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1998)
+06/17/2023 07:45:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:07 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 39 from match 0.
+[D 230617 19:45:09 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:45:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:45:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:45:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.601863861083984
+06/17/2023 07:45:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:45:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (79, 2112)
+06/17/2023 07:45:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1161)
+06/17/2023 07:45:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:30 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 40 from match 0.
+[D 230617 19:45:32 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:45:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:45:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:45:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.063990116119385
+06/17/2023 07:45:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:45:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:45:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1161)
+06/17/2023 07:45:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:45:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 41 from match 0.
+[D 230617 19:45:53 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:46:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:46:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:46:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.322391986846924
+06/17/2023 07:46:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/17/2023 07:46:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:46:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1161)
+06/17/2023 07:46:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 42 from match 0.
+[D 230617 19:46:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:46:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:46:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:46:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.371350288391113
+06/17/2023 07:46:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:46:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:46:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:46:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:38 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 43 from match 0.
+[D 230617 19:46:40 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:46:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:46:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:46:52 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.640169382095337
+06/17/2023 07:46:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:46:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:46:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:46:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:46:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:00 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 44 from match 0.
+[D 230617 19:47:02 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:47:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:47:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:47:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.76467514038086
+06/17/2023 07:47:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:47:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:47:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:47:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 45 from match 0.
+[D 230617 19:47:24 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:47:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:47:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:47:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.493027925491333
+06/17/2023 07:47:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:47:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:47:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:47:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:47:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 46 from match 0.
+[D 230617 19:47:48 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:48:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:48:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:48:00 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.271143436431885
+06/17/2023 07:48:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:48:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:48:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:48:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 47 from match 0.
+[D 230617 19:48:10 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:48:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.98570966720581
+06/17/2023 07:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:48:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:48:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:48:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 48 from match 0.
+[D 230617 19:48:31 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:48:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:48:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:48:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.807626247406006
+06/17/2023 07:48:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:48:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:48:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:48:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:48:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 49 from match 0.
+[D 230617 19:48:54 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:49:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:49:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:49:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.876136302947998
+06/17/2023 07:49:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:49:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:49:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:49:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 50 from match 0.
+[D 230617 19:49:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:49:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:49:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:49:27 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.145771503448486
+06/17/2023 07:49:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:49:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:49:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:49:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:35 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 51 from match 0.
+[D 230617 19:49:38 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:49:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:49:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:49:50 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.948979139328003
+06/17/2023 07:49:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:49:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 577)
+06/17/2023 07:49:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:49:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:49:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 52 from match 0.
+[D 230617 19:49:59 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:50:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:50:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:50:11 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.424211502075195
+06/17/2023 07:50:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:50:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('720', '577'))
+06/17/2023 07:50:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:50:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:20 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 53 from match 0.
+[D 230617 19:50:22 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:50:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:50:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:50:34 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.867619037628174
+06/17/2023 07:50:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:50:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:50:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1529)
+06/17/2023 07:50:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:42 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 54 from match 0.
+[D 230617 19:50:45 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:50:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:50:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:50:57 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.72130274772644
+06/17/2023 07:50:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:50:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:50:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:51:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:51:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 55 from match 0.
+[D 230617 19:51:08 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:51:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:51:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:51:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.199147462844849
+06/17/2023 07:51:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:51:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:51:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:51:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 56 from match 0.
+[D 230617 19:51:31 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:51:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:51:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:51:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.901372194290161
+06/17/2023 07:51:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:51:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:51:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:51:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:51:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 57 from match 0.
+[D 230617 19:51:53 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:52:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:52:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:52:04 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.451519966125488
+06/17/2023 07:52:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:52:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:52:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:52:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:13 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 58 from match 0.
+[D 230617 19:52:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:52:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:52:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:52:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.383513927459717
+06/17/2023 07:52:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:52:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:52:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:52:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 59 from match 0.
+[D 230617 19:52:38 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:52:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:52:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:52:52 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.378227710723877
+06/17/2023 07:52:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:52:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:52:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:52:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:52:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:00 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 60 from match 0.
+[D 230617 19:53:02 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:53:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:53:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:53:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.336609363555908
+06/17/2023 07:53:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:53:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:53:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:53:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:23 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 61 from match 0.
+[D 230617 19:53:25 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:53:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:53:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:53:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.24226999282837
+06/17/2023 07:53:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:53:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:53:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:53:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:53:45 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 62 from match 0.
+[D 230617 19:53:47 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:53:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:53:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:53:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.28162956237793
+06/17/2023 07:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:53:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:54:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:54:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 63 from match 0.
+[D 230617 19:54:09 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:54:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:54:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:54:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.46592402458191
+06/17/2023 07:54:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:54:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 577)
+06/17/2023 07:54:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:54:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 64 from match 0.
+[D 230617 19:54:31 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:54:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:54:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:54:42 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.475816488265991
+06/17/2023 07:54:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:54:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('720', '577'))
+06/17/2023 07:54:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:54:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:54:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 65 from match 0.
+[D 230617 19:54:53 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:55:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:55:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:55:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.206481456756592
+06/17/2023 07:55:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:55:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:55:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 577)
+06/17/2023 07:55:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 66 from match 0.
+[D 230617 19:55:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:55:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:55:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:55:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.636355876922607
+06/17/2023 07:55:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:55:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:55:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:55:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:37 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 67 from match 0.
+[D 230617 19:55:39 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:55:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:55:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:55:52 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.453584432601929
+06/17/2023 07:55:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:55:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:55:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:55:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:55:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:00 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 68 from match 0.
+[D 230617 19:56:02 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:56:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:56:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:56:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.38879108428955
+06/17/2023 07:56:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:56:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:56:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:56:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 69 from match 0.
+[D 230617 19:56:24 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:56:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:56:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:56:35 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.444740533828735
+06/17/2023 07:56:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:56:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:56:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:56:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:56:44 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 70 from match 0.
+[D 230617 19:56:47 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:56:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:56:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:56:59 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.367109060287476
+06/17/2023 07:57:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:57:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:57:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:57:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:07 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 71 from match 0.
+[D 230617 19:57:09 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:57:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.589905500411987
+06/17/2023 07:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:57:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:57:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:57:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 72 from match 0.
+[D 230617 19:57:31 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:57:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:57:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:57:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.418643236160278
+06/17/2023 07:57:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:57:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 07:57:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:57:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:57:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 73 from match 0.
+[D 230617 19:57:54 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:58:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:58:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:58:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.209845066070557
+06/17/2023 07:58:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:58:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 07:58:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:58:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:15 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 74 from match 0.
+[D 230617 19:58:17 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:58:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:58:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:58:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.704979658126831
+06/17/2023 07:58:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:58:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 07:58:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:58:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 75 from match 0.
+[D 230617 19:58:39 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:58:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:58:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:58:51 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.132083177566528
+06/17/2023 07:58:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:58:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 577)
+06/17/2023 07:58:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:58:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:58:59 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 76 from match 0.
+[D 230617 19:59:01 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:59:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:59:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:59:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.802414178848267
+06/17/2023 07:59:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:59:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:59:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('720', '577'))
+06/17/2023 07:59:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:59:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:59:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 77 from match 0.
+[D 230617 19:59:25 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:59:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:59:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:59:36 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.510045766830444
+06/17/2023 07:59:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:59:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:59:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:59:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:59:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1053)
+06/17/2023 07:59:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 07:59:45 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 78 from match 0.
+[D 230617 19:59:46 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 07:59:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 07:59:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 07:59:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.089819192886353
+06/17/2023 07:59:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 07:59:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:00:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:00:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:07 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 79 from match 0.
+[D 230617 20:00:08 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:00:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:00:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:00:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.96889328956604
+06/17/2023 08:00:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:00:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:00:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:00:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 80 from match 0.
+[D 230617 20:00:31 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:00:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:00:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:00:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.780153751373291
+06/17/2023 08:00:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:00:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:00:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:00:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:00:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 81 from match 0.
+[D 230617 20:00:54 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:01:05 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.822962760925293
+06/17/2023 08:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:01:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:01:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:01:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 82 from match 0.
+[D 230617 20:01:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:01:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:01:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:01:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.884518146514893
+06/17/2023 08:01:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:01:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:01:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:01:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 83 from match 0.
+[D 230617 20:01:38 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:01:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:01:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:01:50 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.699140787124634
+06/17/2023 08:01:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:01:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:01:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:01:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:01:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 84 from match 0.
+[D 230617 20:02:00 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:02:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:02:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:02:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.973514318466187
+06/17/2023 08:02:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:02:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:02:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:02:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:02:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:02:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 85 from match 0.
+[D 230617 20:02:24 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:02:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:02:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:02:35 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.227864503860474
+06/17/2023 08:02:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:02:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:02:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:02:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:02:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:02:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:02:43 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 86 from match 0.
+[D 230617 20:02:46 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:02:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:02:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:02:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.993536949157715
+06/17/2023 08:02:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:02:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:03:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:03:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 87 from match 0.
+[D 230617 20:03:08 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:03:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:03:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:03:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.479502201080322
+06/17/2023 08:03:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:03:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 577)
+06/17/2023 08:03:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:03:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 88 from match 0.
+[D 230617 20:03:30 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:03:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:03:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:03:42 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.546013355255127
+06/17/2023 08:03:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:03:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('720', '577'))
+06/17/2023 08:03:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:03:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:03:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 89 from match 0.
+[D 230617 20:03:53 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:04:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:04:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:04:05 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.252982139587402
+06/17/2023 08:04:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:04:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:04:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 815)
+06/17/2023 08:04:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:13 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 90 from match 0.
+[D 230617 20:04:16 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:04:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:04:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:04:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.116406440734863
+06/17/2023 08:04:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:04:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:04:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:04:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:37 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 91 from match 0.
+[D 230617 20:04:39 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:04:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:04:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:04:52 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.646403312683105
+06/17/2023 08:04:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:04:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:04:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:04:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:04:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:00 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 92 from match 0.
+[D 230617 20:05:02 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:05:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:05:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:05:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.45794939994812
+06/17/2023 08:05:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:05:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:05:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:05:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 93 from match 0.
+[D 230617 20:05:24 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:05:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:05:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:05:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.39137601852417
+06/17/2023 08:05:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:05:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:05:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:05:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:05:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 94 from match 0.
+[D 230617 20:05:48 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:06:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:06:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:06:00 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.475394248962402
+06/17/2023 08:06:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:06:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:06:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:06:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 95 from match 0.
+[D 230617 20:06:10 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:06:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:06:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:06:22 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.925477981567383
+06/17/2023 08:06:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:06:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:06:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:06:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:31 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 96 from match 0.
+[D 230617 20:06:33 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:06:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:06:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:06:44 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.428805828094482
+06/17/2023 08:06:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:06:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2191) to (720,2033)
+06/17/2023 08:06:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:06:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:06:53 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 97 from match 0.
+[D 230617 20:06:55 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:07:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:07:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:07:08 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.708613395690918
+06/17/2023 08:07:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:07:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (789, 2112)
+06/17/2023 08:07:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:07:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:16 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 98 from match 0.
+[D 230617 20:07:18 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:07:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:07:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:07:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.225335121154785
+06/17/2023 08:07:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:07:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/17/2023 08:07:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:07:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:37 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 99 from match 0.
+[D 230617 20:07:39 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:07:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:07:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:07:51 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.517213821411133
+06/17/2023 08:07:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:07:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 577)
+06/17/2023 08:07:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:07:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:07:59 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 100 from match 0.
+[D 230617 20:08:01 __init__:1375] [pid:702386] pm install -r -t /data/local/tmp/_tmp.apk
+06/17/2023 08:08:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/17/2023 08:08:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.genonbeta.TrebleShot', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86_arm', 'screenOn': True, 'sdkInt': 28, 'naturalOrientation': True}
+06/17/2023 08:08:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 14.1085684299469
+06/17/2023 08:08:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2294)
+06/17/2023 08:08:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:08:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('720', '577'))
+06/17/2023 08:08:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1321, 1974)
+06/17/2023 08:08:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/17/2023 08:08:22 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-148] Trying to kill emulator with pid: 703346
+06/17/2023 08:08:22 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-219] Deleting created emulator
+06/17/2023 08:08:22 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager delete avd -n "Android9x070etp2av"
+Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlDeleting file ~/.android/avd/Android9x070etp2av.ini
+Deleting folder ~/.android/avd/Android9x070etp2av.avd
+
+AVD 'Android9x070etp2av' deleted.
+06/17/2023 08:08:25 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-225] Deleted avd Android9x070etp2av
+06/17/2023 08:08:25 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-164] Cleaned up emulators
+06/17/2023 08:08:25 [INFO] [reproduce:main] [tool_main.py-87] Finished executing 1/1 match ...
+06/17/2023 08:08:25 [INFO] [reproduce:main] [tool_main.py-93] **************** TOOL Ended. Please manually determine if the bug report is reproduced or not. ****************

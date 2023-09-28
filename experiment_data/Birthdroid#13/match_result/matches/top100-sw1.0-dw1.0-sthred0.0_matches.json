@@ -1,0 +1,4242 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "15",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1158",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Display birthdays in the next n days",
+                    "Foresight period"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8593599380814182,
+                "distance_score": 0.25,
+                "total_score": 1.1093599380814183
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.5,
+                "total_score": 0.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5750124373275075,
+                "distance_score": 0.5,
+                "total_score": 1.0750124373275076
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "15",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1158",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Display birthdays in the next n days",
+                    "Foresight period"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8593599380814182,
+                "distance_score": 0.25,
+                "total_score": 1.1093599380814183
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "14",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "590",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Flip cycle interval",
+                    "Flip to next contact every n seconds"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5792878170813992,
+                "distance_score": 0.2,
+                "total_score": 0.7792878170813993
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.5,
+                "total_score": 0.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "168",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5750124373275075,
+                "distance_score": 0.5,
+                "total_score": 1.0750124373275076
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "24",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1069",
+                "tgt_y": "336",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5312705344067831,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8646038677401164
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "24",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1069",
+                "tgt_y": "336",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5312705344067831,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8646038677401164
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "27",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1610",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Adjust layout settings",
+                    "Layout settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49218077434436336,
+                "distance_score": 0.25,
+                "total_score": 0.7421807743443634
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "818",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Adjust layout settings",
+                    "Layout settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49218077434436336,
+                "distance_score": 0.25,
+                "total_score": 0.7421807743443634
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "27",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1610",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Adjust layout settings",
+                    "Layout settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49218077434436336,
+                "distance_score": 0.25,
+                "total_score": 0.7421807743443634
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "590",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "How to sort order of results",
+                    "Sort by..."
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5866124964279873,
+                "distance_score": 0.2,
+                "total_score": 0.7866124964279873
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "17",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "816",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "How to sort order of results",
+                    "Sort by..."
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5866124964279873,
+                "distance_score": 0.2,
+                "total_score": 0.7866124964279873
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "14",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "590",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Flip cycle interval",
+                    "Flip to next contact every n seconds"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5792878170813992,
+                "distance_score": 0.2,
+                "total_score": 0.7792878170813993
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "590",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "How to sort order of results",
+                    "Sort by..."
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5866124964279873,
+                "distance_score": 0.2,
+                "total_score": 0.7866124964279873
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "17",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "816",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "How to sort order of results",
+                    "Sort by..."
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5866124964279873,
+                "distance_score": 0.2,
+                "total_score": 0.7866124964279873
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "818",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Adjust layout settings",
+                    "Layout settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.49218077434436336,
+                "distance_score": 0.25,
+                "total_score": 0.7421807743443634
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "1384",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.25,
+                "total_score": 0.532546253081766
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1384",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open Birthdroid upon click on widget?",
+                    "Widget clickable?"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2676340093916873,
+                "distance_score": 0.25,
+                "total_score": 0.5176340093916874
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1069",
+                "tgt_y": "506",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "About"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32683003105219066,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.660163364385524
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1353",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "age of person",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40628885075041493,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5729555174170816
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "21",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.2,
+                "total_score": 0.4825462530817659
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1069",
+                "tgt_y": "506",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "About"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32683003105219066,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.660163364385524
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.14285714285714285,
+                "total_score": 0.14285714285714285
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "18",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "6",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5949381870935796
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "19",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "1384",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.25,
+                "total_score": 0.532546253081766
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1183",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "days left",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.36374295465596646,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5304096213226331
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "29",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1353",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "age of person",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40628885075041493,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5729555174170816
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1353",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "age of person",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40628885075041493,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5729555174170816
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1384",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open Birthdroid upon click on widget?",
+                    "Widget clickable?"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2676340093916873,
+                "distance_score": 0.25,
+                "total_score": 0.5176340093916874
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "6",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5949381870935796
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "7",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.42827152042691297
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "29",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1353",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "age of person",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.40628885075041493,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5729555174170816
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "405",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.2,
+                "total_score": 0.40549870324372217
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "21",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.2,
+                "total_score": 0.4825462530817659
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "20",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.2,
+                "total_score": 0.4825462530817659
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "3",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1183",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "days left",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.36374295465596646,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5304096213226331
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1183",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "days left",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.36374295465596646,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5304096213226331
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "18",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "19",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.2,
+                "total_score": 0.4616048537602463
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.25,
+                "total_score": 0.5116048537602462
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "32",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.25,
+                "total_score": 0.5116048537602462
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "23",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "405",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.37216536991038884
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "3",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1183",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "days left",
+                    "text1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.36374295465596646,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.5304096213226331
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "20",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1265",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2825462530817659,
+                "distance_score": 0.2,
+                "total_score": 0.4825462530817659
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.42827152042691297
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "7",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.42827152042691297
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.25,
+                "total_score": 0.5116048537602462
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "32",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.25,
+                "total_score": 0.5116048537602462
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "405",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.2,
+                "total_score": 0.40549870324372217
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.2616048537602463,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.42827152042691297
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1523",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.37216536991038884
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "23",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "405",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.37216536991038884
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1523",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Cancel",
+                    "button2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.20549870324372216,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.37216536991038884
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1034",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1034",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1034",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "set",
+                "action": "CLICK",
+                "target_word": "foresight period value",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "set foresight period value as any 11 digit number crashed the application",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1034",
+                "tgt_y": "1466",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.16666666666666666,
+                "total_score": 0.16666666666666666
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "say",
+                "action": "INPUT",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "111111111111",
+                "sentence": "say \"111111111111\"",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "INPUT",
+                "tgt_x": "720",
+                "tgt_y": "1243",
+                "resource_id": "android:id/edit",
+                "x_path": "",
+                "input_value": "None",
+                "text_representation": [
+                    "5",
+                    "edit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ]
+]

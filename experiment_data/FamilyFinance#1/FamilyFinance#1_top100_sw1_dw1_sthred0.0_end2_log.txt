@@ -1,0 +1,192 @@
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-29] App ID: FamilyFinance#1
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5568
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/FamilyFinance#1
+06/06/2023 12:30:54 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 514
+06/06/2023 12:30:54 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for FamilyFinance#1
+06/06/2023 12:30:54 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 12:30:54 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 12:30:55 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 12:30:56 [INFO] [reproduce:match-finder] [match_finder.py-497] Starting finding matches for saner2022_2...
+06/06/2023 12:30:56 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 12:30:56 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 12:30:56 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.0010008811950683594 seconds.
+06/06/2023 12:30:56 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 12:32:30 [INFO] [reproduce:match-finder] [match_finder.py-168] Identified 350 matches.
+06/06/2023 12:32:30 [INFO] [reproduce:match-finder] [match_finder.py-170]  Matching Time: 94.70770454406738 seconds.
+06/06/2023 12:32:30 [INFO] [reproduce:match-finder] [match_finder.py-360] Dumping all matches...
+06/06/2023 12:32:30 [INFO] [reproduce:match-finder] [match_finder.py-506] Starting inferring event sequences from best matches...
+06/06/2023 12:32:31 [INFO] [reproduce:match-finder] [match_finder.py-512] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/06/2023 12:32:31 [INFO] [reproduce:match-finder] [match_finder.py-515] Path Identification Time: 0.2246379852294922 seconds.
+06/06/2023 12:32:31 [INFO] [reproduce:match-finder] [match_finder.py-516] Identified 6570 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 00:33:49 __init__:218] [pid:14891] atx-agent has something wrong, auto recovering
+[D 230606 00:33:49 __init__:322] [pid:14891] [emulator-5568] device emulator-5568 is online
+[I 230606 00:33:49 init:156] uiautomator2 version: 2.16.13
+[D 230606 00:33:49 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 00:33:49 init:346] Install atx-agent 0.10.0
+[D 230606 00:33:49 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 00:33:49 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 00:33:49 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 00:33:49 init:350] Check atx-agent version
+[D 230606 00:33:49 init:359] Forward: local:tcp:44289 -> remote:tcp:7912
+[D 230606 00:33:50 init:359] Forward: local:tcp:44289 -> remote:tcp:7912
+[D 230606 00:33:50 init:362] atx-agent version 0.10.0
+[D 230606 00:33:50 init:365] device wlan ip: route ip+net: no such network interface
+06/06/2023 12:33:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 00:33:50 __init__:661] [pid:14891] [emulator-5568] kill process(ps): uiautomator
+[D 230606 00:33:50 __init__:392] [pid:14891] [emulator-5568] Install app-uiautomator.apk
+[D 230606 00:33:51 __init__:392] [pid:14891] [emulator-5568] Install app-uiautomator-test.apk
+[D 230606 00:33:53 __init__:682] [pid:14891] [emulator-5568] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 00:33:54 __init__:682] [pid:14891] [emulator-5568] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 00:33:54 __init__:696] [pid:14891] [emulator-5568] show float window
+[D 230606 00:33:55 __init__:682] [pid:14891] [emulator-5568] uiautomator-v2 is starting ... left: 37.6s
+[D 230606 00:33:56 __init__:682] [pid:14891] [emulator-5568] uiautomator-v2 is starting ... left: 36.6s
+[I 230606 00:33:56 __init__:643] [pid:14891] [emulator-5568] uiautomator back to normal
+06/06/2023 12:33:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:33:56 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 00:33:58 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:34:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:34:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:34:03 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.187707424163818
+06/06/2023 12:34:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:34:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:34:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:34:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:34:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (427, 1303)
+06/06/2023 12:34:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1191)
+06/06/2023 12:34:23 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 26.906296968460083 seconds.
+06/06/2023 12:34:23 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230606 00:34:25 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:34:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:34:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:34:30 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.834585905075073
+06/06/2023 12:34:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:34:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:34:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:34:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:34:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:34:47 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 50.73945093154907 seconds.
+06/06/2023 12:34:47 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230606 00:34:49 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:34:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:34:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:34:54 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.759487628936768
+06/06/2023 12:34:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:34:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:35:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:35:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:35:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (427, 1191)
+06/06/2023 12:35:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1194, 1499)
+06/06/2023 12:35:14 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 77.93884587287903 seconds.
+06/06/2023 12:35:14 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230606 00:35:16 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:35:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:35:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:35:21 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.82861328125
+06/06/2023 12:35:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:35:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:35:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:35:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:35:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (946, 1499)
+06/06/2023 12:35:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (98, 182)
+06/06/2023 12:35:42 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 105.58512449264526 seconds.
+06/06/2023 12:35:42 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230606 00:35:44 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:35:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:35:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:35:50 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.012113332748413
+06/06/2023 12:35:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:35:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:36:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:36:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:36:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (946, 1499)
+06/06/2023 12:36:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:36:14 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 137.9907579421997 seconds.
+06/06/2023 12:36:14 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230606 00:36:16 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:36:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:36:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:36:23 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.2884557247161865
+06/06/2023 12:36:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:36:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:36:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:36:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:36:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1194, 1499)
+06/06/2023 12:36:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1160, 182)
+06/06/2023 12:36:42 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 166.30727791786194 seconds.
+06/06/2023 12:36:42 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230606 00:36:44 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:36:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:36:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:36:49 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.228819847106934
+06/06/2023 12:36:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:36:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:36:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:37:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:37:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 12:37:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 191.69009470939636 seconds.
+06/06/2023 12:37:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230606 00:37:09 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:37:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:37:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:37:15 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.618417739868164
+06/06/2023 12:37:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:37:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:37:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:37:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:37:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (946, 1499)
+06/06/2023 12:37:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1160, 182)
+06/06/2023 12:37:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 221.4494867324829 seconds.
+06/06/2023 12:37:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230606 00:37:39 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:37:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:37:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:37:45 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.490126132965088
+06/06/2023 12:37:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:37:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:37:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:37:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:38:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (946, 1499)
+06/06/2023 12:38:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('1160', '182'))
+06/06/2023 12:38:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 251.5192847251892 seconds.
+06/06/2023 12:38:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230606 00:38:09 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:38:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:38:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:38:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.749185800552368
+06/06/2023 12:38:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:38:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:38:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:38:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:38:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1194, 1499)
+06/06/2023 12:38:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (98, 182)
+06/06/2023 12:38:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 281.68125915527344 seconds.
+06/06/2023 12:38:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230606 00:38:40 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:38:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:38:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:38:46 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.286778450012207
+06/06/2023 12:38:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:38:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:38:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:38:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:39:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:39:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (427, 1191)
+06/06/2023 12:39:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (946, 1499)
+06/06/2023 12:39:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 313.6626582145691 seconds.
+06/06/2023 12:39:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 11.
+[D 230606 00:39:11 __init__:1375] [pid:14891] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 12:39:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 12:39:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'io.github.zwieback.familyfinance.debug', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 12:39:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.218034982681274
+06/06/2023 12:39:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1582)
+06/06/2023 12:39:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:39:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Swipe from (1435,1420) to (5,1420)
+06/06/2023 12:39:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1342, 182)
+06/06/2023 12:39:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:39:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1013, 1303)
+06/06/2023 12:39:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1194, 1499)
+06/06/2023 12:39:42 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 11 Time: 345.77873611450195 seconds.
+06/06/2023 12:39:42 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 11.
+06/06/2023 12:39:42 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

@@ -1,0 +1,57 @@
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-29] App ID: ATimeTracker#35
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5558
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/ATimeTracker#35
+06/06/2023 02:10:39 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 79
+06/06/2023 02:10:39 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for ATimeTracker#35
+06/06/2023 02:10:39 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 02:10:39 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 02:10:41 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-497] Starting finding matches for recdroid_58...
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.0008821487426757812 seconds.
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-168] Identified 829 matches.
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-170]  Matching Time: 0.04187607765197754 seconds.
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-360] Dumping all matches...
+06/06/2023 02:10:41 [INFO] [reproduce:match-finder] [match_finder.py-506] Starting inferring event sequences from best matches...
+06/06/2023 02:10:46 [INFO] [reproduce:match-finder] [match_finder.py-512] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/06/2023 02:10:46 [INFO] [reproduce:match-finder] [match_finder.py-515] Path Identification Time: 4.887641906738281 seconds.
+06/06/2023 02:10:46 [INFO] [reproduce:match-finder] [match_finder.py-516] Identified 5001 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 02:12:03 __init__:218] [pid:38446] atx-agent has something wrong, auto recovering
+[D 230606 02:12:03 __init__:322] [pid:38446] [emulator-5558] device emulator-5558 is online
+[I 230606 02:12:03 init:156] uiautomator2 version: 2.16.13
+[D 230606 02:12:03 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 02:12:03 init:346] Install atx-agent 0.10.0
+[D 230606 02:12:03 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 02:12:03 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 02:12:03 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 02:12:03 init:350] Check atx-agent version
+[D 230606 02:12:03 init:359] Forward: local:tcp:41603 -> remote:tcp:7912
+[D 230606 02:12:04 init:359] Forward: local:tcp:41603 -> remote:tcp:7912
+[D 230606 02:12:04 init:362] atx-agent version 0.10.0
+[D 230606 02:12:04 init:365] device wlan ip: route ip+net: no such network interface
+06/06/2023 02:12:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 02:12:04 __init__:661] [pid:38446] [emulator-5558] kill process(ps): uiautomator
+[D 230606 02:12:04 __init__:392] [pid:38446] [emulator-5558] Install app-uiautomator.apk
+[D 230606 02:12:05 __init__:392] [pid:38446] [emulator-5558] Install app-uiautomator-test.apk
+[D 230606 02:12:07 __init__:682] [pid:38446] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 02:12:08 __init__:682] [pid:38446] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 02:12:08 __init__:696] [pid:38446] [emulator-5558] show float window
+[D 230606 02:12:09 __init__:682] [pid:38446] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230606 02:12:10 __init__:682] [pid:38446] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230606 02:12:10 __init__:643] [pid:38446] [emulator-5558] uiautomator back to normal
+06/06/2023 02:12:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 02:12:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 02:12:11 __init__:1375] [pid:38446] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 02:12:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 02:12:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.markuspage.android.atimetracker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/06/2023 02:12:15 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 4.2368505001068115
+06/06/2023 02:12:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1370, 182)
+06/06/2023 02:12:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1083, 518)
+06/06/2023 02:12:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1322)
+06/06/2023 02:12:25 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 15.042914152145386 seconds.
+06/06/2023 02:12:25 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 0.
+06/06/2023 02:12:25 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

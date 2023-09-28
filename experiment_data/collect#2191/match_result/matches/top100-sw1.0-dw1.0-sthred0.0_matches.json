@@ -1,0 +1,4307 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "112",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.25,
+                "total_score": 1.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1710",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open source libraries/licenses",
+                    "We stand on the shoulders of giants!"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.822185840873693,
+                "distance_score": 0.25,
+                "total_score": 1.072185840873693
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "82",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "767",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Fill Blank Form",
+                    "enter data"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5066329246432697,
+                "distance_score": 0.5,
+                "total_score": 1.0066329246432697
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "102",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2109",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete Saved Form",
+                    "manage forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4785001992927699,
+                "distance_score": 0.5,
+                "total_score": 0.9785001992927699
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "36",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1025",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Edit Saved Form",
+                    "review data"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.45428826899349944,
+                "distance_score": 0.5,
+                "total_score": 0.9542882689934995
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "106",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1283",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Send Finalized Form",
+                    "send data"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.43481117641206607,
+                "distance_score": 0.5,
+                "total_score": 0.9348111764120661
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "71",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4123922648018417,
+                "distance_score": 0.5,
+                "total_score": 0.9123922648018417
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "14",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1541",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "View Sent Form",
+                    "view sent forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.38639683585010764,
+                "distance_score": 0.5,
+                "total_score": 0.8863968358501076
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "23",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5529136971698126,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.886247030503146
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "350",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "General Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.528104951711798,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.8614382850451314
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "51",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "456",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "General Settings",
+                    "Tap for admin access to settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5582424792863272,
+                "distance_score": 0.25,
+                "total_score": 0.8082424792863272
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "35",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "895",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "All settings (internal settings, saved settings)",
+                    "preferences"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6035256005149054,
+                "distance_score": 0.2,
+                "total_score": 0.8035256005149054
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "48",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1752",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Tap to manage general settings items",
+                    "User Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5507157607608281,
+                "distance_score": 0.25,
+                "total_score": 0.8007157607608281
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "47",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2034",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Form Entry Settings",
+                    "Tap to manage form entry items"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5480435760384494,
+                "distance_score": 0.25,
+                "total_score": 0.7980435760384494
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "63",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Saved forms (instances folder, instances database)",
+                    "instances"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5699367483970538,
+                "distance_score": 0.2,
+                "total_score": 0.7699367483970538
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "43",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "735",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Form management"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5183823917215813,
+                "distance_score": 0.25,
+                "total_score": 0.7683823917215813
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "114",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "567",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "User interface"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5143425282794998,
+                "distance_score": 0.25,
+                "total_score": 0.7643425282794998
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "58",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1851",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Get Blank Form",
+                    "get forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2602835942174911,
+                "distance_score": 0.5,
+                "total_score": 0.760283594217491
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "56",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "399",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Server"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5048304430532481,
+                "distance_score": 0.25,
+                "total_score": 0.7548304430532481
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "76",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "903",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "User and device identity"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5046769598724744,
+                "distance_score": 0.25,
+                "total_score": 0.7546769598724744
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "62",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4123922648018417,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.745725598135175
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "81",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1283",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Blank forms (forms folder, forms database, itemsets database)",
+                    "forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.543388461820635,
+                "distance_score": 0.2,
+                "total_score": 0.743388461820635
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "34",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1470",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Main Menu Settings",
+                    "Tap to manage main menu items"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4905807002753998,
+                "distance_score": 0.25,
+                "total_score": 0.7405807002753998
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "96",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1454",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Form load cache (.cache folder)",
+                    "cache"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5268495719861638,
+                "distance_score": 0.2,
+                "total_score": 0.7268495719861638
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "125",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7244927541846603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "42",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7244927541846603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "70",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1202",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7244927541846603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "78",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7244927541846603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "118",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7244927541846603
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "13",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "892",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Reset application\u2026"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.435564274145072,
+                "distance_score": 0.25,
+                "total_score": 0.685564274145072
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "32",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4123922648018417,
+                "distance_score": 0.25,
+                "total_score": 0.6623922648018417
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "40",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1080",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Blank Forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32369539179965384,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6570287251329872
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "92",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1602",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Map layers (layers folder)",
+                    "layers"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.45453241089863683,
+                "distance_score": 0.2,
+                "total_score": 0.6545324108986368
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "80",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1750",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OSM tile cache (osmdroid folder)",
+                    "osmdroid"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.44814649030848297,
+                "distance_score": 0.2,
+                "total_score": 0.648146490308483
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "88",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "695",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.39323224667377726,
+                "distance_score": 0.25,
+                "total_score": 0.6432322466737772
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "117",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1342",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Filter the list",
+                    "menu filter"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.391159420851327,
+                "distance_score": 0.25,
+                "total_score": 0.6411594208513269
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "3",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "360",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Saved Forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3022542508365721,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6355875841699055
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "120",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2145",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Status, finalized first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3494523602739505,
+                "distance_score": 0.25,
+                "total_score": 0.5994523602739505
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "79",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1983",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Name, Z-A"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3269852307314013,
+                "distance_score": 0.25,
+                "total_score": 0.5769852307314013
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "121",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1722",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Name, Z-A"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3269852307314013,
+                "distance_score": 0.25,
+                "total_score": 0.5769852307314013
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "83",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1842",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Name, A-Z"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32698522900266347,
+                "distance_score": 0.25,
+                "total_score": 0.5769852290026635
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "41",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1581",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Name, A-Z"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32698522900266347,
+                "distance_score": 0.25,
+                "total_score": 0.5769852290026635
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2286",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Status, unfinalized first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3239174605695581,
+                "distance_score": 0.25,
+                "total_score": 0.5739174605695581
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "103",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1080",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Blank Forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.32369539179965384,
+                "distance_score": 0.25,
+                "total_score": 0.5736953917996539
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "109",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "360",
+                "tgt_y": "364",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Saved Forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.3022542508365721,
+                "distance_score": 0.25,
+                "total_score": 0.5522542508365721
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "74",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2124",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Date, newest first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.29965784087351627,
+                "distance_score": 0.25,
+                "total_score": 0.5496578408735162
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "37",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1863",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Date, newest first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.29965784087351627,
+                "distance_score": 0.25,
+                "total_score": 0.5496578408735162
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "124",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5486901558411024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "91",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5486901558411024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "67",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5486901558411024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "50",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1006",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5486901558411024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "94",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5486901558411024
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "57",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.5,
+                "total_score": 0.5314037156103131
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "86",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1302",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "55",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1939",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "53",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1375",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "44",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "915",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "49",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1061",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "115",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "554",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "87",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1342",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "68",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "751",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "64",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1145",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "33",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "948",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "100",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1342",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "98",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "751",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "77",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "2327",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "65",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "2130",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "59",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1539",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "25",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "948",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "22",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1933",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "18",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1736",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "11",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "554",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "6",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1145",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "123",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1145",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "97",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1539",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "52",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "413",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "46",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1342",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "28",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "1736",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "20",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "751",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "17",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1328",
+                "tgt_y": "948",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "checkbox"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.30966075105056545,
+                "distance_score": 0.2,
+                "total_score": 0.5096607510505655
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "90",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2308",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Refresh",
+                    "refresh button"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.25701328263741,
+                "distance_score": 0.25,
+                "total_score": 0.5070132826374101
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "119",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.25,
+                "total_score": 0.4653568225077691
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "104",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1146",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Sort the list",
+                    "menu sort"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.21535682250776908,
+                "distance_score": 0.25,
+                "total_score": 0.4653568225077691
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "31",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2265",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Date, oldest first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.18745978920222778,
+                "distance_score": 0.25,
+                "total_score": 0.4374597892022278
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "27",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2004",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Date, oldest first"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.18745978920222778,
+                "distance_score": 0.25,
+                "total_score": 0.4374597892022278
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "404",
+                "tgt_y": "1344",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Show password",
+                    "checkBox2"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.2372856344921453,
+                "distance_score": 0.2,
+                "total_score": 0.4372856344921453
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "10",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1238",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "touch outside"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.17961728540245533,
+                "distance_score": 0.25,
+                "total_score": 0.42961728540245536
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1238",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "touch outside"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.17961728540245533,
+                "distance_score": 0.25,
+                "total_score": 0.42961728540245536
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "60",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "About"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.09040109678197722,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.42373443011531053
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "101",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Collapse"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1505494850704384,
+                "distance_score": 0.25,
+                "total_score": 0.4005494850704384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "39",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Collapse"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1505494850704384,
+                "distance_score": 0.25,
+                "total_score": 0.4005494850704384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "99",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Collapse"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1505494850704384,
+                "distance_score": 0.25,
+                "total_score": 0.4005494850704384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "105",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Collapse"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1505494850704384,
+                "distance_score": 0.25,
+                "total_score": 0.4005494850704384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "111",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Collapse"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.1505494850704384,
+                "distance_score": 0.25,
+                "total_score": 0.4005494850704384
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "38",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3647370489436464
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "15",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3647370489436464
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3647370489436464
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "29",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3647370489436464
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "54",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3647370489436464
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "113",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "72",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "69",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "26",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "21",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "108",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1194",
+                "tgt_y": "1461",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "45",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1194",
+                "tgt_y": "1461",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "OK",
+                    "button1"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "30",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.25,
+                "total_score": 0.2814037156103131
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.25,
+                "total_score": 0.2814037156103131
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "66",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "98",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Navigate up"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.031403715610313056,
+                "distance_score": 0.25,
+                "total_score": 0.2814037156103131
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "128",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "84",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "75",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "61",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "19",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "7",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "95",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "126",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "1",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "110",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "116",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.25,
+                "total_score": 0.25
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Open",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Open Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "73",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": []
+            },
+            "match_score": {
+                "similarity_score": 0.0,
+                "distance_score": 0.2,
+                "total_score": 0.2
+            }
+        }
+    ]
+]

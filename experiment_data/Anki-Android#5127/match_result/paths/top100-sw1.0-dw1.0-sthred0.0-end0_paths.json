@@ -1,0 +1,4135 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Card browser"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "841",
+            "tgt_y": "1201",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Night mode",
+                "OFF",
+                "switch compat"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1108",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Advanced",
+                "Optimization and experimental features"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1719",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Disable all animations and use safer method for drawing cards. E-ink devices may require this.",
+                "Safe display mode"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1252",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "You must log in to a third party account to use the cloud sync service. You can create one in the next step.",
+                "md content"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Select timescale",
+                "action time chooser"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1141",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Deck options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "556",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Non-deck-specific reviewer settings",
+                "Reviewing"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1949",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Disable screen timeout",
+                "Keep screen on"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1433",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "INTERVALS"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1241",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "REVIEW TIME"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1295",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "HELP",
+                "snackbar action"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1295",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "HELP",
+                "snackbar action"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "518",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check media"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1235",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "This may take a long time with large media collections",
+                "md content"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create filtered deck"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Select timescale",
+                "action time chooser"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Rename deck"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "882",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Select timescale",
+                "action time chooser"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1371",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Select timescale",
+                "action time chooser"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1412",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CANCEL",
+                "md buttonDefaultNegative"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "973",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Statistics"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Select timescale",
+                "action time chooser"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "372",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "AnkiDroid",
+                "General settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "791",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Automatically fetch missing media when syncing",
+                "Fetch media on sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "1022",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Manage note types"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "372",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "AnkiDroid",
+                "General settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1077",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Automatic synchronization",
+                "Sync automatically on app start/exit if the last sync was more than 10 minutes ago."
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "372",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "AnkiDroid",
+                "General settings"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "924",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Gestures",
+                "Use taps and swipes instead of buttons"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Synchronization",
+                "action sync"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "518",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check media"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "740",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Appearance",
+                "Change themes and default font"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "This deck is empty"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "This deck is empty"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "2206",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Add",
+                "fab expand menu button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1255",
+            "tgt_y": "1527",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Create deck",
+                "add deck action"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1369",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1108",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Advanced",
+                "Optimization and experimental features"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "350",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Check database"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "664",
+            "tgt_y": "1235",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "This may take a long time",
+                "md content"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Navigate up"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "counts layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "DeckPickerHoriz",
+                "Default"
+            ]
+        }
+    ]
+]

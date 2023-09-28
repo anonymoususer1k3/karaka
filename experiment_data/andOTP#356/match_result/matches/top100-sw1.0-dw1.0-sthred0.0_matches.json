@@ -1,0 +1,258 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "2",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Show password",
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6337121731136584,
+                "distance_score": 0.5,
+                "total_score": 1.1337121731136584
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "0",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Show password",
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6337121731136584,
+                "distance_score": 0.5,
+                "total_score": 1.1337121731136584
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "5",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Show password",
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6337121731136584,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9670455064469916
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "4",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1216",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Show password",
+                    "text input password toggle"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6337121731136584,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.9670455064469916
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "16",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "org.shadowice.flocke.andotp:id/passwordEdit",
+                "text_representation": [
+                    "Password",
+                    "passwordEdit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4044691637895648,
+                "distance_score": 0.5,
+                "total_score": 0.9044691637895648
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "19",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "840",
+                "x_path": "",
+                "resource_id": "org.shadowice.flocke.andotp:id/passwordEdit",
+                "text_representation": [
+                    "Password",
+                    "passwordEdit"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4044691637895648,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.7378024971228981
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "9",
+            "matched_event": {
+                "action": "BACK"
+            },
+            "match_score": {
+                "similarity_score": 0.30373818132040936,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.6370715146537427
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "tap",
+                "action": "CLICK",
+                "target_word": "the input field",
+                "text": "",
+                "input_value": "",
+                "sentence": "tap the input field.",
+                "swipe_direction": "",
+                "scroll_direction": "",
+                "is_decomposed": false
+            },
+            "matched_edge": "8",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1163",
+                "tgt_y": "1008",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "UNLOCK",
+                    "buttonUnlock"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.24520521379186805,
+                "distance_score": 0.3333333333333333,
+                "total_score": 0.5785385471252014
+            }
+        }
+    ]
+]

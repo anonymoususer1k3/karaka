@@ -1,0 +1,153 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "org.shadowice.flocke.andotp:id/passwordEdit",
+            "text_representation": [
+                "Password",
+                "passwordEdit"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "org.shadowice.flocke.andotp:id/passwordEdit",
+            "text_representation": [
+                "Password",
+                "passwordEdit"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Show password",
+                "text input password toggle"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1163",
+            "tgt_y": "1008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "UNLOCK",
+                "buttonUnlock"
+            ]
+        }
+    ]
+]

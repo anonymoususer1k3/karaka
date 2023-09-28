@@ -1,0 +1,451 @@
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-31] **************** TOOL Started ****************
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-32] App ID: LibreNews-Android#27
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-36] Report Type: Crash
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-37] Max Emulator Limit: 1
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-38] Output Dir: ~/ResearchProject/BugReportReproduction~/LibreNews-Android#27
+06/11/2023 02:07:26 [INFO] [reproduce:main] [tool_main.py-39] Random Seed: 17
+06/11/2023 02:07:26 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for LibreNews-Android#27
+06/11/2023 02:07:26 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/11/2023 02:07:26 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/11/2023 02:07:26 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/11/2023 02:07:26 [INFO] [reproduce:match-finder] [match_finder.py-499] Starting finding matches for recdroid_15...
+06/11/2023 02:07:26 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 15.758020877838135 seconds.
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 1577 matches.
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 0.2469785213470459 seconds.
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/11/2023 02:07:42 [INFO] [reproduce:match-finder] [match_finder.py-508] Starting inferring event sequences from best matches...
+06/11/2023 02:07:44 [INFO] [reproduce:match-finder] [match_finder.py-517] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/11/2023 02:07:44 [INFO] [reproduce:match-finder] [match_finder.py-520] Path Identification Time: 1.696286916732788 seconds.
+06/11/2023 02:07:44 [INFO] [reproduce:match-finder] [match_finder.py-521] Identified 5010 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+06/11/2023 02:07:44 [INFO] [reproduce:main] [tool_main.py-67] Combining paths from all matches into one batch since only allowing one emulator.
+06/11/2023 02:07:44 [INFO] [reproduce:main] [tool_main.py-70] Executing paths on 1 emulators/threads in parallelism.
+06/11/2023 02:07:44 [INFO] [reproduce:main] [tool_main.py-86] Finished executing 0/1 match ...
+06/11/2023 02:07:44 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-93] Starting Emulator...
+06/11/2023 02:07:44 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -accel-check
+accel:
+0
+KVM (version 12) is installed and usable.
+accel
+06/11/2023 02:07:44 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-172] Hardware acceleration is available.
+06/11/2023 02:07:44 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb start-server
+06/11/2023 02:07:44 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-206] Installing system images
+06/11/2023 02:07:44 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-23;google_apis;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/11/2023 02:07:49 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-23;default;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/11/2023 02:07:50 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-185] Creating AVD device
+06/11/2023 02:07:50 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -list-avds | grep Android6315y3hpxdj
+06/11/2023 02:07:50 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager create avd -n "Android6315y3hpxdj" -k "system-images;android-23;google_apis;x86" -d "Nexus 6"
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=======================================] 100% Fetch remote repository...       Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlAuto-selecting single ABI x86
+06/11/2023 02:07:53 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-198] Created new avd on Android 6 named with Android6315y3hpxdj
+06/11/2023 02:07:53 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -avd Android6315y3hpxdj -port 5558 -no-window    
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath ~/Sdk/system-images/android-23/google_apis/x86/
+INFO    | Crashreporting disabled, not reporting crashes.
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | added library ~/Sdk/emulator/lib64/vulkan/libvulkan.so
+Could not init `pa' audio driver
+INFO    | Setting display: 0 configuration to: 1440x2560, dpi: 560x560 
+06/11/2023 02:09:13 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb devices | grep emulator-5558
+emulator-5558	device
+06/11/2023 02:09:13 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-126] Emulator Android6315y3hpxdj started on port 5558
+06/11/2023 02:09:13 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5558 install -r /tmp/tmpzpyjbljj/reproduction_utils/libs/nullkeyboard.apk
+Performing Push Install
+/tmp/tmpzpyjbljj/reproduction_utils/libs/nullkeyboard.apk: 1 file pushed, 0 skipped. 188.1 MB/s (19050 bytes in 0.000s)
+	pkg: /data/local/tmp/nullkeyboard.apk
+Success
+06/11/2023 02:09:14 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-137] nullkeyboard.apk installed
+06/11/2023 02:09:14 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5558 shell ime set com.wparam.nullkeyboard/.NullKeyboard
+Input method com.wparam.nullkeyboard/.NullKeyboard selected
+06/11/2023 02:09:14 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-142] Emulator is configured to hide keyboard.
+[W 230611 14:09:14 __init__:218] [pid:2294195] atx-agent has something wrong, auto recovering
+[D 230611 14:09:14 __init__:322] [pid:2294195] [emulator-5558] device emulator-5558 is online
+[I 230611 14:09:14 init:156] uiautomator2 version: 2.16.13
+[D 230611 14:09:14 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230611 14:09:14 init:346] Install atx-agent 0.10.0
+[D 230611 14:09:14 init:59] Use cached assets: ~/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230611 14:09:14 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230611 14:09:14 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230611 14:09:14 init:350] Check atx-agent version
+[D 230611 14:09:14 init:359] Forward: local:tcp:38663 -> remote:tcp:7912
+[D 230611 14:09:15 init:359] Forward: local:tcp:38663 -> remote:tcp:7912
+[D 230611 14:09:15 init:362] atx-agent version 0.10.0
+[D 230611 14:09:15 init:365] device wlan ip: route ip+net: no such network interface
+06/11/2023 02:09:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230611 14:09:15 __init__:661] [pid:2294195] [emulator-5558] kill process(ps): uiautomator
+[D 230611 14:09:15 __init__:392] [pid:2294195] [emulator-5558] Install app-uiautomator.apk
+[D 230611 14:09:16 __init__:392] [pid:2294195] [emulator-5558] Install app-uiautomator-test.apk
+[D 230611 14:09:17 __init__:682] [pid:2294195] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230611 14:09:18 __init__:682] [pid:2294195] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230611 14:09:19 __init__:696] [pid:2294195] [emulator-5558] show float window
+[D 230611 14:09:20 __init__:682] [pid:2294195] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230611 14:09:21 __init__:682] [pid:2294195] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230611 14:09:21 __init__:643] [pid:2294195] [emulator-5558] uiautomator back to normal
+06/11/2023 02:09:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:09:21 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 0 from match 0.
+[D 230611 14:09:22 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:09:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:09:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:09:26 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.2265989780426025
+06/11/2023 02:09:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:09:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:09:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:09:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:09:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:09:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:09:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1194, 1465)
+06/11/2023 02:09:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:48 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 1 from match 0.
+[D 230611 14:09:49 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:09:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:09:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:09:54 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.678646802902222
+06/11/2023 02:09:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:09:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:09:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:09:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:10:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:10:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:10:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:10:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:13 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 2 from match 0.
+[D 230611 14:10:14 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:10:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:10:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:10:19 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 5.263597726821899
+06/11/2023 02:10:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:10:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:10:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:10:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:10:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:10:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1434)
+06/11/2023 02:10:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:10:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:41 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 3 from match 0.
+[D 230611 14:10:42 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:10:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:10:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:10:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.506507635116577
+06/11/2023 02:10:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:10:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:10:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:10:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:10:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:10:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:11:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1444)
+06/11/2023 02:11:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:11:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:08 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 4 from match 0.
+[D 230611 14:11:10 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:11:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:11:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:11:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.355179786682129
+06/11/2023 02:11:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:11:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:11:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:11:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:11:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:11:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:11:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:33 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 5 from match 0.
+[D 230611 14:11:34 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:11:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:11:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:11:39 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.4130308628082275
+06/11/2023 02:11:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:11:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:11:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:11:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:11:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:11:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:11:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2387) to (720,481)
+06/11/2023 02:12:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1434)
+06/11/2023 02:12:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:02 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 6 from match 0.
+[D 230611 14:12:04 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:12:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:12:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:12:08 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.3852128982543945
+06/11/2023 02:12:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:12:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:12:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:12:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:12:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:12:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:12:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (978, 378)
+06/11/2023 02:12:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:31 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 7 from match 0.
+[D 230611 14:12:32 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:12:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:12:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:12:36 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.335000276565552
+06/11/2023 02:12:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:12:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:12:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:12:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:12:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:12:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1816)
+06/11/2023 02:12:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1020)
+06/11/2023 02:12:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:12:59 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 8 from match 0.
+[D 230611 14:13:00 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:13:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:13:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:13:04 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.3933093547821045
+06/11/2023 02:13:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:13:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:13:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:13:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:13:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:13:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2131)
+06/11/2023 02:13:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1194, 1512)
+06/11/2023 02:13:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:27 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 9 from match 0.
+[D 230611 14:13:29 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:13:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:13:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:13:33 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.341043710708618
+06/11/2023 02:13:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:13:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:13:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:13:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (946, 1465)
+06/11/2023 02:13:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:13:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1816)
+06/11/2023 02:13:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1020)
+06/11/2023 02:13:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:13:55 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 10 from match 0.
+[D 230611 14:13:57 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:14:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:14:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:14:01 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.421217679977417
+06/11/2023 02:14:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:14:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:14:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:14:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:14:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:14:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:14:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1194, 1465)
+06/11/2023 02:14:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:24 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 11 from match 0.
+[D 230611 14:14:25 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:14:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:14:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:14:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.38346791267395
+06/11/2023 02:14:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:14:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:14:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:14:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:14:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:14:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:14:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:14:49 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 12 from match 0.
+[D 230611 14:14:51 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:14:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:14:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:14:56 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 5.556565523147583
+06/11/2023 02:14:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:14:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:15:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:15:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:15:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:15:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1434)
+06/11/2023 02:15:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:15:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:19 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 13 from match 0.
+[D 230611 14:15:21 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:15:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:15:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:15:25 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.348867893218994
+06/11/2023 02:15:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:15:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:15:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:15:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:15:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:15:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1444)
+06/11/2023 02:15:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:15:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:47 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 14 from match 0.
+[D 230611 14:15:49 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:15:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:15:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:15:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.947852611541748
+06/11/2023 02:15:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:15:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:15:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:15:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:16:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:16:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:16:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1072)
+06/11/2023 02:16:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:13 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 15 from match 0.
+[D 230611 14:16:15 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:16:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 5.332329750061035
+06/11/2023 02:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:16:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:16:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:16:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:16:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:16:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2387) to (720,481)
+06/11/2023 02:16:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1434)
+06/11/2023 02:16:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:43 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 16 from match 0.
+[D 230611 14:16:45 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:16:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:16:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:16:49 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.422640800476074
+06/11/2023 02:16:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:16:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:16:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:16:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:17:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:17:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:17:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:17:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (978, 378)
+06/11/2023 02:17:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:13 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 17 from match 0.
+[D 230611 14:17:15 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:17:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:17:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:17:19 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.69029426574707
+06/11/2023 02:17:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:17:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:17:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:17:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:17:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:17:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1816)
+06/11/2023 02:17:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1020)
+06/11/2023 02:17:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:42 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 18 from match 0.
+[D 230611 14:17:43 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:17:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:17:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:17:47 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.316678047180176
+06/11/2023 02:17:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:17:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:17:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:17:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:17:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:18:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:18:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2131)
+06/11/2023 02:18:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1194, 1512)
+06/11/2023 02:18:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:11 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 19 from match 0.
+[D 230611 14:18:12 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:18:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:18:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:18:16 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.36721658706665
+06/11/2023 02:18:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:18:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:18:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:18:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/11/2023 02:18:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:18:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1816)
+06/11/2023 02:18:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1020)
+06/11/2023 02:18:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:39 [INFO] [reproduce:main] [tool_main.py-109] Executing path number 20 from match 0.
+[D 230611 14:18:41 __init__:1375] [pid:2294195] pm install -r -t /data/local/tmp/_tmp.apk
+06/11/2023 02:18:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/11/2023 02:18:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'app.librenews.io.librenews', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/11/2023 02:18:45 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 4.273752212524414
+06/11/2023 02:18:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2280)
+06/11/2023 02:18:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 757)
+06/11/2023 02:18:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Input on (('720', '1218'))
+06/11/2023 02:18:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1194, 1465)
+06/11/2023 02:18:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:18:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1258, 378)
+06/11/2023 02:18:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/11/2023 02:19:01 [INFO] [reproduce:reproducer] [match_reproducer.py-171] Crash err msg: java.lang.ArrayIndexOutOfBoundsException: is found in log: ~/ResearchProject/BugReportReproduction~/LibreNews-Android#27/reproduction_result/screenshots/logcat_match_0_path_20_step_5.txt
+06/11/2023 02:19:01 [INFO] [reproduce:main] [tool_main.py-112] Successfully Reproduced when executing match 0, path number 20.
+06/11/2023 02:19:01 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-146] Trying to kill emulator with pid: 2294347
+06/11/2023 02:19:01 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-217] Deleting created emulator
+06/11/2023 02:19:01 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager delete avd -n "Android6315y3hpxdj"
+Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlDeleting file ~/.android/avd/Android6315y3hpxdj.ini
+Deleting folder ~/.android/avd/Android6315y3hpxdj.avd
+
+AVD 'Android6315y3hpxdj' deleted.
+06/11/2023 02:19:03 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-223] Deleted avd Android6315y3hpxdj
+06/11/2023 02:19:03 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-162] Cleaned up emulators
+06/11/2023 02:19:03 [INFO] [reproduce:main] [tool_main.py-90] **************** TOOL Ended. Result: Success. ****************

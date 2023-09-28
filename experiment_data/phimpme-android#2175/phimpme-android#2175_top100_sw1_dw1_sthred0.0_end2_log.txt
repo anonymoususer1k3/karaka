@@ -1,0 +1,898 @@
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-31] **************** TOOL Started ****************
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-32] App ID: phimpme-android#2175
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-36] Report Type: Non-Crash
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-37] Max Emulator Limit: 1
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-38] Output Dir: ~/phimpme-android#2175
+06/21/2023 12:03:19 [INFO] [reproduce:main] [tool_main.py-39] Random Seed: 257
+06/21/2023 12:03:19 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for phimpme-android#2175
+06/21/2023 12:03:19 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/21/2023 12:03:19 [DEBUG] [reproduce:gui-model] [gui_model.py-397] Initializing the shortest paths between nodes...
+06/21/2023 12:03:54 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Done...
+06/21/2023 12:03:54 [DEBUG] [reproduce:gui-model] [gui_model.py-420] Initializing edge reachability information...
+06/21/2023 12:03:54 [DEBUG] [reproduce:gui-model] [gui_model.py-432] Done...
+06/21/2023 12:04:01 [INFO] [reproduce:match-finder] [match_finder.py-500] Starting finding matches for saner2022_1401...
+06/21/2023 12:04:01 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/21/2023 12:04:31 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/21/2023 12:04:31 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 30.040939569473267 seconds.
+06/21/2023 12:04:31 [INFO] [reproduce:match-finder] [match_finder.py-152] Identifying best matches using  algorithm with N=100...
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-171] Identified 396 matches.
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-173]  Matching Time: 3.3468308448791504 seconds.
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-367] Dumping all matches...
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-509] Starting inferring event sequences from best matches...
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 100 paths. Stop Searching to prevent exceeding memory limit.
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.00084686279296875 seconds.
+06/21/2023 12:04:34 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 112 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+06/21/2023 12:04:34 [INFO] [reproduce:main] [tool_main.py-68] Combining paths from all matches into one batch since only allowing one emulator.
+06/21/2023 12:04:34 [INFO] [reproduce:main] [tool_main.py-71] Executing paths on 1 emulators/threads in parallelism.
+06/21/2023 12:04:34 [INFO] [reproduce:main] [tool_main.py-87] Finished executing 0/1 match ...
+06/21/2023 12:04:34 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-94] Starting Emulator...
+06/21/2023 12:04:34 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -accel-check
+accel:
+0
+KVM (version 12) is installed and usable.
+accel
+06/21/2023 12:04:34 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-174] Hardware acceleration is available.
+06/21/2023 12:04:34 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb start-server
+06/21/2023 12:04:34 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-208] Installing system images
+06/21/2023 12:04:34 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-26;google_apis;x86"
+Loading package information...                                                  
+Loading local repository...                                                     
+[                                       ] 3% Loading local repository...        
+[                                       ] 3% Fetch remote repository...         
+[                                       ] 3% Fetch remote repository...         
+[=                                      ] 3% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+                                                                                
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Computing updates...               
+[===                                    ] 8% Computing updates...               
+[===                                    ] 8% Computing updates...               
+[===                                    ] 10% Computing updates...              
+[=======================================] 100% Computing updates...             
+06/21/2023 12:04:36 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-26;default;x86"
+Loading package information...                                                  
+Loading local repository...                                                     
+[                                       ] 3% Loading local repository...        
+[                                       ] 3% Fetch remote repository...         
+[                                       ] 3% Fetch remote repository...         
+[=                                      ] 3% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 4% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[=                                      ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 5% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Fetch remote repository...         
+                                                                                
+[==                                     ] 6% Fetch remote repository...         
+[==                                     ] 6% Computing updates...               
+[===                                    ] 8% Computing updates...               
+[===                                    ] 8% Computing updates...               
+[===                                    ] 10% Computing updates...              
+[=======================================] 100% Computing updates...             
+06/21/2023 12:04:38 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: rm -f ~/.android/avd/Nexus6API26.avd/*.lock
+06/21/2023 12:04:38 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -avd Nexus6API26 -port 5562 -no-window    
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath ~/Sdk/system-images/android-26/google_apis/x86/
+INFO    | Crashreporting disabled, not reporting crashes.
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | added library ~/Sdk/emulator/lib64/vulkan/libvulkan.so
+Could not init `pa' audio driver
+INFO    | Setting display: 0 configuration to: 1440x2560, dpi: 560x560 
+06/21/2023 12:05:38 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb devices | grep emulator-5562
+emulator-5562	device
+06/21/2023 12:05:38 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-127] Emulator Nexus6API26 started on port 5562
+06/21/2023 12:05:38 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 install -r /tmp/tmp8ry_8cit/reproduction_utils/libs/nullkeyboard.apk
+Performing Streamed Install
+Success
+06/21/2023 12:05:38 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-139] nullkeyboard.apk installed
+06/21/2023 12:05:38 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 shell ime set com.wparam.nullkeyboard/.NullKeyboard
+Input method com.wparam.nullkeyboard/.NullKeyboard selected
+06/21/2023 12:05:38 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-144] Emulator is configured to hide keyboard.
+06/21/2023 12:05:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:05:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:05:39 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 0 from match 0.
+[D 230621 12:05:41 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:05:44 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+06/21/2023 12:05:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:05:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:05:49 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.581258296966553
+06/21/2023 12:05:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:05:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:05:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:05:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:05:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:05:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:06:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:06:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:06:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 1805)
+06/21/2023 12:06:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:06:17 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 1 from match 0.
+[D 230621 12:06:19 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:06:22 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:06:24 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:06:24 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[I 230621 12:06:25 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(2.0s)
+[D 230621 12:06:25 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:06:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:06:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:06:25 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.809380292892456
+06/21/2023 12:06:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:06:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:06:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:06:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:06:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:06:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1542)
+06/21/2023 12:06:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:06:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 1805)
+06/21/2023 12:06:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:06:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:06:55 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 2 from match 0.
+[D 230621 12:06:57 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:07:01 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:07:02 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:07:02 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:07:03 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:07:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:07:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:07:03 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.38326621055603
+06/21/2023 12:07:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:07:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:07:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:07:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:07:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:07:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:07:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1332, 2037)
+06/21/2023 12:07:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:07:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:07:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:07:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:07:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:07:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:07:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:07:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:07:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 3 from match 0.
+[D 230621 12:07:49 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:07:52 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:07:54 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:07:54 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[I 230621 12:07:55 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(2.0s)
+[D 230621 12:07:55 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:07:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:07:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:07:55 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 7.133789300918579
+06/21/2023 12:07:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:07:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:08:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:08:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:08:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:08:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:08:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1332, 2037)
+06/21/2023 12:08:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:08:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:08:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:08:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:08:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:08:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:08:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:08:39 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 4 from match 0.
+[D 230621 12:08:41 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:08:44 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:08:46 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:08:46 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[I 230621 12:08:47 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(2.0s)
+[D 230621 12:08:47 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:08:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:08:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:08:47 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.888636350631714
+06/21/2023 12:08:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:08:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:08:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:08:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:08:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:09:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:09:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:09:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (612, 2037)
+06/21/2023 12:09:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:09:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:09:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:09:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:09:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:09:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:09:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:09:30 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 5 from match 0.
+[D 230621 12:09:33 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:09:36 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:09:37 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:09:37 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:09:38 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:09:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:09:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:09:38 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.102546691894531
+06/21/2023 12:09:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:09:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:09:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:09:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:09:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:09:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:09:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:09:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (612, 2037)
+06/21/2023 12:09:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:10:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:10:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:10:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:10:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:10:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:10:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:10:21 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 6 from match 0.
+[D 230621 12:10:24 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:10:27 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:10:28 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:10:28 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:10:29 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:10:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:10:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:10:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.074679613113403
+06/21/2023 12:10:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:10:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:10:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:10:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:10:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:10:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2155) to (720,1920)
+06/21/2023 12:10:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:10:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:10:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:10:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:10:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:11:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:11:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:11:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:11:13 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 7 from match 0.
+[D 230621 12:11:15 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:11:18 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:11:20 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:11:20 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:11:21 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:11:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:11:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:11:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.476596355438232
+06/21/2023 12:11:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:11:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:11:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:11:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:11:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:11:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:11:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2155) to (720,1920)
+06/21/2023 12:11:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:11:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:11:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:11:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:11:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:11:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:11:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:11:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:12:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 8 from match 0.
+[D 230621 12:12:08 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:12:12 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:12:13 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:12:13 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:12:14 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:12:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:12:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:12:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.770841360092163
+06/21/2023 12:12:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:12:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:12:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:12:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:12:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:12:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:12:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (122, 2037)
+06/21/2023 12:12:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:12:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:12:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:12:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:12:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:12:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:12:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:12:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:12:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 9 from match 0.
+[D 230621 12:13:01 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:13:04 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:13:05 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:13:05 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:13:06 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:13:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:13:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:13:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.498888969421387
+06/21/2023 12:13:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:13:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:13:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:13:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:13:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:13:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:13:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (122, 2037)
+06/21/2023 12:13:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:13:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:13:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:13:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:13:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:13:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:13:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:13:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:13:50 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 10 from match 0.
+[D 230621 12:13:53 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:13:56 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:13:58 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:13:58 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:13:59 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:13:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:13:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:13:59 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 7.397265195846558
+06/21/2023 12:14:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:14:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:14:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:14:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:14:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:14:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:14:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1102, 2037)
+06/21/2023 12:14:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:14:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:14:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:14:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:14:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:14:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:14:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:14:43 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 11 from match 0.
+[D 230621 12:14:46 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:14:49 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:14:51 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:14:51 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:14:52 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:14:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:14:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:14:52 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.7747108936309814
+06/21/2023 12:14:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:14:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:14:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:14:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:15:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:15:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:15:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:15:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1102, 2037)
+06/21/2023 12:15:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:15:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:15:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:15:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:15:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:15:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:15:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:15:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 12 from match 0.
+[D 230621 12:15:38 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:15:42 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:15:44 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:15:44 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[I 230621 12:15:45 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(2.0s)
+[D 230621 12:15:45 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:15:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:15:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:15:45 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 7.732693910598755
+06/21/2023 12:15:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:15:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:15:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:15:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:15:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:16:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:16:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:16:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (857, 2037)
+06/21/2023 12:16:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:16:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:16:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:16:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:16:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:16:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:16:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:16:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 13 from match 0.
+[D 230621 12:16:32 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:16:35 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:16:36 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:16:36 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:16:37 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:16:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:16:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:16:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.46380090713501
+06/21/2023 12:16:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:16:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:16:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:16:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:16:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:16:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:16:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:16:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (857, 2037)
+06/21/2023 12:16:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:17:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:17:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:17:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:17:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:17:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:17:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:17:22 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 14 from match 0.
+[D 230621 12:17:25 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:17:28 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:17:30 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:17:30 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:17:31 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:17:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:17:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:17:31 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 7.5134665966033936
+06/21/2023 12:17:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:17:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:17:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:17:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:17:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:17:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:17:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (367, 2037)
+06/21/2023 12:17:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:17:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:17:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:17:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:17:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:18:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:18:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:18:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:18:16 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 15 from match 0.
+[D 230621 12:18:18 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:18:22 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:18:23 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:18:23 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:18:24 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:18:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:18:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:18:24 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.868863821029663
+06/21/2023 12:18:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:18:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:18:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:18:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:18:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:18:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:18:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (367, 2037)
+06/21/2023 12:18:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:18:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1822)
+06/21/2023 12:18:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1822)
+06/21/2023 12:18:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:18:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:18:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:18:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:19:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:19:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 16 from match 0.
+[D 230621 12:19:11 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:19:14 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:19:16 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:19:16 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:19:17 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:19:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:19:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:19:17 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.867267847061157
+06/21/2023 12:19:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:19:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:19:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:19:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:19:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:19:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:19:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1332, 2037)
+06/21/2023 12:19:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:19:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (123, 2287)
+06/21/2023 12:19:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1542)
+06/21/2023 12:19:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1542)
+06/21/2023 12:19:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:19:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:19:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:19:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:19:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:20:04 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 17 from match 0.
+[D 230621 12:20:07 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:20:10 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:20:11 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:20:11 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:20:12 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:20:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:20:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:20:12 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.315704107284546
+06/21/2023 12:20:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:20:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:20:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:20:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:20:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:20:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:20:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1332, 2037)
+06/21/2023 12:20:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:20:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (123, 2287)
+06/21/2023 12:20:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1542)
+06/21/2023 12:20:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1542)
+06/21/2023 12:20:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:20:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:20:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:20:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:20:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:20:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 18 from match 0.
+[D 230621 12:21:01 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:21:04 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:21:05 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:21:05 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:21:06 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:21:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:21:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:21:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.290022850036621
+06/21/2023 12:21:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:21:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:21:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:21:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:21:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:21:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:21:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (612, 2037)
+06/21/2023 12:21:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:21:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (123, 2287)
+06/21/2023 12:21:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1542)
+06/21/2023 12:21:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1542)
+06/21/2023 12:21:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:21:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:21:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:21:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:21:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:21:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 19 from match 0.
+[D 230621 12:21:55 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:21:58 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:21:59 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:21:59 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[D 230621 12:22:00 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:22:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:22:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:22:00 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 6.013963222503662
+06/21/2023 12:22:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:22:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:22:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:22:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:22:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:22:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:22:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (612, 2037)
+06/21/2023 12:22:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:22:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (123, 2287)
+06/21/2023 12:22:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1542)
+06/21/2023 12:22:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (719, 1542)
+06/21/2023 12:22:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (615, 2287)
+06/21/2023 12:22:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (70, 1822)
+06/21/2023 12:22:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (247, 1470)
+06/21/2023 12:22:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:22:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Rotate
+06/21/2023 12:22:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 20 from match 0.
+[D 230621 12:22:49 __init__:1375] [pid:2293137] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:22:52 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb -s emulator-5562 emu avd snapshot load phimpme-android#2175
+KO: unknown command, try 'help'
+OK
+[W 230621 12:22:54 __init__:218] [pid:2293137] atx-agent has something wrong, auto recovering
+[I 230621 12:22:54 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(3.0s)
+[I 230621 12:22:55 __init__:362] [pid:2293137] [emulator-5562] wait-for-device, time left(2.0s)
+[D 230621 12:22:55 __init__:322] [pid:2293137] [emulator-5562] device emulator-5562 is online
+06/21/2023 12:22:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:22:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/21/2023 12:22:55 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 7.210817098617554
+06/21/2023 12:22:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1216, 182)
+06/21/2023 12:22:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (244, 524)
+06/21/2023 12:23:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (113, 2294)
+06/21/2023 12:23:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:23:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (349, 2294)
+06/21/2023 12:23:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (369, 2287)
+06/21/2023 12:23:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Scroll from (720,2155) to (720,1920)
+06/21/2023 12:23:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1369, 2287)
+06/21/2023 12:23:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (123, 2287)
+06/21/2023 12:23:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (578, 1542)
+06/21/2023 12:23:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:23:25 [INFO] [reproduce:main] [tool_main.py-19] Received signal: 2
+06/21/2023 12:23:25 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-148] Trying to kill emulator with pid: 2293304
+INFO    | Wait for emulator (pid 2293305) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+06/21/2023 12:23:25 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-148] Trying to kill emulator with pid: 2293304
+06/21/2023 12:23:25 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-164] Cleaned up emulators
+06/21/2023 12:23:25 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-164] Cleaned up emulators
+06/18/2023 01:41:49 [INFO] [reproduce:main] [tool_main.py-93] **************** TOOL Ended. Please manually determine if the bug report is reproduced or not. ****************

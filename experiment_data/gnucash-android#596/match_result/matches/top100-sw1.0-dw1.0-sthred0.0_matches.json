@@ -1,0 +1,27 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "change",
+                "action": "ROTATE",
+                "target_word": "",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "In welcome screen change the orientation of the phone from portrait to landscape",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": null,
+            "matched_event": null,
+            "match_score": {
+                "total_score": 0
+            }
+        }
+    ]
+]

@@ -1,0 +1,2904 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1998",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1161",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "779",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1195",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1909",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1433",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1671",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1291",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1767",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "373",
+            "tgt_y": "2082",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send",
+                "sendLayoutButton"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "468",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Files"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "745",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "373",
+            "tgt_y": "2082",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send",
+                "sendLayoutButton"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "468",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Files"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "2180",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "373",
+            "tgt_y": "2082",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send",
+                "sendLayoutButton"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "468",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Files"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1745",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "373",
+            "tgt_y": "2082",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send",
+                "sendLayoutButton"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "468",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Files"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1329",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "373",
+            "tgt_y": "2082",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send",
+                "sendLayoutButton"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "468",
+            "tgt_y": "364",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Files"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1983",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "79",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Home",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Search",
+                "search button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "79",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Home",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Search",
+                "search button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "79",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Home",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Search",
+                "search button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "79",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Home",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1998",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1998",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Search",
+                "search button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1998",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "79",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Home",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1161",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1161",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Search",
+                "search button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1161",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1053",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "815",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2191",
+            "end_x": "720",
+            "end_y": "2033"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "789",
+            "tgt_y": "2112",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "0",
+                "list pathresolver text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "File explorer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "720",
+            "tgt_y": "577",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Internal storage",
+                "Storage"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1321",
+            "tgt_y": "1974",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "menu"
+            ]
+        }
+    ]
+]

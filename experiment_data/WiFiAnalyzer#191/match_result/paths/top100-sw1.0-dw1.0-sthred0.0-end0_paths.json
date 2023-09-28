@@ -1,0 +1,5072 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "251",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CLOSE",
+                "button3"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "251",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CLOSE",
+                "button3"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "251",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CLOSE",
+                "button3"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "251",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CLOSE",
+                "button3"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1229",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Export"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Play",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Play",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Play",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1229",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Export"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "2.4 GHz\u00a0\u00a0\u00a0\u00a0\u00a05 GHz",
+                "Time Graph",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "665",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Rating"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1190",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "APPLY",
+                "button1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "251",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "CLOSE",
+                "button3"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "492",
+            "tgt_y": "1400",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "filterStrength1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1678",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "WEP",
+                "filterSecurityWEP"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1005",
+            "tgt_y": "1122",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "5 GHz",
+                "filterWifiBand5"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "949",
+            "tgt_y": "1678",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "WPA",
+                "filterSecurityWPA"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "263",
+            "tgt_y": "1400",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "filterStrength0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "434",
+            "tgt_y": "1122",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "2.4 GHz",
+                "filterWifiBand2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "492",
+            "tgt_y": "1678",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "WPS",
+                "filterSecurityWPS"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1177",
+            "tgt_y": "1678",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "WPA2",
+                "filterSecurityWPA2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1400",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "filterStrength2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1177",
+            "tgt_y": "1400",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "filterStrength4"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "263",
+            "tgt_y": "1678",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "None",
+                "filterSecurityNone"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "949",
+            "tgt_y": "1400",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "filterStrength3"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "434",
+            "tgt_y": "1122",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "2.4 GHz",
+                "filterWifiBand2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1229",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Export"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1229",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Export"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Play",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Play",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "2.4 GHz\u00a0\u00a0\u00a0\u00a0\u00a05 GHz",
+                "Time Graph",
+                "toolbar"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1005",
+            "tgt_y": "1122",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "5 GHz",
+                "filterWifiBand5"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1229",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Export"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "1356",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Pause",
+                "action scanner"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "497",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Access Points"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "888",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "833",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Channel Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1188",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "960",
+            "tgt_y": "1925",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "RESET",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "490",
+            "tgt_y": "1001",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Time Graph"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1020",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Filter",
+                "action filter"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1012",
+            "x_path": "",
+            "resource_id": "com.vrem.wifianalyzer.BETA:id/filterSSIDtext",
+            "text_representation": [
+                "SSID",
+                "filterSSIDtext",
+                "ssid SSID"
+            ]
+        }
+    ]
+]

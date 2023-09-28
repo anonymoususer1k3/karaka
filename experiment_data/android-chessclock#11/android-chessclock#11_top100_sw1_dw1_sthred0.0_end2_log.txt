@@ -1,0 +1,558 @@
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-29] App ID: android-chessclock#11
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5562
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/android-chessclock#11
+06/06/2023 08:45:02 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 733
+06/06/2023 08:45:02 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for android-chessclock#11
+06/06/2023 08:45:02 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 08:45:02 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 08:45:02 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 08:45:03 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for saner2022_1089...
+06/06/2023 08:45:03 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 08:45:03 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 08:45:03 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.022554397583007812 seconds.
+06/06/2023 08:45:03 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 08:45:33 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 2532 matches.
+06/06/2023 08:45:33 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 30.409640073776245 seconds.
+06/06/2023 08:45:33 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/06/2023 08:45:34 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/06/2023 08:45:38 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/06/2023 08:45:38 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 4.622973918914795 seconds.
+06/06/2023 08:45:38 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 5013 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230606 08:46:45 __init__:218] [pid:67094] atx-agent has something wrong, auto recovering
+[D 230606 08:46:45 __init__:322] [pid:67094] [emulator-5562] device emulator-5562 is online
+[I 230606 08:46:45 init:156] uiautomator2 version: 2.16.13
+[D 230606 08:46:45 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230606 08:46:45 init:346] Install atx-agent 0.10.0
+[D 230606 08:46:45 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230606 08:46:45 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230606 08:46:45 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 08:46:45 init:350] Check atx-agent version
+[D 230606 08:46:45 init:359] Forward: local:tcp:51877 -> remote:tcp:7912
+[D 230606 08:46:46 init:359] Forward: local:tcp:51877 -> remote:tcp:7912
+[D 230606 08:46:46 init:362] atx-agent version 0.10.0
+[D 230606 08:46:46 init:365] device wlan ip: 192.168.232.2
+06/06/2023 08:46:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 08:46:46 __init__:661] [pid:67094] [emulator-5562] kill process(ps): uiautomator
+[D 230606 08:46:46 __init__:392] [pid:67094] [emulator-5562] Install app-uiautomator.apk
+[D 230606 08:46:47 __init__:392] [pid:67094] [emulator-5562] Install app-uiautomator-test.apk
+[D 230606 08:46:48 __init__:682] [pid:67094] [emulator-5562] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 08:46:49 __init__:682] [pid:67094] [emulator-5562] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 08:46:49 __init__:696] [pid:67094] [emulator-5562] show float window
+[D 230606 08:46:50 __init__:682] [pid:67094] [emulator-5562] uiautomator-v2 is starting ... left: 37.9s
+[D 230606 08:46:51 __init__:682] [pid:67094] [emulator-5562] uiautomator-v2 is starting ... left: 36.9s
+[I 230606 08:46:51 __init__:643] [pid:67094] [emulator-5562] uiautomator back to normal
+06/06/2023 08:46:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.google.android.apps.nexuslauncher', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:46:51 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230606 08:46:52 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:46:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:46:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:46:57 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 4.482378005981445
+06/06/2023 08:47:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:47:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:47:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:47:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:47:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:47:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:47:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:47:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:47:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 126)
+06/06/2023 08:47:41 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 49.72126269340515 seconds.
+06/06/2023 08:47:41 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230606 08:47:42 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:47:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:47:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:47:48 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.87168550491333
+06/06/2023 08:47:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:47:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:48:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:48:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:48:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:48:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:48:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:48:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:48:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 08:48:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1174)
+06/06/2023 08:48:37 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 106.12742519378662 seconds.
+06/06/2023 08:48:37 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230606 08:48:38 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:48:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:48:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:48:44 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.9575958251953125
+06/06/2023 08:48:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:48:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:48:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:48:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:49:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:49:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:49:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:49:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:49:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 696)
+06/06/2023 08:49:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 234)
+06/06/2023 08:49:30 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 159.00334072113037 seconds.
+06/06/2023 08:49:30 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230606 08:49:31 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:49:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:49:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:49:37 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.168262004852295
+06/06/2023 08:49:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:49:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:49:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:49:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:50:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:50:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:50:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:50:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:50:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1174)
+06/06/2023 08:50:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 696)
+06/06/2023 08:50:23 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 211.9175159931183 seconds.
+06/06/2023 08:50:23 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230606 08:50:24 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:50:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:50:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:50:29 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.027773141860962
+06/06/2023 08:50:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:50:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:50:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:50:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:51:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:51:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:51:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:51:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:51:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1652)
+06/06/2023 08:51:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 08:51:16 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 264.80715894699097 seconds.
+06/06/2023 08:51:16 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230606 08:51:17 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:51:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:51:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:51:22 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.134818077087402
+06/06/2023 08:51:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:51:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:51:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:51:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:51:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:51:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:51:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:51:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:52:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 08:52:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1260, 1413)
+06/06/2023 08:52:06 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 314.6671669483185 seconds.
+06/06/2023 08:52:06 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230606 08:52:07 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:52:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:52:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:52:13 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.801520586013794
+06/06/2023 08:52:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:52:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:52:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:52:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:52:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:52:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:52:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:52:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:52:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 08:52:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:53:00 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 369.18488025665283 seconds.
+06/06/2023 08:53:00 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230606 08:53:01 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:53:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:53:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:53:06 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.00278902053833
+06/06/2023 08:53:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:53:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:53:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:53:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:53:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:53:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:53:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:53:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:53:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2083)
+06/06/2023 08:53:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:53:53 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 422.0607440471649 seconds.
+06/06/2023 08:53:53 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230606 08:53:54 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:53:59 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.850652456283569
+06/06/2023 08:54:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:54:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:54:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:54:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:54:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:54:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:54:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:54:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:54:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 08:54:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1652)
+06/06/2023 08:54:46 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 474.6663501262665 seconds.
+06/06/2023 08:54:46 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230606 08:54:47 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:54:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:54:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:54:52 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.930164337158203
+06/06/2023 08:54:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:54:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:55:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:55:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:55:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:55:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 08:55:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 08:55:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:55:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 126)
+06/06/2023 08:55:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (981, 126)
+06/06/2023 08:55:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 527.3709144592285 seconds.
+06/06/2023 08:55:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230606 08:55:39 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:55:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:55:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:55:45 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.971688747406006
+06/06/2023 08:55:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:55:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:55:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:55:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:56:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:56:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 08:56:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 08:56:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:56:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1413)
+06/06/2023 08:56:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1652)
+06/06/2023 08:56:31 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 579.9440414905548 seconds.
+06/06/2023 08:56:31 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 11.
+[D 230606 08:56:32 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:56:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:56:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:56:37 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.170132160186768
+06/06/2023 08:56:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:56:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:56:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:56:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:57:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:57:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 08:57:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 08:57:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:57:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (991, 126)
+06/06/2023 08:57:24 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 11 Time: 632.7952566146851 seconds.
+06/06/2023 08:57:24 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 12.
+[D 230606 08:57:25 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:57:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:57:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:57:30 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.950875520706177
+06/06/2023 08:57:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:57:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:57:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:57:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:58:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:58:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 08:58:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 08:58:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:58:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1652)
+06/06/2023 08:58:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('1350', '126'))
+06/06/2023 08:58:17 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 12 Time: 685.8848004341125 seconds.
+06/06/2023 08:58:17 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 13.
+[D 230606 08:58:18 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:58:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:58:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:58:23 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.881307601928711
+06/06/2023 08:58:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:58:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:58:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:58:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:58:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:58:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 08:58:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 08:58:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:59:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:59:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1279)
+06/06/2023 08:59:07 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 13 Time: 735.986848115921 seconds.
+06/06/2023 08:59:07 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 14.
+[D 230606 08:59:09 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 08:59:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 08:59:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 08:59:14 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.649588584899902
+06/06/2023 08:59:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 08:59:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 08:59:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 08:59:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 08:59:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 08:59:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 08:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 08:59:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 08:59:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 696)
+06/06/2023 08:59:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1413)
+06/06/2023 09:00:01 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 14 Time: 790.0568156242371 seconds.
+06/06/2023 09:00:01 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 15.
+[D 230606 09:00:03 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:00:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:00:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:00:08 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.751323699951172
+06/06/2023 09:00:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:00:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:00:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:00:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:00:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:00:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 09:00:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 09:00:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:00:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 09:00:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 696)
+06/06/2023 09:00:54 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 15 Time: 843.2936954498291 seconds.
+06/06/2023 09:00:54 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 16.
+[D 230606 09:00:56 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:01:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:01:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:01:01 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.803608179092407
+06/06/2023 09:01:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:01:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:01:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:01:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:01:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:01:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 09:01:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 09:01:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:01:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 09:01:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1260, 1174)
+06/06/2023 09:01:50 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 16 Time: 899.4525456428528 seconds.
+06/06/2023 09:01:50 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 17.
+[D 230606 09:01:52 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:01:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:01:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:01:57 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.959866285324097
+06/06/2023 09:02:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:02:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:02:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:02:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:02:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:02:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 09:02:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 09:02:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:02:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1413)
+06/06/2023 09:02:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 935)
+06/06/2023 09:02:43 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 17 Time: 952.2460029125214 seconds.
+06/06/2023 09:02:43 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 18.
+[D 230606 09:02:44 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:02:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:02:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:02:49 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.9130518436431885
+06/06/2023 09:02:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:02:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:02:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:03:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:03:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:03:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 09:03:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 09:03:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:03:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:03:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:03:36 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 18 Time: 1004.891853094101 seconds.
+06/06/2023 09:03:36 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 19.
+[D 230606 09:03:37 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:03:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:03:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:03:42 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 6.189904451370239
+06/06/2023 09:03:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:03:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:03:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:03:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:04:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:04:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1456)
+06/06/2023 09:04:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1134, 1938)
+06/06/2023 09:04:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:04:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:04:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:04:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:04:49 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 19 Time: 1077.8553214073181 seconds.
+06/06/2023 09:04:49 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 20.
+[D 230606 09:04:50 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:04:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:04:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:04:55 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.929767847061157
+06/06/2023 09:04:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:05:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:05:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:05:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:05:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:05:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:05:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:05:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:05:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1174)
+06/06/2023 09:05:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 234)
+06/06/2023 09:05:42 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 20 Time: 1130.5573101043701 seconds.
+06/06/2023 09:05:42 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 21.
+[D 230606 09:05:43 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:05:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:05:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:05:48 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.7575953006744385
+06/06/2023 09:05:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:05:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:05:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:06:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:06:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:06:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:06:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:06:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:06:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:06:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:06:35 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 21 Time: 1183.7493364810944 seconds.
+06/06/2023 09:06:35 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 22.
+[D 230606 09:06:36 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:06:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:06:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:06:41 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.9006078243255615
+06/06/2023 09:06:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:06:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:06:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:06:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:07:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:07:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:07:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:07:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:07:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 09:07:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1332, 108)
+06/06/2023 09:07:30 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 22 Time: 1239.285518169403 seconds.
+06/06/2023 09:07:30 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 23.
+[D 230606 09:07:31 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:07:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:07:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:07:37 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.953113794326782
+06/06/2023 09:07:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:07:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:07:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:07:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:08:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:08:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:08:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:08:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:08:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1174)
+06/06/2023 09:08:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('1350', '126'))
+06/06/2023 09:08:23 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 23 Time: 1292.3140268325806 seconds.
+06/06/2023 09:08:23 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 24.
+[D 230606 09:08:24 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:08:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:08:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:08:30 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.993638277053833
+06/06/2023 09:08:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:08:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:08:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:08:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:09:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:09:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:09:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:09:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:09:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 126)
+06/06/2023 09:09:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (981, 126)
+06/06/2023 09:09:16 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 24 Time: 1345.0644218921661 seconds.
+06/06/2023 09:09:16 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 25.
+[D 230606 09:09:17 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:09:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:09:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:09:22 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.899953603744507
+06/06/2023 09:09:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:09:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:09:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:09:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:09:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:09:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:09:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:09:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:10:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 234)
+06/06/2023 09:10:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:10:06 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 25 Time: 1395.003865480423 seconds.
+06/06/2023 09:10:06 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 26.
+[D 230606 09:10:07 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:10:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:10:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:10:12 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.850227355957031
+06/06/2023 09:10:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:10:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:10:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:10:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:10:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:10:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:10:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:10:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:10:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1413)
+06/06/2023 09:10:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (936, 126)
+06/06/2023 09:10:59 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 26 Time: 1447.561448097229 seconds.
+06/06/2023 09:10:59 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 27.
+[D 230606 09:11:00 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:11:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:11:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:11:05 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.949924468994141
+06/06/2023 09:11:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:11:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:11:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:11:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:11:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:11:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:11:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:11:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:11:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:11:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:11:55 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 27 Time: 1503.4961066246033 seconds.
+06/06/2023 09:11:55 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 28.
+[D 230606 09:11:56 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:12:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:12:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:12:01 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.920297384262085
+06/06/2023 09:12:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:12:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:12:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:12:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:12:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:12:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:12:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:12:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:12:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1652)
+06/06/2023 09:12:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2083)
+06/06/2023 09:12:50 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 28 Time: 1559.0329129695892 seconds.
+06/06/2023 09:12:50 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 29.
+[D 230606 09:12:51 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:12:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:12:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:12:56 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.951131820678711
+06/06/2023 09:13:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:13:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:13:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:13:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:13:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:13:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:13:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:13:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:13:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1350, 234)
+06/06/2023 09:13:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (981, 126)
+06/06/2023 09:13:43 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 29 Time: 1611.9681997299194 seconds.
+06/06/2023 09:13:43 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 30.
+[D 230606 09:13:44 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:13:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:13:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:13:49 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.839508295059204
+06/06/2023 09:13:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:13:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:14:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:14:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:14:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:14:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (991, 126)
+06/06/2023 09:14:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 932)
+06/06/2023 09:14:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1815)
+06/06/2023 09:14:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:14:37 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 30 Time: 1665.9342839717865 seconds.
+06/06/2023 09:14:37 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 31.
+[D 230606 09:14:39 __init__:1375] [pid:67094] pm install -r -t /data/local/tmp/_tmp.apk
+06/06/2023 09:14:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/06/2023 09:14:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.chess.clock', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 09:14:44 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 5.660428524017334
+06/06/2023 09:14:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (342, 1279)
+06/06/2023 09:14:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1152, 126)
+06/06/2023 09:14:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (991, 126)
+06/06/2023 09:14:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2218)
+06/06/2023 09:15:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Input on (('720', '425'))
+06/06/2023 09:15:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-109] Unable to find target view using just resource_id: com.chess.clock:id/time_control_name.
+06/06/2023 09:15:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1171)
+06/06/2023 09:15:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1170, 1714)
+06/06/2023 09:15:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 09:16:00 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 31 Time: 1749.4278903007507 seconds.
+06/06/2023 09:16:00 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 31.
+06/06/2023 09:16:00 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

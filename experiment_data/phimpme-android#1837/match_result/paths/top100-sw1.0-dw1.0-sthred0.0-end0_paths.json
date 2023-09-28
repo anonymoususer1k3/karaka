@@ -1,0 +1,3582 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "1 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "1 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "525",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_camera",
+            "text_representation": [
+                "Camera",
+                "Manage camera settings.",
+                "ll camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "525",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_camera",
+            "text_representation": [
+                "Camera",
+                "Manage camera settings.",
+                "ll camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "525",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_camera",
+            "text_representation": [
+                "Camera",
+                "Manage camera settings.",
+                "ll camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node[1]/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "1 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "1 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "LONG_CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "924",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/action_delete",
+            "text_representation": [
+                "Delete",
+                "action delete"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1437",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "android:id/button2",
+            "text_representation": [
+                "CANCEL",
+                "button2"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "4 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "924",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/action_delete",
+            "text_representation": [
+                "Delete",
+                "action delete"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1437",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "android:id/button2",
+            "text_representation": [
+                "CANCEL",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "363",
+            "tgt_y": "749",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/album_card",
+            "text_representation": [
+                "4 Media",
+                "Phimpme Camera",
+                "album card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "924",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/action_delete",
+            "text_representation": [
+                "Delete",
+                "action delete"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1437",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "android:id/button2",
+            "text_representation": [
+                "CANCEL",
+                "button2"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "924",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/action_delete",
+            "text_representation": [
+                "Delete",
+                "action delete"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "912",
+            "tgt_y": "1437",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "android:id/button2",
+            "text_representation": [
+                "CANCEL",
+                "button2"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2056",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[7]",
+            "resource_id": "org.fossasia.phimpme:id/take_photo",
+            "text_representation": [
+                "Take Photo",
+                "take photo"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/sort_action",
+            "text_representation": [
+                "Sort",
+                "sort action"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1884",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[7]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_About",
+            "text_representation": [
+                "About",
+                "ll drawer About"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1871",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/about_special_thanks_card",
+            "text_representation": [
+                "Special thanks",
+                "about special thanks card",
+                "to LeafPic for the gallery.",
+                "to OpenCamera for the awesome camera."
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "2088",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[8]",
+            "resource_id": "org.fossasia.phimpme:id/exposure",
+            "text_representation": [
+                "Exposure",
+                "exposure"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1027",
+            "tgt_y": "1363",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[5]/node/node[5]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/decrease_zoom",
+            "text_representation": [
+                "decrease zoom"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2280",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]/node/node[5]",
+            "resource_id": "org.fossasia.phimpme:id/ll_custom_thirdAct",
+            "text_representation": [
+                "Apply theme on pictures viewer.",
+                "Customize Viewer",
+                "ll custom thirdAct"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2280",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]/node/node[5]",
+            "resource_id": "org.fossasia.phimpme:id/ll_custom_thirdAct",
+            "text_representation": [
+                "Apply theme on pictures viewer.",
+                "Customize Viewer",
+                "ll custom thirdAct"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2280",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]/node/node[5]",
+            "resource_id": "org.fossasia.phimpme:id/ll_custom_thirdAct",
+            "text_representation": [
+                "Apply theme on pictures viewer.",
+                "Customize Viewer",
+                "ll custom thirdAct"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1417",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/preview_picture_setting_card",
+            "text_representation": [
+                "Force use of accelerometer",
+                "Media Viewer",
+                "Rotate even when auto rotate is locked",
+                "preview picture setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1417",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/preview_picture_setting_card",
+            "text_representation": [
+                "Force use of accelerometer",
+                "Media Viewer",
+                "Rotate even when auto rotate is locked",
+                "preview picture setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1417",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/preview_picture_setting_card",
+            "text_representation": [
+                "Force use of accelerometer",
+                "Media Viewer",
+                "Rotate even when auto rotate is locked",
+                "preview picture setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "944",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_hidden",
+            "text_representation": [
+                "Hidden Folders",
+                "ll drawer hidden"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2056",
+            "x_path": "/hierarchy/node[3]/node[1]/node/node/node/node/node[1]/node[7]",
+            "resource_id": "org.fossasia.phimpme:id/take_photo",
+            "text_representation": [
+                "Take Photo",
+                "take photo"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2056",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[8]",
+            "resource_id": "org.fossasia.phimpme:id/take_photo",
+            "text_representation": [
+                "Take Photo",
+                "take photo"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1884",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[7]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_About",
+            "text_representation": [
+                "About",
+                "ll drawer About"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "940",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/about_app_card",
+            "text_representation": [
+                "An awesome Image app that offers features such as taking photos, adding filters, editing images and uploading them to social networks.",
+                "Developed by  FOSSASIA contributors.",
+                "Phimpme",
+                "Version: 1.2.0",
+                "about app card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "2088",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[8]",
+            "resource_id": "org.fossasia.phimpme:id/exposure",
+            "text_representation": [
+                "Exposure",
+                "exposure"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "412",
+            "tgt_y": "1363",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[5]/node/node[5]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/increase_zoom",
+            "text_representation": [
+                "increase zoom"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1302",
+            "tgt_y": "391",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[1]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1292",
+            "tgt_y": "1287",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[5]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1284",
+            "tgt_y": "2166",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[9]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1306",
+            "tgt_y": "839",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[3]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1291",
+            "tgt_y": "1511",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[6]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1304",
+            "tgt_y": "1959",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[8]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "1063",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[4]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1292",
+            "tgt_y": "1287",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[5]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1297",
+            "tgt_y": "615",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1306",
+            "tgt_y": "839",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[3]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1303",
+            "tgt_y": "1063",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[4]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1299",
+            "tgt_y": "1735",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[7]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1299",
+            "tgt_y": "1735",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[7]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1284",
+            "tgt_y": "2166",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[9]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1302",
+            "tgt_y": "391",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[1]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1291",
+            "tgt_y": "1511",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[6]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1304",
+            "tgt_y": "1959",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[2]/node/node[8]/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/sign_in_sign_out_switch",
+            "text_representation": [
+                "OFF",
+                "sign in sign out switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "364",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/Drawer_Header",
+            "text_representation": [
+                "Drawer Header"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "244",
+            "tgt_y": "524",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node/node/node",
+            "resource_id": "org.fossasia.phimpme:id/media_card_layout",
+            "text_representation": [
+                "media card layout"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1048",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]/node[1]/node[3]/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/all_photos",
+            "text_representation": [
+                "All_photos",
+                "all photos"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[3]/node[1]/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "2088",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[8]",
+            "resource_id": "org.fossasia.phimpme:id/exposure",
+            "text_representation": [
+                "Exposure",
+                "exposure"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "70",
+            "tgt_y": "207",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/toggle_button",
+            "text_representation": [
+                "toggle button"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1370",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_switch_max_luminosity",
+            "text_representation": [
+                "High Brightness",
+                "Maximum brightness when viewing a media.",
+                "ll switch max luminosity"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1370",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_switch_max_luminosity",
+            "text_representation": [
+                "High Brightness",
+                "Maximum brightness when viewing a media.",
+                "ll switch max luminosity"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "720",
+            "start_y": "2387",
+            "end_x": "720",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1370",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[2]/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/ll_switch_max_luminosity",
+            "text_representation": [
+                "High Brightness",
+                "Maximum brightness when viewing a media.",
+                "ll switch max luminosity"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1216",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/sort_action",
+            "text_representation": [
+                "Sort",
+                "sort action"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1200",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_accounts",
+            "text_representation": [
+                "Accounts",
+                "navigation accounts"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[1]/node[2]/node/node/node/node/node/node[3]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_home",
+            "text_representation": [
+                "Gallery",
+                "navigation home"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "582",
+            "tgt_y": "1635",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[7]/node/node[12]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "daylight"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "582",
+            "tgt_y": "1635",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node[7]/node/node[12]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "daylight"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "240",
+            "tgt_y": "2294",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/navigation_camera",
+            "text_representation": [
+                "Camera",
+                "navigation camera"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1332",
+            "tgt_y": "191",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node[6]",
+            "resource_id": "org.fossasia.phimpme:id/popup",
+            "text_representation": [
+                "Popup settings",
+                "popup"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "582",
+            "tgt_y": "1635",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[1]/node[7]/node/node[12]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "daylight"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1881",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/theme_setting_card",
+            "text_representation": [
+                "Theme",
+                "theme setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1881",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/theme_setting_card",
+            "text_representation": [
+                "Theme",
+                "theme setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1881",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/theme_setting_card",
+            "text_representation": [
+                "Theme",
+                "theme setting card"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "807",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/general_setting_card",
+            "text_representation": [
+                "General",
+                "general setting card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1370",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[3]/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "More options"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1083",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "807",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/general_setting_card",
+            "text_representation": [
+                "General",
+                "general setting card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1320",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node/node[2]/node[4]",
+            "resource_id": "org.fossasia.phimpme:id/ll_drawer_Setting",
+            "text_representation": [
+                "Settings",
+                "ll drawer Setting"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "807",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]",
+            "resource_id": "org.fossasia.phimpme:id/general_setting_card",
+            "text_representation": [
+                "General",
+                "general setting card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "525",
+            "tgt_y": "1238",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/drawer_items",
+            "text_representation": [
+                "drawer items"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "765",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node/node[1]/node/node[3]",
+            "resource_id": "org.fossasia.phimpme:id/ll_security",
+            "text_representation": [
+                "Security",
+                "Set up a password to protect your media.",
+                "ll security"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "666",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node[2]/node/node[2]/node[2]/node[2]/node[2]",
+            "resource_id": "org.fossasia.phimpme:id/security_body_apply_hidden_switch",
+            "text_representation": [
+                "OFF",
+                "security body apply hidden switch"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ]
+]

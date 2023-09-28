@@ -1,0 +1,7789 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "692",
+            "tgt_y": "1232",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "What's New?",
+                "text1"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "848",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Keep Screen On",
+                "Prevents the screen from turning off"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1134",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Send Location",
+                "send location"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "2008",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Help"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "2091",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change to a first-person map view when you hold up the device",
+                "Tilt Map with Device"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1805",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Change the map orientation based on your direction",
+                "Rotate Map with Compass"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OFF",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1390",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Clear assist data"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1222",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject time data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Close navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1054",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Inject XTRA data"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "392",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Status"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1840",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Settings"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "561",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Give the background a dark color and text a light color",
+                "Use Dark Theme"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Modify assist data",
+                "navigation drawer"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ]
+]

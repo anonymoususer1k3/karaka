@@ -1,0 +1,1293 @@
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-31] **************** TOOL Started ****************
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-32] App ID: Random-Name-Picker#49
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-36] Report Type: Non-Crash
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-37] Max Emulator Limit: 1
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-38] Output Dir: ~/Random-Name-Picker#49
+06/21/2023 12:37:37 [INFO] [reproduce:main] [tool_main.py-39] Random Seed: 807
+06/21/2023 12:37:37 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for Random-Name-Picker#49
+06/21/2023 12:37:37 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/21/2023 12:37:37 [DEBUG] [reproduce:gui-model] [gui_model.py-399] Initializing the shortest paths between nodes...
+06/21/2023 12:37:37 [DEBUG] [reproduce:gui-model] [gui_model.py-410] Done...
+06/21/2023 12:37:37 [DEBUG] [reproduce:gui-model] [gui_model.py-422] Initializing edge reachability information...
+06/21/2023 12:37:37 [DEBUG] [reproduce:gui-model] [gui_model.py-434] Done...
+06/21/2023 12:37:38 [INFO] [reproduce:match-finder] [match_finder.py-500] Starting finding matches for saner2022_1144...
+06/21/2023 12:37:38 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 2.638446092605591 seconds.
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-152] Identifying best matches using  algorithm with N=100...
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-171] Identified 170 matches.
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-173]  Matching Time: 0.01891160011291504 seconds.
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-367] Dumping all matches...
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-509] Starting inferring event sequences from best matches...
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 100 paths. Stop Searching to prevent exceeding memory limit.
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 0.0012385845184326172 seconds.
+06/21/2023 12:37:41 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 101 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+06/21/2023 12:37:41 [INFO] [reproduce:main] [tool_main.py-68] Combining paths from all matches into one batch since only allowing one emulator.
+06/21/2023 12:37:41 [INFO] [reproduce:main] [tool_main.py-71] Executing paths on 1 emulators/threads in parallelism.
+06/21/2023 12:37:41 [INFO] [reproduce:main] [tool_main.py-87] Finished executing 0/1 match ...
+06/21/2023 12:37:41 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-94] Starting Emulator...
+06/21/2023 12:37:41 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -accel-check
+accel:
+0
+KVM (version 12) is installed and usable.
+accel
+06/21/2023 12:37:41 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-174] Hardware acceleration is available.
+06/21/2023 12:37:41 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb start-server
+06/21/2023 12:37:41 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-208] Installing system images
+06/21/2023 12:37:41 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-29;google_apis;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/21/2023 12:37:45 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: sdkmanager "system-images;android-29;default;x86"
+Loading package information...                                                  Loading local repository...                                                     [                                       ] 3% Loading local repository...        [                                       ] 3% Fetch remote repository...         [                                       ] 3% Fetch remote repository...         [=                                      ] 3% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 4% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [=                                      ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 5% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Fetch remote repository...                                                                                         [==                                     ] 6% Fetch remote repository...         [==                                     ] 6% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 8% Computing updates...               [===                                    ] 10% Computing updates...              [=======================================] 100% Computing updates...             
+06/21/2023 12:37:47 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-187] Creating AVD device
+06/21/2023 12:37:47 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -list-avds | grep Android10r3b99pr3i3
+06/21/2023 12:37:47 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager create avd -n "Android10r3b99pr3i3" -k "system-images;android-29;google_apis;x86" -d "Nexus 6"
+Loading local repository...                                                     [=========                              ] 25% Loading local repository...       [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=========                              ] 25% Fetch remote repository...        [=======================================] 100% Fetch remote repository...       Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlAuto-selecting single ABI x86
+06/21/2023 12:37:50 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-200] Created new avd on Android 10 named with Android10r3b99pr3i3
+06/21/2023 12:37:50 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: emulator -avd Android10r3b99pr3i3 -port 5566 -no-window    
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath ~/Sdk/system-images/android-29/google_apis/x86/
+INFO    | Crashreporting disabled, not reporting crashes.
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | added library ~/Sdk/emulator/lib64/vulkan/libvulkan.so
+Could not init `pa' audio driver
+INFO    | Setting display: 0 configuration to: 1440x2560, dpi: 560x560 
+INFO    | Boot completed in 48127 ms
+INFO    | Increasing screen off timeout, logcat buffer size to 2M.
+INFO    | Revoking microphone permissions for Google App.
+06/21/2023 12:39:10 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb devices | grep emulator-5566
+emulator-5566	device
+06/21/2023 12:39:10 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-127] Emulator Android10r3b99pr3i3 started on port 5566
+[W 230621 12:39:10 __init__:218] [pid:2314734] atx-agent has something wrong, auto recovering
+[D 230621 12:39:10 __init__:322] [pid:2314734] [emulator-5566] device emulator-5566 is online
+[I 230621 12:39:10 init:156] uiautomator2 version: 2.16.13
+[D 230621 12:39:10 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230621 12:39:10 init:346] Install atx-agent 0.10.0
+[D 230621 12:39:10 init:59] Use cached assets: ~/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230621 12:39:10 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230621 12:39:10 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230621 12:39:10 init:350] Check atx-agent version
+[D 230621 12:39:10 init:359] Forward: local:tcp:47649 -> remote:tcp:7912
+[D 230621 12:39:10 init:359] Forward: local:tcp:47649 -> remote:tcp:7912
+[D 230621 12:39:11 init:362] atx-agent version 0.10.0
+[D 230621 12:39:11 init:365] device wlan ip: 10.0.2.16
+06/21/2023 12:39:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230621 12:39:11 __init__:661] [pid:2314734] [emulator-5566] kill process(ps): uiautomator
+[D 230621 12:39:11 __init__:392] [pid:2314734] [emulator-5566] Install app-uiautomator.apk
+[D 230621 12:39:11 __init__:392] [pid:2314734] [emulator-5566] Install app-uiautomator-test.apk
+[D 230621 12:39:12 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 40.0s
+[D 230621 12:39:13 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 39.0s
+[D 230621 12:39:14 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 38.0s
+[D 230621 12:39:14 __init__:696] [pid:2314734] [emulator-5566] show float window
+[D 230621 12:39:15 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 36.8s
+[D 230621 12:39:17 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 35.8s
+[D 230621 12:39:18 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 34.7s
+[D 230621 12:39:19 __init__:682] [pid:2314734] [emulator-5566] uiautomator-v2 is starting ... left: 33.7s
+[I 230621 12:39:19 __init__:643] [pid:2314734] [emulator-5566] uiautomator back to normal
+06/21/2023 12:39:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.google.android.apps.nexuslauncher', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:39:19 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 0 from match 0.
+[D 230621 12:39:20 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:39:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:39:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:39:30 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.870298385620117
+06/21/2023 12:39:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:39:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:39:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:39:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:39:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:39:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:39:44 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 1 from match 0.
+[D 230621 12:39:46 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:39:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:39:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:39:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 13.404631853103638
+06/21/2023 12:39:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:39:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:40:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:40:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:09 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 2 from match 0.
+[D 230621 12:40:11 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:40:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:40:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:40:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.587098121643066
+06/21/2023 12:40:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:40:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:40:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:40:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:30 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 3 from match 0.
+[D 230621 12:40:31 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:40:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:40:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:40:41 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.439073324203491
+06/21/2023 12:40:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:40:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:40:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:40:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:40:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:40:53 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 4 from match 0.
+[D 230621 12:40:54 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:41:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:41:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:41:09 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.810755729675293
+06/21/2023 12:41:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:41:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:41:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:41:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:41:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:20 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 5 from match 0.
+[D 230621 12:41:22 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:41:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:41:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:41:31 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.753642559051514
+06/21/2023 12:41:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:41:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:41:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:37 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 6 from match 0.
+[D 230621 12:41:39 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:41:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:41:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:41:48 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.93856954574585
+06/21/2023 12:41:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:41:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:41:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:41:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:41:57 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 7 from match 0.
+[D 230621 12:41:59 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:42:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:42:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:42:08 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.693739175796509
+06/21/2023 12:42:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:42:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:42:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:42:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:16 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 8 from match 0.
+[D 230621 12:42:19 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:42:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:42:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:42:27 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.725463151931763
+06/21/2023 12:42:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:42:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:42:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:34 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 9 from match 0.
+[D 230621 12:42:36 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:42:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:42:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:42:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.657538175582886
+06/21/2023 12:42:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:42:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:42:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:42:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:42:55 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 10 from match 0.
+[D 230621 12:42:58 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:43:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:43:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:43:08 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.072112560272217
+06/21/2023 12:43:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:43:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:43:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:43:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:17 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 11 from match 0.
+[D 230621 12:43:20 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:43:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:43:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:43:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.395085096359253
+06/21/2023 12:43:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:43:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:43:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:43:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:43:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:40 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 12 from match 0.
+[D 230621 12:43:43 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:43:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.350562572479248
+06/21/2023 12:43:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:43:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:43:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1070)
+06/21/2023 12:43:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:01 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 13 from match 0.
+[D 230621 12:44:03 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:44:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:44:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:44:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.234132528305054
+06/21/2023 12:44:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:44:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:44:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:44:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:44:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:27 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 14 from match 0.
+[D 230621 12:44:30 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:44:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:44:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:44:39 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.445286989212036
+06/21/2023 12:44:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:44:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:44:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:44:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:44:49 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 15 from match 0.
+[D 230621 12:44:50 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:45:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:45:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:45:00 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.239442110061646
+06/21/2023 12:45:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:45:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:45:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2074)
+06/21/2023 12:45:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:09 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 16 from match 0.
+[D 230621 12:45:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:45:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:45:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:45:22 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.823354959487915
+06/21/2023 12:45:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:45:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:45:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:45:32 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 17 from match 0.
+[D 230621 12:45:32 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:45:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:45:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:45:42 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.043039083480835
+06/21/2023 12:45:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:45:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:45:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:45:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:45:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 18 from match 0.
+[D 230621 12:45:53 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:46:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:46:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:46:03 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.452895402908325
+06/21/2023 12:46:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:46:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:46:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:46:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:46:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:15 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 19 from match 0.
+[D 230621 12:46:17 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:46:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:46:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:46:27 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.541034698486328
+06/21/2023 12:46:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:46:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:46:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:33 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 20 from match 0.
+[D 230621 12:46:36 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:46:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:46:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:46:50 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.621485948562622
+06/21/2023 12:46:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:46:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:46:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:46:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:46:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:46:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:01 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 21 from match 0.
+[D 230621 12:47:03 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:47:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:47:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:47:12 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.738231897354126
+06/21/2023 12:47:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:47:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:47:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:47:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:47:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:24 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 22 from match 0.
+[D 230621 12:47:26 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:47:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:47:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:47:34 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.43450927734375
+06/21/2023 12:47:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:47:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:47:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:47:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:43 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 23 from match 0.
+[D 230621 12:47:45 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:47:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:47:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:47:54 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.929239749908447
+06/21/2023 12:47:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:47:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:47:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:47:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:48:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:48:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:05 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 24 from match 0.
+[D 230621 12:48:07 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:48:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.68312668800354
+06/21/2023 12:48:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:48:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:48:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:27 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 25 from match 0.
+[D 230621 12:48:30 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:48:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:48:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:48:38 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.375546216964722
+06/21/2023 12:48:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:48:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 12:48:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (912, 1448)
+06/21/2023 12:48:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:48:47 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 26 from match 0.
+[D 230621 12:48:49 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:48:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:48:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:48:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.684705018997192
+06/21/2023 12:48:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:48:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 12:49:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1139, 1448)
+06/21/2023 12:49:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:07 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 27 from match 0.
+[D 230621 12:49:08 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:49:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:49:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:49:17 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.75054383277893
+06/21/2023 12:49:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:49:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:49:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:49:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:49:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 28 from match 0.
+[D 230621 12:49:30 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:49:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:49:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:49:40 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.00258493423462
+06/21/2023 12:49:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:49:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:49:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:49:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 29 from match 0.
+[D 230621 12:49:48 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:49:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:49:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:49:57 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.249796867370605
+06/21/2023 12:49:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:49:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:50:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:50:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:50:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:09 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 30 from match 0.
+[D 230621 12:50:11 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:50:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:50:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:50:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.164666414260864
+06/21/2023 12:50:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:50:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:50:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:27 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 31 from match 0.
+[D 230621 12:50:29 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:50:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:50:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:50:40 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.014537811279297
+06/21/2023 12:50:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:50:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:50:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:50:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:50:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:50:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 32 from match 0.
+[D 230621 12:50:53 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:51:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:51:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:51:02 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.986758470535278
+06/21/2023 12:51:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:51:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:51:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:51:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:51:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 33 from match 0.
+[D 230621 12:51:15 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:51:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:51:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:51:24 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.844968557357788
+06/21/2023 12:51:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:51:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:51:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:51:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:34 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 34 from match 0.
+[D 230621 12:51:36 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:51:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:51:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:51:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.062672853469849
+06/21/2023 12:51:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:51:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:51:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:51:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:51:55 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 35 from match 0.
+[D 230621 12:51:57 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:52:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:52:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:52:07 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.589864253997803
+06/21/2023 12:52:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:52:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2074)
+06/21/2023 12:52:11 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:14 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 36 from match 0.
+[D 230621 12:52:16 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:52:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:52:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:52:25 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.415430068969727
+06/21/2023 12:52:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:52:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:52:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:31 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 37 from match 0.
+[D 230621 12:52:34 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:52:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:52:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:52:44 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.802585124969482
+06/21/2023 12:52:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:52:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:52:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:52:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:52:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:52:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:52:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 38 from match 0.
+[D 230621 12:53:01 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:53:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:53:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:53:12 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.319256782531738
+06/21/2023 12:53:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:53:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:53:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:53:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:53:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:53:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:27 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 39 from match 0.
+[D 230621 12:53:29 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:53:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:53:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:53:39 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.028177499771118
+06/21/2023 12:53:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:53:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:53:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:53:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:53:48 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 40 from match 0.
+[D 230621 12:53:50 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:53:59 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.220476388931274
+06/21/2023 12:53:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:53:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:54:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:54:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 41 from match 0.
+[D 230621 12:54:11 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:54:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:54:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:54:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.213428497314453
+06/21/2023 12:54:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:54:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:54:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:54:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 42 from match 0.
+[D 230621 12:54:31 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:54:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:54:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:54:40 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.141603231430054
+06/21/2023 12:54:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:54:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:54:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:54:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:54:49 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 43 from match 0.
+[D 230621 12:54:51 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:55:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:55:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:55:01 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.94890546798706
+06/21/2023 12:55:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:55:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:55:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:55:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 12:55:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:13 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 44 from match 0.
+[D 230621 12:55:15 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:55:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:55:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:55:24 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.77782392501831
+06/21/2023 12:55:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:55:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:55:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 12:55:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:32 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 45 from match 0.
+[D 230621 12:55:34 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:55:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:55:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:55:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.132185697555542
+06/21/2023 12:55:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:55:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:55:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:55:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:55:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:55:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:55:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 12:55:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (912, 1448)
+06/21/2023 12:56:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:02 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 46 from match 0.
+[D 230621 12:56:05 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:56:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:56:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:56:14 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.6386137008667
+06/21/2023 12:56:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:56:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:56:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:56:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 12:56:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:56:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 12:56:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1139, 1448)
+06/21/2023 12:56:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:34 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 47 from match 0.
+[D 230621 12:56:37 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:56:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:56:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:56:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.216892957687378
+06/21/2023 12:56:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:56:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:56:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:56:53 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 48 from match 0.
+[D 230621 12:56:53 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:57:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:57:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:57:03 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.459622383117676
+06/21/2023 12:57:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:57:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:57:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:09 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 49 from match 0.
+[D 230621 12:57:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:57:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.50091004371643
+06/21/2023 12:57:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:57:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 542)
+06/21/2023 12:57:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:28 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 50 from match 0.
+[D 230621 12:57:30 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:57:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:57:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:57:40 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.237951278686523
+06/21/2023 12:57:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:57:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 894)
+06/21/2023 12:57:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:57:46 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 51 from match 0.
+[D 230621 12:57:48 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:57:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:57:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:57:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.914499759674072
+06/21/2023 12:57:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:57:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 894)
+06/21/2023 12:58:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:05 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 52 from match 0.
+[D 230621 12:58:07 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:58:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:58:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:58:17 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.00359058380127
+06/21/2023 12:58:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:58:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 718)
+06/21/2023 12:58:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:23 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 53 from match 0.
+[D 230621 12:58:25 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:58:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:58:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:58:34 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.161083936691284
+06/21/2023 12:58:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:58:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (98, 182)
+06/21/2023 12:58:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:41 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 54 from match 0.
+[D 230621 12:58:43 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:58:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:58:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:58:53 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.683781385421753
+06/21/2023 12:58:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:58:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:58:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 12:59:01 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 55 from match 0.
+[D 230621 12:59:03 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:59:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:59:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:59:13 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.777741432189941
+06/21/2023 12:59:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:59:14 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 12:59:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:20 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 56 from match 0.
+[D 230621 12:59:22 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:59:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:59:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:59:32 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 12.07444143295288
+06/21/2023 12:59:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 12:59:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 542)
+06/21/2023 12:59:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:38 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 57 from match 0.
+[D 230621 12:59:41 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 12:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 12:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 12:59:51 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.497378826141357
+06/21/2023 12:59:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 12:59:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 12:59:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 12:59:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 12:59:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:00:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:00:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:00:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 58 from match 0.
+[D 230621 13:00:11 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:00:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:00:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:00:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.265189409255981
+06/21/2023 01:00:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:00:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:00:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:00:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:00:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:31 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 59 from match 0.
+[D 230621 13:00:33 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:00:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:00:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:00:42 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.129501819610596
+06/21/2023 01:00:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:00:43 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:00:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:00:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:00:51 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 60 from match 0.
+[D 230621 13:00:53 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:01:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:01:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:01:02 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.647419929504395
+06/21/2023 01:01:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:01:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:01:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:01:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:10 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 61 from match 0.
+[D 230621 13:01:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:01:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:01:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:01:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.595295190811157
+06/21/2023 01:01:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:01:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:01:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:01:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:30 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 62 from match 0.
+[D 230621 13:01:33 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:01:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:01:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:01:47 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.95463752746582
+06/21/2023 01:01:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:01:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:01:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:01:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:01:56 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 63 from match 0.
+[D 230621 13:01:57 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:02:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:02:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:02:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.380256652832031
+06/21/2023 01:02:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:02:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (98, 182)
+06/21/2023 01:02:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:02:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:15 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 64 from match 0.
+[D 230621 13:02:17 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:02:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:02:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:02:26 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.008726358413696
+06/21/2023 01:02:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:02:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 01:02:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:02:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:36 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 65 from match 0.
+[D 230621 13:02:38 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:02:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:02:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:02:48 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.538694620132446
+06/21/2023 01:02:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:02:48 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:02:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:02:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:02:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:02:59 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 66 from match 0.
+[D 230621 13:03:01 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:03:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:03:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:03:10 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.05132794380188
+06/21/2023 01:03:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:03:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:03:13 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:03:16 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:03:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:21 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 67 from match 0.
+[D 230621 13:03:24 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:03:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:03:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:03:33 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.012619018554688
+06/21/2023 01:03:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:03:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:03:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:03:38 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:03:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:44 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 68 from match 0.
+[D 230621 13:03:46 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:03:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:03:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:03:55 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.979580879211426
+06/21/2023 01:03:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:03:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:03:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:03:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 01:04:05 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 69 from match 0.
+[D 230621 13:04:06 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:04:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:04:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:04:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.187939643859863
+06/21/2023 01:04:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:04:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:04:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:04:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:29 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 70 from match 0.
+[D 230621 13:04:32 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:04:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:04:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:04:41 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.676376581192017
+06/21/2023 01:04:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:04:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:04:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:04:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:04:49 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 71 from match 0.
+[D 230621 13:04:52 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:05:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:05:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:05:01 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.740147113800049
+06/21/2023 01:05:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:05:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:05:05 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2310)
+06/21/2023 01:05:08 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:11 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 72 from match 0.
+[D 230621 13:05:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:05:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:05:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:05:22 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.726094961166382
+06/21/2023 01:05:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:05:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:05:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:05:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:05:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:05:33 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2074)
+06/21/2023 01:05:36 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:38 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 73 from match 0.
+[D 230621 13:05:40 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:05:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:05:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:05:49 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.070739507675171
+06/21/2023 01:05:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:05:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:05:53 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:05:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:05:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:05:58 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:06:01 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:06:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 74 from match 0.
+[D 230621 13:06:09 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:06:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:06:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:06:19 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.217333793640137
+06/21/2023 01:06:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:06:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:06:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:06:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:06:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:06:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:06:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:35 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 75 from match 0.
+[D 230621 13:06:37 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:06:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:06:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:06:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.784274578094482
+06/21/2023 01:06:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:06:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:06:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:06:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:06:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:06:58 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 76 from match 0.
+[D 230621 13:07:00 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:07:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:07:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:07:09 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.279730558395386
+06/21/2023 01:07:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:07:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:07:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:07:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:07:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:20 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 77 from match 0.
+[D 230621 13:07:22 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:07:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:07:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:07:31 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.8969407081604
+06/21/2023 01:07:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:07:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:07:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('1188', '182'))
+06/21/2023 01:07:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:07:41 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:43 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 78 from match 0.
+[D 230621 13:07:45 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:07:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:07:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:07:54 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.830837488174438
+06/21/2023 01:07:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:07:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:07:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:07:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Long Click on (('1356', '182'))
+06/21/2023 01:08:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:08:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:06 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 79 from match 0.
+[D 230621 13:08:08 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:08:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:08:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:08:17 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.84679889678955
+06/21/2023 01:08:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:08:18 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2310)
+06/21/2023 01:08:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:08:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:26 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 80 from match 0.
+[D 230621 13:08:27 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:08:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:08:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:08:37 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.71651554107666
+06/21/2023 01:08:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:08:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 01:08:40 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (664, 1154)
+06/21/2023 01:08:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (912, 1448)
+06/21/2023 01:08:45 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:08:48 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 81 from match 0.
+[D 230621 13:08:50 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:08:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:08:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:08:58 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.897482872009277
+06/21/2023 01:08:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:08:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 01:09:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (664, 1154)
+06/21/2023 01:09:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1139, 1448)
+06/21/2023 01:09:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:10 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 82 from match 0.
+[D 230621 13:09:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:09:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:09:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:09:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.424071311950684
+06/21/2023 01:09:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:09:21 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:09:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:09:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:09:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:09:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 01:09:35 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (912, 1448)
+06/21/2023 01:09:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:40 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 83 from match 0.
+[D 230621 13:09:42 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:09:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:09:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:09:51 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.9187331199646
+06/21/2023 01:09:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:09:51 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:09:54 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:09:56 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:09:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:09:59 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:10:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 01:10:04 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1139, 1448)
+06/21/2023 01:10:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:10 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 84 from match 0.
+[D 230621 13:10:12 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:10:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:10:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:10:21 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.088487386703491
+06/21/2023 01:10:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:10:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:10:24 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:10:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:10:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:32 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 85 from match 0.
+[D 230621 13:10:34 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:10:44 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.956151247024536
+06/21/2023 01:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:10:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:10:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:10:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:10:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Back
+06/21/2023 01:10:57 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 86 from match 0.
+[D 230621 13:10:57 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:11:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:11:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:11:07 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 9.575021982192993
+06/21/2023 01:11:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:11:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:11:10 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:11:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:11:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:18 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 87 from match 0.
+[D 230621 13:11:19 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:11:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:11:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:11:28 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.340617656707764
+06/21/2023 01:11:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:11:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:11:31 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:11:34 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:11:37 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:11:39 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 1070)
+06/21/2023 01:11:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:11:45 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 88 from match 0.
+[D 230621 13:11:47 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:11:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:11:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:11:56 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.725661277770996
+06/21/2023 01:11:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:11:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 366)
+06/21/2023 01:12:00 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (664, 1154)
+06/21/2023 01:12:02 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:05 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 89 from match 0.
+[D 230621 13:12:07 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:12:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:12:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:12:16 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.619886875152588
+06/21/2023 01:12:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:12:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:12:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:12:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:12:25 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:12:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:12:30 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:32 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 90 from match 0.
+[D 230621 13:12:35 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:12:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:12:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:12:43 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.807795524597168
+06/21/2023 01:12:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:12:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:12:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2238)
+06/21/2023 01:12:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:12:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:12:55 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:12:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2074)
+06/21/2023 01:12:57 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:00 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 91 from match 0.
+[D 230621 13:13:02 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:13:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:13:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:13:16 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.73928189277649
+06/21/2023 01:13:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:13:17 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (720, 2310)
+06/21/2023 01:13:19 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1286, 2074)
+06/21/2023 01:13:22 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:25 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 92 from match 0.
+[D 230621 13:13:27 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:13:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:13:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:13:41 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 16.00561285018921
+06/21/2023 01:13:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:13:42 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:13:44 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:13:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:13:50 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 93 from match 0.
+[D 230621 13:13:52 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:14:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:14:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:14:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 15.4333815574646
+06/21/2023 01:14:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:14:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:14:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:14:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:15 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 94 from match 0.
+[D 230621 13:14:17 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:14:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:14:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:14:26 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.214663743972778
+06/21/2023 01:14:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:14:27 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:14:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1906)
+06/21/2023 01:14:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:35 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 95 from match 0.
+[D 230621 13:14:37 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:14:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:14:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:14:47 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 11.367146015167236
+06/21/2023 01:14:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:14:47 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:14:50 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:14:52 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:14:55 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 96 from match 0.
+[D 230621 13:14:58 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:15:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:15:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:15:06 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.186546325683594
+06/21/2023 01:15:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:15:07 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:15:09 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:15:12 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1356, 182)
+06/21/2023 01:15:15 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:17 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 97 from match 0.
+[D 230621 13:15:20 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:15:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:15:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:15:29 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.933369874954224
+06/21/2023 01:15:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:15:29 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:15:32 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:35 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 98 from match 0.
+[D 230621 13:15:36 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:15:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:15:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:15:46 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.814003944396973
+06/21/2023 01:15:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:15:46 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:15:49 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:15:52 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 99 from match 0.
+[D 230621 13:15:53 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:16:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:16:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:16:02 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.658825159072876
+06/21/2023 01:16:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:16:03 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1324, 395)
+06/21/2023 01:16:06 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:08 [INFO] [reproduce:main] [tool_main.py-112] Executing path number 100 from match 0.
+[D 230621 13:16:11 __init__:1375] [pid:2314734] pm install -r -t /data/local/tmp/_tmp.apk
+06/21/2023 01:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/21/2023 01:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.randomappsinc.studentpicker', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 29, 'naturalOrientation': True}
+06/21/2023 01:16:20 [INFO] [reproduce:reproducer] [match_reproducer.py-150] Setup delay: 10.466623067855835
+06/21/2023 01:16:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:16:20 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (187, 1217)
+06/21/2023 01:16:23 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (1188, 182)
+06/21/2023 01:16:26 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-65] Performing Click on (623, 395)
+06/21/2023 01:16:28 [ERROR] [reproduce:reproducer] [match_reproducer.py-79] Clicking using coordinate
+06/21/2023 01:16:31 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-148] Trying to kill emulator with pid: 2315006
+06/21/2023 01:16:31 [DEBUG] [reproduce:emulator-match-0] [emulator_helper.py-219] Deleting created emulator
+06/21/2023 01:16:31 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: avdmanager delete avd -n "Android10r3b99pr3i3"
+Parsing ~/Sdk/add-ons/addon-google_apis-google-23/package.xmlParsing ~/Sdk/build-tools/23.0.3/package.xmlParsing ~/Sdk/build-tools/24.0.2/package.xmlParsing ~/Sdk/build-tools/24.0.3/package.xmlParsing ~/Sdk/build-tools/25.0.0/package.xmlParsing ~/Sdk/build-tools/25.0.1/package.xmlParsing ~/Sdk/build-tools/25.0.2/package.xmlParsing ~/Sdk/build-tools/25.0.3/package.xmlParsing ~/Sdk/build-tools/26.0.0/package.xmlParsing ~/Sdk/build-tools/26.0.1/package.xmlParsing ~/Sdk/build-tools/28.0.2/package.xmlParsing ~/Sdk/build-tools/28.0.3/package.xmlParsing ~/Sdk/build-tools/29.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.2/package.xmlParsing ~/Sdk/build-tools/30.0.3/package.xmlParsing ~/Sdk/build-tools/31.0.0/package.xmlParsing ~/Sdk/build-tools/33.0.0/package.xmlParsing ~/Sdk/build-tools/34.0.0-rc2/package.xmlParsing ~/Sdk/cmdline-tools/latest/package.xmlParsing ~/Sdk/emulator/package.xmlParsing ~/Sdk/extras/android/m2repository/package.xmlParsing ~/Sdk/extras/google/m2repository/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/package.xmlParsing ~/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-beta4/package.xmlParsing ~/Sdk/patcher/v4/package.xmlParsing ~/Sdk/platform-tools/package.xmlParsing ~/Sdk/platforms/android-16/package.xmlParsing ~/Sdk/platforms/android-17/package.xmlParsing ~/Sdk/platforms/android-18/package.xmlParsing ~/Sdk/platforms/android-19/package.xmlParsing ~/Sdk/platforms/android-20/package.xmlParsing ~/Sdk/platforms/android-21/package.xmlParsing ~/Sdk/platforms/android-22/package.xmlParsing ~/Sdk/platforms/android-23/package.xmlParsing ~/Sdk/platforms/android-24/package.xmlParsing ~/Sdk/platforms/android-25/package.xmlParsing ~/Sdk/platforms/android-26/package.xmlParsing ~/Sdk/platforms/android-27/package.xmlParsing ~/Sdk/platforms/android-28/package.xmlParsing ~/Sdk/platforms/android-29/package.xmlParsing ~/Sdk/platforms/android-30/package.xmlParsing ~/Sdk/platforms/android-31/package.xmlParsing ~/Sdk/platforms/android-32/package.xmlParsing ~/Sdk/skiaparser/1/package.xmlParsing ~/Sdk/skiaparser/3/package.xmlParsing ~/Sdk/sources/android-16/package.xmlParsing ~/Sdk/sources/android-17/package.xmlParsing ~/Sdk/sources/android-18/package.xmlParsing ~/Sdk/sources/android-19/package.xmlParsing ~/Sdk/sources/android-20/package.xmlParsing ~/Sdk/sources/android-21/package.xmlParsing ~/Sdk/sources/android-22/package.xmlParsing ~/Sdk/sources/android-23/package.xmlParsing ~/Sdk/sources/android-24/package.xmlParsing ~/Sdk/sources/android-25/package.xmlParsing ~/Sdk/sources/android-26/package.xmlParsing ~/Sdk/sources/android-27/package.xmlParsing ~/Sdk/sources/android-28/package.xmlParsing ~/Sdk/sources/android-29/package.xmlParsing ~/Sdk/sources/android-30/package.xmlParsing ~/Sdk/sources/android-31/package.xmlParsing ~/Sdk/system-images/android-18/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-19/default/x86/package.xmlParsing ~/Sdk/system-images/android-19/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-21/default/x86/package.xmlParsing ~/Sdk/system-images/android-21/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/default/x86/package.xmlParsing ~/Sdk/system-images/android-22/default/x86_64/package.xmlParsing ~/Sdk/system-images/android-22/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/default/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-23/google_apis/x86_64/package.xmlParsing ~/Sdk/system-images/android-24/default/x86/package.xmlParsing ~/Sdk/system-images/android-24/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-25/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-26/default/x86/package.xmlParsing ~/Sdk/system-images/android-26/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-27/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-28/default/x86/package.xmlParsing ~/Sdk/system-images/android-28/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-29/default/x86/package.xmlParsing ~/Sdk/system-images/android-29/google_apis/x86/package.xmlParsing ~/Sdk/system-images/android-30/google_apis/x86/package.xmlParsing ~/Sdk/tools/package.xmlParsing ~/Sdk/tools_new/package.xmlDeleting file ~/.android/avd/Android10r3b99pr3i3.ini
+Deleting folder ~/.android/avd/Android10r3b99pr3i3.avd
+
+AVD 'Android10r3b99pr3i3' deleted.
+06/21/2023 01:16:34 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-225] Deleted avd Android10r3b99pr3i3
+06/21/2023 01:16:34 [INFO] [reproduce:emulator-match-0] [emulator_helper.py-164] Cleaned up emulators
+06/21/2023 01:16:34 [INFO] [reproduce:main] [tool_main.py-87] Finished executing 1/1 match ...
+06/21/2023 01:16:34 [INFO] [reproduce:main] [tool_main.py-93] **************** TOOL Ended. Please manually determine if the bug report is reproduced or not. ****************

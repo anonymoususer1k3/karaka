@@ -1,0 +1,1080 @@
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-28] **************** TOOL Started ****************
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-29] App ID: markor#194
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-33] Report Type: Crash
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-34] Emulator ID: emulator-5558
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-35] Output Dir: ~/markor#194
+06/07/2023 07:32:21 [INFO] [reproduce:main] [tool_main.py-36] Random Seed: 550
+06/07/2023 07:32:22 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for markor#194
+06/07/2023 07:32:22 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/07/2023 07:32:23 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/07/2023 07:32:25 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/07/2023 07:32:27 [INFO] [reproduce:match-finder] [match_finder.py-503] Starting finding matches for recdroid_2...
+06/07/2023 07:32:27 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/07/2023 07:32:28 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/07/2023 07:32:28 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.11011743545532227 seconds.
+06/07/2023 07:32:28 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/07/2023 07:32:46 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 349 matches.
+06/07/2023 07:32:46 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 18.2269549369812 seconds.
+06/07/2023 07:32:46 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/07/2023 07:32:46 [INFO] [reproduce:match-finder] [match_finder.py-512] Starting inferring event sequences from best matches...
+06/07/2023 07:33:00 [INFO] [reproduce:match-finder] [match_finder.py-518] Identified more than 5000 paths. Stop Searching to prevent exceeding memory limit.
+06/07/2023 07:33:00 [INFO] [reproduce:match-finder] [match_finder.py-521] Path Identification Time: 14.100298166275024 seconds.
+06/07/2023 07:33:00 [INFO] [reproduce:match-finder] [match_finder.py-522] Identified 5033 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+[W 230607 07:34:31 __init__:218] [pid:13789] atx-agent has something wrong, auto recovering
+[D 230607 07:34:31 __init__:322] [pid:13789] [emulator-5558] device emulator-5558 is online
+[I 230607 07:34:31 init:156] uiautomator2 version: 2.16.13
+[D 230607 07:34:31 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[I 230607 07:34:31 init:346] Install atx-agent 0.10.0
+[D 230607 07:34:31 init:59] Use cached assets: /root/.uiautomator2/cache/atx-agent_0.10.0_linux_386.tar.gz-1f8cdf3239/atx-agent_0.10.0_linux_386.tar.gz
+[D 230607 07:34:31 init:238] Push to /data/local/tmp/atx-agent:0755
+[D 230607 07:34:32 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230607 07:34:32 init:350] Check atx-agent version
+[D 230607 07:34:32 init:359] Forward: local:tcp:39249 -> remote:tcp:7912
+[D 230607 07:34:32 init:359] Forward: local:tcp:39249 -> remote:tcp:7912
+[D 230607 07:34:32 init:362] atx-agent version 0.10.0
+[D 230607 07:34:32 init:365] device wlan ip: route ip+net: no such network interface
+06/07/2023 07:34:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230607 07:34:32 __init__:661] [pid:13789] [emulator-5558] kill process(ps): uiautomator
+[D 230607 07:34:33 __init__:392] [pid:13789] [emulator-5558] Install app-uiautomator.apk
+[D 230607 07:34:34 __init__:392] [pid:13789] [emulator-5558] Install app-uiautomator-test.apk
+[D 230607 07:34:35 __init__:682] [pid:13789] [emulator-5558] uiautomator-v2 is starting ... left: 40.0s
+[D 230607 07:34:36 __init__:682] [pid:13789] [emulator-5558] uiautomator-v2 is starting ... left: 39.0s
+[D 230607 07:34:36 __init__:696] [pid:13789] [emulator-5558] show float window
+[D 230607 07:34:37 __init__:682] [pid:13789] [emulator-5558] uiautomator-v2 is starting ... left: 37.6s
+[D 230607 07:34:38 __init__:682] [pid:13789] [emulator-5558] uiautomator-v2 is starting ... left: 36.6s
+[I 230607 07:34:39 __init__:643] [pid:13789] [emulator-5558] uiautomator back to normal
+06/07/2023 07:34:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'com.android.launcher3', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:34:39 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+[D 230607 07:34:40 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:34:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:34:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:34:45 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.820923805236816
+06/07/2023 07:34:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:34:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:34:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:34:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:35:00 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:03 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 07:35:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:35:09 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:09 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 30.77304244041443 seconds.
+06/07/2023 07:35:09 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 1.
+[D 230607 07:35:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:35:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:35:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:35:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.333740472793579
+06/07/2023 07:35:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:35:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:35:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:35:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:35:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '979'))
+06/07/2023 07:35:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:35:40 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:35:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 1 Time: 61.646920919418335 seconds.
+06/07/2023 07:35:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 2.
+[D 230607 07:35:42 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:35:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:35:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:35:47 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.079199552536011
+06/07/2023 07:35:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:35:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:35:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:35:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:36:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:04 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 07:36:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (314, 429)
+06/07/2023 07:36:09 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:09 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 2 Time: 90.94177961349487 seconds.
+06/07/2023 07:36:09 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 3.
+[D 230607 07:36:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:36:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:36:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:36:15 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.345166444778442
+06/07/2023 07:36:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:36:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:36:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:36:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:36:29 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:32 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 786)
+06/07/2023 07:36:35 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 07:36:38 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:36:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 3 Time: 119.63469982147217 seconds.
+06/07/2023 07:36:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 4.
+[D 230607 07:36:39 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:36:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:36:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:36:46 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.500415325164795
+06/07/2023 07:36:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:36:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:36:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:36:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:36:59 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:02 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '979'))
+06/07/2023 07:37:05 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 07:37:09 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:09 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 4 Time: 149.98071193695068 seconds.
+06/07/2023 07:37:09 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 5.
+[D 230607 07:37:10 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:37:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:37:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:37:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.33310866355896
+06/07/2023 07:37:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:37:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:37:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:37:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:37:29 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:32 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:37:36 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1365)
+06/07/2023 07:37:38 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:37:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 5 Time: 179.84639978408813 seconds.
+06/07/2023 07:37:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 6.
+[D 230607 07:37:40 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:37:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:37:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:37:45 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.051415920257568
+06/07/2023 07:37:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:37:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:37:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:37:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:37:59 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (314, 429)
+06/07/2023 07:38:04 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 593)
+06/07/2023 07:38:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:07 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 6 Time: 208.41945338249207 seconds.
+06/07/2023 07:38:07 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 7.
+[D 230607 07:38:08 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:38:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:38:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:38:14 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.495990991592407
+06/07/2023 07:38:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:38:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:38:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:38:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:38:27 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:31 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1558'))
+06/07/2023 07:38:34 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 07:38:38 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:38:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 7 Time: 239.1414773464203 seconds.
+06/07/2023 07:38:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 8.
+[D 230607 07:38:39 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:38:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:38:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:38:45 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.686914920806885
+06/07/2023 07:38:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:38:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:38:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:38:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:38:59 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:02 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1365'))
+06/07/2023 07:39:05 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1751)
+06/07/2023 07:39:08 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 8 Time: 269.5493531227112 seconds.
+06/07/2023 07:39:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 9.
+[D 230607 07:39:09 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:39:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:39:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:39:17 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 8.52877163887024
+06/07/2023 07:39:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:39:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:39:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:39:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:39:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 07:39:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 07:39:40 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:39:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 9 Time: 301.2780590057373 seconds.
+06/07/2023 07:39:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 10.
+[D 230607 07:39:41 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:39:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:39:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:39:47 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.399173736572266
+06/07/2023 07:39:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:39:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:39:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:39:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:40:00 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:03 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1751'))
+06/07/2023 07:40:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '2095'))
+06/07/2023 07:40:10 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 10 Time: 331.1364312171936 seconds.
+06/07/2023 07:40:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 11.
+[D 230607 07:40:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:40:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:40:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:40:17 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.373453855514526
+06/07/2023 07:40:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:40:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:40:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:40:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:40:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '2095'))
+06/07/2023 07:40:36 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 07:40:39 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:40:39 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 11 Time: 360.5978765487671 seconds.
+06/07/2023 07:40:39 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 12.
+[D 230607 07:40:40 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:40:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:40:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:40:48 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.7879862785339355
+06/07/2023 07:40:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:40:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:40:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:40:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:41:00 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:03 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1172'))
+06/07/2023 07:41:06 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 07:41:10 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 12 Time: 391.311003446579 seconds.
+06/07/2023 07:41:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 13.
+[D 230607 07:41:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:41:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:41:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:41:17 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.200298309326172
+06/07/2023 07:41:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:41:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:41:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:41:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:41:29 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '979'))
+06/07/2023 07:41:36 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1944'))
+06/07/2023 07:41:39 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:41:39 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 13 Time: 420.7945673465729 seconds.
+06/07/2023 07:41:39 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 14.
+[D 230607 07:41:41 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:41:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:41:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:41:46 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.403904676437378
+06/07/2023 07:41:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:41:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:41:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:41:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:42:00 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:03 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 07:42:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 2079)
+06/07/2023 07:42:10 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 14 Time: 451.06839776039124 seconds.
+06/07/2023 07:42:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 15.
+[D 230607 07:42:12 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:42:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:42:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:42:18 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.017378807067871
+06/07/2023 07:42:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:42:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:42:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:42:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:42:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:34 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1172'))
+06/07/2023 07:42:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '593'))
+06/07/2023 07:42:40 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:42:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 15 Time: 481.901980638504 seconds.
+06/07/2023 07:42:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 16.
+[D 230607 07:42:42 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:42:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:42:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:42:48 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.529096603393555
+06/07/2023 07:42:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:42:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:42:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:42:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:43:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:04 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '979'))
+06/07/2023 07:43:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1558'))
+06/07/2023 07:43:10 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 16 Time: 511.76560735702515 seconds.
+06/07/2023 07:43:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 17.
+[D 230607 07:43:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:43:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:43:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:43:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.563384771347046
+06/07/2023 07:43:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:43:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:43:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:43:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:43:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '593'))
+06/07/2023 07:43:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1751'))
+06/07/2023 07:43:40 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:43:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 17 Time: 541.2630324363708 seconds.
+06/07/2023 07:43:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 18.
+[D 230607 07:43:41 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:43:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:43:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:43:47 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.581287622451782
+06/07/2023 07:43:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:43:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:43:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:43:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:44:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:04 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '593'))
+06/07/2023 07:44:07 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1558'))
+06/07/2023 07:44:10 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 18 Time: 571.8183329105377 seconds.
+06/07/2023 07:44:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 19.
+[D 230607 07:44:12 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:44:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:44:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:44:17 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.7230165004730225
+06/07/2023 07:44:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:44:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:44:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:44:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:44:30 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1944'))
+06/07/2023 07:44:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '593'))
+06/07/2023 07:44:41 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 07:44:41 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 19 Time: 602.0738983154297 seconds.
+06/07/2023 07:44:41 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 20.
+[D 230607 07:44:42 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:44:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:44:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:44:48 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.551579236984253
+06/07/2023 07:44:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:44:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:44:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:44:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:45:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:45:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '2079'))
+06/07/2023 07:45:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:45:12 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 20 Time: 633.7825193405151 seconds.
+06/07/2023 07:45:12 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 21.
+[D 230607 07:45:14 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:45:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:45:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:45:20 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.3052978515625
+06/07/2023 07:45:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:45:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:45:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:45:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:45:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:45:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '2095'))
+06/07/2023 07:45:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 07:45:45 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 21 Time: 666.2851188182831 seconds.
+06/07/2023 07:45:45 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 22.
+[D 230607 07:45:47 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:45:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:45:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:45:52 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.137874364852905
+06/07/2023 07:45:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:45:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:45:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:46:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:46:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:46:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 07:46:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 07:46:17 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 22 Time: 698.2484593391418 seconds.
+06/07/2023 07:46:17 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 23.
+[D 230607 07:46:18 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:46:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:46:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:46:23 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.916523456573486
+06/07/2023 07:46:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:46:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:46:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:46:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:46:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:46:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:46:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1751)
+06/07/2023 07:46:48 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 23 Time: 729.8123097419739 seconds.
+06/07/2023 07:46:48 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 24.
+[D 230607 07:46:50 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:46:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:46:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:46:56 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.88832426071167
+06/07/2023 07:46:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:46:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:47:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:47:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:47:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:47:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 07:47:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1751'))
+06/07/2023 07:47:21 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 24 Time: 762.8855330944061 seconds.
+06/07/2023 07:47:21 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 25.
+[D 230607 07:47:23 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:47:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:47:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:47:30 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.307540655136108
+06/07/2023 07:47:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:47:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:47:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:47:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:47:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:47:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1751'))
+06/07/2023 07:47:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1172'))
+06/07/2023 07:47:55 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 25 Time: 796.2005829811096 seconds.
+06/07/2023 07:47:55 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 26.
+[D 230607 07:47:56 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:48:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:48:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:48:02 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.881054162979126
+06/07/2023 07:48:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:48:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:48:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:48:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:48:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:48:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 07:48:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 07:48:27 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 26 Time: 828.5015490055084 seconds.
+06/07/2023 07:48:27 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 27.
+[D 230607 07:48:29 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:48:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:48:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:48:34 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.443775415420532
+06/07/2023 07:48:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:48:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:48:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:48:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:48:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:48:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '2079'))
+06/07/2023 07:48:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 786)
+06/07/2023 07:48:59 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 27 Time: 860.0105843544006 seconds.
+06/07/2023 07:48:59 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 28.
+[D 230607 07:49:00 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:49:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:49:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:49:05 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.440513849258423
+06/07/2023 07:49:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:49:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:49:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:49:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:49:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:49:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '979'))
+06/07/2023 07:49:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:49:30 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 28 Time: 891.7638309001923 seconds.
+06/07/2023 07:49:30 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 29.
+[D 230607 07:49:32 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:49:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:49:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:49:37 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.282203197479248
+06/07/2023 07:49:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:49:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:49:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 07:49:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:49:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:49:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2097) to (720,518)
+06/07/2023 07:49:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (454, 429)
+06/07/2023 07:50:01 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 29 Time: 922.9128696918488 seconds.
+06/07/2023 07:50:01 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 30.
+[D 230607 07:50:03 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:50:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:50:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:50:10 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.70074200630188
+06/07/2023 07:50:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:50:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:50:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:50:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:50:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:50:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '2079'))
+06/07/2023 07:50:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:50:35 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 30 Time: 956.5839054584503 seconds.
+06/07/2023 07:50:35 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 31.
+[D 230607 07:50:37 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:50:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:50:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:50:44 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.516874074935913
+06/07/2023 07:50:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:50:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:50:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:50:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:50:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:51:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '2095'))
+06/07/2023 07:51:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 07:51:09 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 31 Time: 990.6788880825043 seconds.
+06/07/2023 07:51:09 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 32.
+[D 230607 07:51:11 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:51:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:51:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:51:18 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 8.139004230499268
+06/07/2023 07:51:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:51:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:51:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:51:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:51:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:51:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 07:51:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 07:51:43 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 32 Time: 1024.5654129981995 seconds.
+06/07/2023 07:51:43 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 33.
+[D 230607 07:51:45 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:51:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:51:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:51:51 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.654165029525757
+06/07/2023 07:51:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:51:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:51:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:52:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:52:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:52:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:52:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1751)
+06/07/2023 07:52:16 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 33 Time: 1057.1908922195435 seconds.
+06/07/2023 07:52:16 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 34.
+[D 230607 07:52:17 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:52:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:52:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:52:23 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.070483207702637
+06/07/2023 07:52:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:52:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:52:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:52:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:52:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:52:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 07:52:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1751'))
+06/07/2023 07:52:49 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 34 Time: 1090.5060102939606 seconds.
+06/07/2023 07:52:49 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 35.
+[D 230607 07:52:50 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:52:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:52:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:52:56 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.7211902141571045
+06/07/2023 07:52:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:53:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:53:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:53:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:53:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:53:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1751'))
+06/07/2023 07:53:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1172'))
+06/07/2023 07:53:22 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 35 Time: 1123.6934716701508 seconds.
+06/07/2023 07:53:22 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 36.
+[D 230607 07:53:23 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:53:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:53:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:53:29 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.954691410064697
+06/07/2023 07:53:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:53:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:53:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:53:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:53:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:53:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 07:53:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 07:53:53 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 36 Time: 1154.4393908977509 seconds.
+06/07/2023 07:53:53 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 37.
+[D 230607 07:53:55 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:54:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:54:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:54:02 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.591406583786011
+06/07/2023 07:54:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:54:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:54:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:54:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:54:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:54:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '2079'))
+06/07/2023 07:54:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 786)
+06/07/2023 07:54:26 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 37 Time: 1187.3039019107819 seconds.
+06/07/2023 07:54:26 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 38.
+[D 230607 07:54:27 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:54:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:54:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:54:32 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.178641080856323
+06/07/2023 07:54:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:54:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:54:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:54:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:54:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:54:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '979'))
+06/07/2023 07:54:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:54:58 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 38 Time: 1219.0178339481354 seconds.
+06/07/2023 07:54:58 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 39.
+[D 230607 07:54:59 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:55:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:55:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:55:05 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.182176113128662
+06/07/2023 07:55:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:55:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 07:55:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 07:55:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:55:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:55:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2097) to (720,518)
+06/07/2023 07:55:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (454, 429)
+06/07/2023 07:55:29 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 39 Time: 1250.5767028331757 seconds.
+06/07/2023 07:55:29 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 40.
+[D 230607 07:55:30 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:55:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:55:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:55:36 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.107830047607422
+06/07/2023 07:55:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:55:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:55:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:55:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:55:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:55:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 07:55:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 07:56:01 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 40 Time: 1282.205426454544 seconds.
+06/07/2023 07:56:01 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 41.
+[D 230607 07:56:02 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:56:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:56:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:56:08 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.681994676589966
+06/07/2023 07:56:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:56:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:56:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:56:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:56:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:56:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 07:56:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 07:56:33 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 41 Time: 1314.7758479118347 seconds.
+06/07/2023 07:56:33 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 42.
+[D 230607 07:56:34 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:56:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:56:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:56:39 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.576098680496216
+06/07/2023 07:56:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:56:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:56:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:56:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:56:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:56:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 07:57:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 593)
+06/07/2023 07:57:05 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 42 Time: 1345.9858055114746 seconds.
+06/07/2023 07:57:05 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 43.
+[D 230607 07:57:06 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:57:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:57:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:57:12 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.147902965545654
+06/07/2023 07:57:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:57:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:57:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:57:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:57:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:57:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 593)
+06/07/2023 07:57:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1046, 2219)
+06/07/2023 07:57:36 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 43 Time: 1377.0872411727905 seconds.
+06/07/2023 07:57:36 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 44.
+[D 230607 07:57:37 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:57:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:57:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:57:42 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.044275760650635
+06/07/2023 07:57:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:57:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:57:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:57:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:57:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:58:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 07:58:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1046, 2219)
+06/07/2023 07:58:07 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 44 Time: 1408.4271132946014 seconds.
+06/07/2023 07:58:07 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 45.
+[D 230607 07:58:08 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:58:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:58:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:58:13 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.2221198081970215
+06/07/2023 07:58:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:58:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:58:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:58:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:58:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:58:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1558'))
+06/07/2023 07:58:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1558)
+06/07/2023 07:58:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 45 Time: 1439.2374429702759 seconds.
+06/07/2023 07:58:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 46.
+[D 230607 07:58:39 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:58:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:58:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:58:45 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.319084882736206
+06/07/2023 07:58:46 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:58:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:58:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:58:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:58:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:59:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:59:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1751'))
+06/07/2023 07:59:10 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 46 Time: 1471.7864270210266 seconds.
+06/07/2023 07:59:10 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 47.
+[D 230607 07:59:13 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:59:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:59:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:59:19 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.249439716339111
+06/07/2023 07:59:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:59:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:59:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 07:59:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 07:59:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 07:59:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 07:59:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '979'))
+06/07/2023 07:59:43 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 47 Time: 1504.4493193626404 seconds.
+06/07/2023 07:59:43 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 48.
+[D 230607 07:59:44 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 07:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 07:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 07:59:51 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.061225175857544
+06/07/2023 07:59:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 07:59:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 07:59:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 08:00:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:00:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:00:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 08:00:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (314, 429)
+06/07/2023 08:00:18 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 48 Time: 1539.8984162807465 seconds.
+06/07/2023 08:00:18 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 49.
+[D 230607 08:00:20 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:00:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:00:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:00:28 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 8.213370561599731
+06/07/2023 08:00:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:00:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:00:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2318)
+06/07/2023 08:00:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:00:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:00:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1365'))
+06/07/2023 08:00:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2097) to (720,518)
+06/07/2023 08:00:56 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 49 Time: 1577.8867852687836 seconds.
+06/07/2023 08:00:56 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 50.
+[D 230607 08:00:58 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:01:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:01:05 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 7.59370231628418
+06/07/2023 08:01:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:01:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:01:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:01:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:01:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:01:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 08:01:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 08:01:31 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 50 Time: 1612.2203936576843 seconds.
+06/07/2023 08:01:31 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 51.
+[D 230607 08:01:33 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:01:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:01:43 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:01:43 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 10.66262173652649
+06/07/2023 08:01:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:01:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:01:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:01:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:01:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:02:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 08:02:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 08:02:08 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 51 Time: 1649.3158588409424 seconds.
+06/07/2023 08:02:08 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 52.
+[D 230607 08:02:09 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:02:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:02:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:02:16 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.914584398269653
+06/07/2023 08:02:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:02:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:02:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:02:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:02:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:02:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 08:02:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 593)
+06/07/2023 08:02:40 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 52 Time: 1681.4122505187988 seconds.
+06/07/2023 08:02:40 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 53.
+[D 230607 08:02:42 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:02:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:02:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:02:49 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 8.493673086166382
+06/07/2023 08:02:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:02:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:02:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:03:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:03:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:03:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 593)
+06/07/2023 08:03:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1046, 2219)
+06/07/2023 08:03:18 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 53 Time: 1719.5623664855957 seconds.
+06/07/2023 08:03:18 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 54.
+[D 230607 08:03:20 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:03:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:03:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:03:27 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 8.184213399887085
+06/07/2023 08:03:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:03:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:03:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:03:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:03:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:03:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1944'))
+06/07/2023 08:03:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1046, 2219)
+06/07/2023 08:03:51 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 54 Time: 1752.7422947883606 seconds.
+06/07/2023 08:03:51 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 55.
+[D 230607 08:03:53 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:03:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:03:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:03:58 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 6.020495891571045
+06/07/2023 08:03:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:04:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:04:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:04:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:04:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:04:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1558'))
+06/07/2023 08:04:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1558)
+06/07/2023 08:04:21 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 55 Time: 1782.6728177070618 seconds.
+06/07/2023 08:04:21 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 56.
+[D 230607 08:04:23 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:04:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:04:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:04:27 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.018411636352539
+06/07/2023 08:04:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:04:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:04:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:04:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:04:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:04:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 08:04:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1751'))
+06/07/2023 08:04:51 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 56 Time: 1812.0952122211456 seconds.
+06/07/2023 08:04:51 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 57.
+[D 230607 08:04:52 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:04:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:04:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:04:57 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.479155540466309
+06/07/2023 08:04:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:05:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:05:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:05:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:05:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:05:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 08:05:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '979'))
+06/07/2023 08:05:20 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 57 Time: 1841.8178086280823 seconds.
+06/07/2023 08:05:20 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 58.
+[D 230607 08:05:21 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:05:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:05:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:05:26 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.429437875747681
+06/07/2023 08:05:27 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:05:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:05:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:05:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:05:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:05:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 08:05:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (314, 429)
+06/07/2023 08:05:49 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 58 Time: 1870.9245266914368 seconds.
+06/07/2023 08:05:49 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 59.
+[D 230607 08:05:51 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:05:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:05:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:05:55 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.109132528305054
+06/07/2023 08:05:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:05:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:06:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1078, 2122)
+06/07/2023 08:06:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:06:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:06:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1365'))
+06/07/2023 08:06:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Scroll from (720,2097) to (720,518)
+06/07/2023 08:06:18 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 59 Time: 1899.609768629074 seconds.
+06/07/2023 08:06:18 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 60.
+[D 230607 08:06:19 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:06:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:06:24 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:06:24 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.498497486114502
+06/07/2023 08:06:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:06:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:06:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:06:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:06:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:06:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:06:42 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:06:45 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:06:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '979'))
+06/07/2023 08:06:48 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:06:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '2095'))
+06/07/2023 08:06:51 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:06:51 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 60 Time: 1932.506846666336 seconds.
+06/07/2023 08:06:51 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 61.
+[D 230607 08:06:52 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:06:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:06:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:06:57 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.2296013832092285
+06/07/2023 08:06:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:07:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:07:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:07:06 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:07:09 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:07:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:07:15 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:18 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:18 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 08:07:21 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:21 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1944)
+06/07/2023 08:07:24 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:24 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 61 Time: 1965.0113170146942 seconds.
+06/07/2023 08:07:24 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 62.
+[D 230607 08:07:25 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:07:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:07:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:07:29 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.100890398025513
+06/07/2023 08:07:30 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:07:33 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:07:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:07:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:07:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:07:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:07:47 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:50 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1365'))
+06/07/2023 08:07:53 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1365'))
+06/07/2023 08:07:56 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:07:56 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 62 Time: 1997.6759958267212 seconds.
+06/07/2023 08:07:56 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 63.
+[D 230607 08:07:57 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:08:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:08:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:08:02 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.268998146057129
+06/07/2023 08:08:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:08:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:08:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:08:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:08:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:08:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:08:20 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:23 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '786'))
+06/07/2023 08:08:26 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '1172'))
+06/07/2023 08:08:29 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:29 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 63 Time: 2030.5983250141144 seconds.
+06/07/2023 08:08:29 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 64.
+[D 230607 08:08:30 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:08:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:08:35 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:08:35 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.20785927772522
+06/07/2023 08:08:36 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:08:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:08:41 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:08:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:08:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:08:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:08:53 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:56 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:56 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 08:08:59 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:08:59 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1751)
+06/07/2023 08:09:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:09:01 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 64 Time: 2062.894320011139 seconds.
+06/07/2023 08:09:01 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 65.
+[D 230607 08:09:03 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:09:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:09:07 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:09:07 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.138049602508545
+06/07/2023 08:09:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:09:10 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:09:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:09:16 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:09:19 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:09:22 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:09:25 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:09:28 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:09:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 08:09:31 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:09:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 08:09:33 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:09:33 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 65 Time: 2094.833463907242 seconds.
+06/07/2023 08:09:33 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 66.
+[D 230607 08:09:34 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:09:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:09:39 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:09:39 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.081779479980469
+06/07/2023 08:09:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:09:42 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:09:45 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:09:48 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:09:51 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:09:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:09:57 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:00 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '786'))
+06/07/2023 08:10:03 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 979)
+06/07/2023 08:10:06 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:06 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 66 Time: 2126.990249633789 seconds.
+06/07/2023 08:10:06 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 67.
+[D 230607 08:10:07 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:10:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:10:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:10:11 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.08923864364624
+06/07/2023 08:10:12 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:10:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:10:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:10:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:10:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:10:26 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:10:29 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:32 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:32 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (860, 429)
+06/07/2023 08:10:34 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:34 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '1971'))
+06/07/2023 08:10:38 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:10:38 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 67 Time: 2159.0346896648407 seconds.
+06/07/2023 08:10:38 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 68.
+[D 230607 08:10:39 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:10:44 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.434097051620483
+06/07/2023 08:10:44 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:10:47 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:10:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:10:53 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:10:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:10:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:11:01 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:04 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:04 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('321', '593'))
+06/07/2023 08:11:08 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '2079'))
+06/07/2023 08:11:11 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:11 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 68 Time: 2192.161073207855 seconds.
+06/07/2023 08:11:11 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 69.
+[D 230607 08:11:12 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:11:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:11:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:11:17 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.219147682189941
+06/07/2023 08:11:17 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:11:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:11:23 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1230, 2070)
+06/07/2023 08:11:25 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2318)
+06/07/2023 08:11:28 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:11:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:11:34 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:37 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:37 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Long Click on (('720', '979'))
+06/07/2023 08:11:40 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:40 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (454, 429)
+06/07/2023 08:11:43 [INFO] [reproduce:reproducer] [match_reproducer.py-175] Triggered a crash, but not the same with bug report
+06/07/2023 08:11:43 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 69 Time: 2224.698563814163 seconds.
+06/07/2023 08:11:43 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 70.
+[D 230607 08:11:44 __init__:1375] [pid:13789] pm install -r -t /data/local/tmp/_tmp.apk
+06/07/2023 08:11:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+06/07/2023 08:11:49 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'net.gsantner.markor', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_google_phone_x86', 'screenOn': True, 'sdkInt': 23, 'naturalOrientation': True}
+06/07/2023 08:11:49 [INFO] [reproduce:reproducer] [match_reproducer.py-157] Setup delay: 5.099191427230835
+06/07/2023 08:11:50 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 210)
+06/07/2023 08:11:52 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/07/2023 08:11:55 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (540, 2294)
+06/07/2023 08:11:58 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1274, 2122)
+06/07/2023 08:12:01 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (720, 1446)
+06/07/2023 08:12:03 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/07/2023 08:12:07 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 70 Time: 2248.003258228302 seconds.
+06/07/2023 08:12:07 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 70.
+06/07/2023 08:12:07 [INFO] [reproduce:main] [tool_main.py-64] **************** TOOL Ended. Result: Success. ****************

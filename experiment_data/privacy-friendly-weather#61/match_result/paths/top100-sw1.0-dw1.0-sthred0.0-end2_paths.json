@@ -1,0 +1,1705 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "154",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SKIP",
+                "btn skip"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "BACK"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "NEXT",
+                "btn next"
+            ]
+        },
+        {
+            "action": "SWIPE",
+            "start_x": "1435",
+            "start_y": "1196",
+            "end_x": "5",
+            "end_y": "1196"
+        },
+        {
+            "action": "ROTATE"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2308",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "OKAY",
+                "btn next"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1531",
+            "resource_id": "org.secuso.privacyfriendlyweather:id/autoCompleteTvAddFirstStart",
+            "x_path": "",
+            "input_value": "None",
+            "text_representation": [
+                "And now add your first Location",
+                "The First Location",
+                "autoCompleteTvAddFirstStart"
+            ]
+        }
+    ]
+]

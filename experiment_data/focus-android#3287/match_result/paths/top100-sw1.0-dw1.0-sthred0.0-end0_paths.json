@@ -1,0 +1,5296 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1330",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Avatar for Username"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "SCROLL",
+            "start_x": "721",
+            "start_y": "2387",
+            "end_x": "721",
+            "end_y": "285"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "85",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "395",
+            "tgt_y": "661",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[1]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus for Android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "395",
+            "tgt_y": "661",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[1]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus for Android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "787",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[2]/node/node/node/node",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1001",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1001",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1333",
+            "tgt_y": "1671",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[2]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/what-firefox-focus-android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1022",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[5]",
+            "resource_id": "org.mozilla.focus:id/find_in_page",
+            "text_representation": [
+                "Find in Page",
+                "find in page"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "197",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1022",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[5]",
+            "resource_id": "org.mozilla.focus:id/find_in_page",
+            "text_representation": [
+                "Find in Page",
+                "find in page"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "197",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1022",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[5]",
+            "resource_id": "org.mozilla.focus:id/find_in_page",
+            "text_representation": [
+                "Find in Page",
+                "find in page"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "197",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1022",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[5]",
+            "resource_id": "org.mozilla.focus:id/find_in_page",
+            "text_representation": [
+                "Find in Page",
+                "find in page"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "197",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1022",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[5]",
+            "resource_id": "org.mozilla.focus:id/find_in_page",
+            "text_representation": [
+                "Find in Page",
+                "find in page"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "197",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[3]",
+            "resource_id": "org.mozilla.focus:id/erase",
+            "text_representation": [
+                "Erase browsing history",
+                "erase"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1286",
+            "tgt_y": "2238",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[3]",
+            "resource_id": "org.mozilla.focus:id/erase",
+            "text_representation": [
+                "Erase browsing history",
+                "erase"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "395",
+            "tgt_y": "661",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[1]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus for Android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "395",
+            "tgt_y": "661",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[1]/node/node/node",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus for Android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "787",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[2]/node/node/node/node",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1176",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[3]",
+            "resource_id": "",
+            "text_representation": [
+                "Menu"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1333",
+            "tgt_y": "1671",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[2]/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "224",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Mozilla Support Logo"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1330",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[4]",
+            "resource_id": "",
+            "text_representation": [
+                "Avatar for Username"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1001",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "721",
+            "tgt_y": "1001",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[5]/node[3]/node/node[1]/node[1]",
+            "resource_id": "",
+            "text_representation": [
+                "Firefox Focus"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "BACK"
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node[1]/node[2]/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "610",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/help_trackers",
+            "text_representation": [
+                "Help",
+                "help trackers"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "610",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/help_trackers",
+            "text_representation": [
+                "Help",
+                "help trackers"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "610",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/help_trackers",
+            "text_representation": [
+                "Help",
+                "help trackers"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "610",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/help_trackers",
+            "text_representation": [
+                "Help",
+                "help trackers"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "141",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/urlInputLayout",
+            "text_representation": [
+                "urlInputLayout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "141",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/urlInputLayout",
+            "text_representation": [
+                "urlInputLayout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "141",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/urlInputLayout",
+            "text_representation": [
+                "urlInputLayout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "141",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/urlInputLayout",
+            "text_representation": [
+                "urlInputLayout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/what-firefox-focus-android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/what-firefox-focus-android"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "141",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/urlInputLayout",
+            "text_representation": [
+                "urlInputLayout"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "395",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/help",
+            "text_representation": [
+                "Help",
+                "help"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1317",
+            "tgt_y": "448",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[2]/node[4]",
+            "resource_id": "org.mozilla.focus:id/blocking_switch",
+            "text_representation": [
+                "Block trackers",
+                "ON",
+                "blocking switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node[1]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1029",
+            "tgt_y": "393",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[2]/node/node/node/node[4]/node/node[2]",
+            "resource_id": "",
+            "text_representation": [
+                "Search"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "702",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node/node/node[1]/node/node/node[2]",
+            "resource_id": "org.mozilla.focus:id/display_url",
+            "text_representation": [
+                "display url",
+                "https://support.mozilla.org/en-US/kb/whats-new-firefox-focus-android-version-8?as=u&utm_source=inproduct"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/security_info",
+            "text_representation": [
+                "Site Security",
+                "security info"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[4]/node/node/node/node/node/node[1]/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1358",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[7]",
+            "resource_id": "org.mozilla.focus:id/check_menu_item_checkbox",
+            "text_representation": [
+                "Request desktop site",
+                "check menu item checkbox"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1358",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[7]",
+            "resource_id": "org.mozilla.focus:id/check_menu_item_checkbox",
+            "text_representation": [
+                "Request desktop site",
+                "check menu item checkbox"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node/node/node/node/node[1]/node/node/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1358",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[7]",
+            "resource_id": "org.mozilla.focus:id/check_menu_item_checkbox",
+            "text_representation": [
+                "Request desktop site",
+                "check menu item checkbox"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "185",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node/node/node[1]/node[2]/node[2]/node[2]",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options button",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "227",
+            "x_path": "/hierarchy/node[3]/node/node/node/node/node[1]",
+            "resource_id": "org.mozilla.focus:id/whats_new",
+            "text_representation": [
+                "What's New",
+                "whats new"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1342",
+            "tgt_y": "182",
+            "x_path": "/hierarchy/node[1]/node/node/node/node/node/node/node/node/node[1]/node/node[1]/node[3]/node",
+            "resource_id": "org.mozilla.focus:id/menuView",
+            "text_representation": [
+                "More options",
+                "menuView"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "950",
+            "tgt_y": "1358",
+            "x_path": "/hierarchy/node[2]/node/node/node/node/node[7]",
+            "resource_id": "org.mozilla.focus:id/check_menu_item_checkbox",
+            "text_representation": [
+                "Request desktop site",
+                "check menu item checkbox"
+            ]
+        },
+        {
+            "action": "ROTATE"
+        }
+    ]
+]

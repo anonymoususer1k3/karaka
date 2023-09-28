@@ -1,0 +1,5988 @@
+[
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "-122.0839998",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "37.4219985",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "728",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Sky"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "560",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Map"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "529",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "# Sats:",
+                "-122.0840000\u00b0",
+                "0 sec",
+                "0.0 m",
+                "0.0 m/s",
+                "0.0\u00b0",
+                "0/1/1",
+                "12:03:01 AM",
+                "20.0 m",
+                "37.4219983\u00b0",
+                "Alt (MSL):",
+                "Alt:",
+                "B. Acc:",
+                "Bearing:",
+                "E H Acc:",
+                "Lat:",
+                "Long:",
+                "S. Acc:",
+                "Speed:",
+                "TTFF:",
+                "Time:",
+                "status location card"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "-122.0839998",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "37.4219985",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "37.4219985",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "-122.0839998",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "-122.0839998",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "1301",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "ON",
+                "gps switch"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "37.4219985",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "245",
+            "tgt_y": "1172",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SAVE",
+                "save"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "1125",
+            "tgt_y": "493",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "245",
+            "tgt_y": "1172",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SAVE",
+                "save"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "706",
+            "tgt_y": "493",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "-122.0839998",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "x_path": "",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "720",
+            "tgt_y": "1336",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": []
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "245",
+            "tgt_y": "1172",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "SAVE",
+                "save"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "286",
+            "tgt_y": "493",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "37.4219985",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "1019",
+            "resource_id": "com.android.gpstest:id/ground_truth_alt_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your altitude in WGS84 (Optional)",
+                "ground truth alt text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "689",
+            "resource_id": "com.android.gpstest:id/ground_truth_lat_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your latitude",
+                "ground truth lat text"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "455",
+            "tgt_y": "896",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Accuracy"
+            ]
+        },
+        {
+            "action": "CLICK",
+            "tgt_x": "98",
+            "tgt_y": "182",
+            "x_path": "",
+            "resource_id": "",
+            "text_representation": [
+                "Open navigation drawer"
+            ]
+        },
+        {
+            "action": "INPUT",
+            "tgt_x": "720",
+            "tgt_y": "863",
+            "resource_id": "com.android.gpstest:id/ground_truth_long_text",
+            "x_path": "",
+            "input_value": "-",
+            "text_representation": [
+                "Your longitude",
+                "ground truth long text"
+            ]
+        }
+    ]
+]

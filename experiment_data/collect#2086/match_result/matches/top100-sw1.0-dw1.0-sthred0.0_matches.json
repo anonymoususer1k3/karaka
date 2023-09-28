@@ -1,0 +1,779 @@
+[
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.5,
+                "total_score": 1.5
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "136",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "695",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Password"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8361241729493498,
+                "distance_score": 0.25,
+                "total_score": 1.0861241729493498
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "257",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1710",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Open source libraries/licenses",
+                    "We stand on the shoulders of giants!"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.822185840873693,
+                "distance_score": 0.25,
+                "total_score": 1.072185840873693
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "12",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "456",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "General Settings",
+                    "Tap for admin access to settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5582424792863272,
+                "distance_score": 0.5,
+                "total_score": 1.0582424792863272
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "262",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1370",
+                "tgt_y": "182",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "More options"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.55447746011648,
+                "distance_score": 0.5,
+                "total_score": 1.05447746011648
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "271",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1752",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Tap to manage general settings items",
+                    "User Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.8008320218319674,
+                "distance_score": 0.25,
+                "total_score": 1.0508320218319676
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "271",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1752",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Tap to manage general settings items",
+                    "User Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5507157607608281,
+                "distance_score": 0.5,
+                "total_score": 1.050715760760828
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "248",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2034",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Form Entry Settings",
+                    "Tap to manage form entry items"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.5480435760384494,
+                "distance_score": 0.5,
+                "total_score": 1.0480435760384494
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "281",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "518",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Admin Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.3333333333333333
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "61",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1470",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Main Menu Settings",
+                    "Tap to manage main menu items"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.4905807002753998,
+                "distance_score": 0.5,
+                "total_score": 0.9905807002753998
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "231",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "1083",
+                "tgt_y": "350",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "General Settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.784508697404023,
+                "distance_score": 0.3333333333333333,
+                "total_score": 1.1178420307373562
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ],
+    [
+        {
+            "step": {
+                "index": 1,
+                "action_word": "Go",
+                "action": "CLICK",
+                "target_word": "Admin settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Go to Admin settings ",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "221",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "2109",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Delete Saved Form",
+                    "manage forms"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 0.6125835511759765,
+                "distance_score": 0.5,
+                "total_score": 1.1125835511759765
+            }
+        },
+        {
+            "step": {
+                "index": 2,
+                "action_word": "click",
+                "action": "CLICK",
+                "target_word": "Import/Export settings",
+                "text": "",
+                "shape_img_path": "",
+                "shape_word": "",
+                "position_direction": [],
+                "position_view": [],
+                "input_value": "",
+                "sentence": "Import/Export settings.",
+                "color": "",
+                "swipe_direction": "",
+                "scroll_direction": ""
+            },
+            "matched_edge": "135",
+            "matched_event": {
+                "action": "CLICK",
+                "tgt_x": "720",
+                "tgt_y": "1089",
+                "x_path": "",
+                "resource_id": "",
+                "text_representation": [
+                    "Import/Export settings"
+                ]
+            },
+            "match_score": {
+                "similarity_score": 1.0,
+                "distance_score": 0.2,
+                "total_score": 1.2
+            }
+        }
+    ]
+]

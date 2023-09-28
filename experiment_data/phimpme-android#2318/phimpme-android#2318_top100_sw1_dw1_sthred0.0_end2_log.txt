@@ -1,0 +1,108 @@
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-29] **************** TOOL Started ****************
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-30] App ID: phimpme-android#2318
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-34] Report Type: Crash
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-35] Emulator ID: emulator-5562
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-36] Output Dir: ~/ResearchProject/BugReportReproduction~/phimpme-android#2318
+06/06/2023 05:45:52 [INFO] [reproduce:main] [tool_main.py-37] Random Seed: 691
+06/06/2023 05:45:52 [INFO] [reproduce:gui-model] [gui_model.py-325] Constructing GUI model for phimpme-android#2318
+06/06/2023 05:45:52 [DEBUG] [reproduce:layout-retriever] [model_builder_utils.py-53] Connected to Neo4j
+06/06/2023 05:45:52 [DEBUG] [reproduce:gui-model] [gui_model.py-386] Loading the shortest paths between nodes...
+06/06/2023 05:45:52 [DEBUG] [reproduce:gui-model] [gui_model.py-408] Loading edge reachability information...
+06/06/2023 05:45:52 [INFO] [reproduce:match-finder] [match_finder.py-499] Starting finding matches for saner2022_1405...
+06/06/2023 05:45:52 [INFO] [reproduce:match-finder] [match_finder.py-29] Constructing Step Match Chain...
+06/06/2023 05:45:52 [INFO] [reproduce:match-finder] [match_finder.py-35] Done
+06/06/2023 05:45:52 [INFO] [reproduce:match-finder] [match_finder.py-36] Similarity Chain Construction Time: 0.0009481906890869141 seconds.
+06/06/2023 05:45:52 [INFO] [reproduce:match-finder] [match_finder.py-151] Identifying best matches using  algorithm with N=100...
+06/06/2023 05:46:07 [INFO] [reproduce:match-finder] [match_finder.py-170] Identified 262 matches.
+06/06/2023 05:46:07 [INFO] [reproduce:match-finder] [match_finder.py-172]  Matching Time: 14.263808488845825 seconds.
+06/06/2023 05:46:07 [INFO] [reproduce:match-finder] [match_finder.py-366] Dumping all matches...
+06/06/2023 05:46:07 [INFO] [reproduce:match-finder] [match_finder.py-508] Starting inferring event sequences from best matches...
+06/06/2023 05:46:13 [INFO] [reproduce:match-finder] [match_finder.py-520] Path Identification Time: 6.437382936477661 seconds.
+06/06/2023 05:46:13 [INFO] [reproduce:match-finder] [match_finder.py-521] Identified 3062 paths from matches dumping the first 1000 paths to file. Filename convention: algo-topK-endingMissingSteps_paths.pdf
+06/06/2023 05:46:14 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[D 230606 17:46:14 __init__:661] [pid:148533] [emulator-5562] kill process(ps): uiautomator
+[D 230606 17:46:14 __init__:392] [pid:148533] [emulator-5562] Install app-uiautomator.apk
+[D 230606 17:46:15 __init__:392] [pid:148533] [emulator-5562] Install app-uiautomator-test.apk
+[D 230606 17:46:16 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 17:46:17 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 17:46:18 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 38.0s
+[D 230606 17:46:19 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 37.0s
+[D 230606 17:46:20 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 36.0s
+[D 230606 17:46:21 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 35.0s
+[D 230606 17:46:22 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 34.0s
+[D 230606 17:46:22 __init__:696] [pid:148533] [emulator-5562] show float window
+[D 230606 17:46:23 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 32.9s
+[D 230606 17:46:24 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 31.9s
+[D 230606 17:46:25 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 30.9s
+[D 230606 17:46:26 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 29.9s
+[D 230606 17:46:27 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 28.9s
+[D 230606 17:46:28 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 27.9s
+[D 230606 17:46:29 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 26.9s
+[I 230606 17:46:29 __init__:643] [pid:148533] [emulator-5562] uiautomator back to normal
+06/06/2023 05:46:29 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 05:46:29 [INFO] [reproduce:reproducer] [match_reproducer.py-61] Executing path number 0.
+06/06/2023 05:46:30 [INFO] [reproduce:os-utils] [os_utils.py-25] RUN CMD: adb emu avd snapshot load phimpme-android#2318
+KO: unknown command, try 'help'
+OK
+06/06/2023 05:46:31 [DEBUG] [reproduce:reproducer] [match_reproducer.py-38] Trying to connect to uiautomator
+[I 230606 17:46:31 __init__:293] [pid:148533] [emulator-5562] USB disconnected, fallback to WiFi, ATX_AGENT_URL=http://192.168.232.2:7912
+[W 230606 17:46:34 __init__:218] [pid:148533] atx-agent has something wrong, auto recovering
+[D 230606 17:46:34 __init__:322] [pid:148533] [emulator-5562] device emulator-5562 is online
+[I 230606 17:46:34 init:156] uiautomator2 version: 2.16.13
+[D 230606 17:46:34 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[D 230606 17:46:35 init:295] Real version: [0, 10, 0], Expect version: [0, 10, 0]
+[D 230606 17:46:35 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 17:46:35 init:350] Check atx-agent version
+[D 230606 17:46:35 init:359] Forward: local:tcp:49571 -> remote:tcp:7912
+[D 230606 17:46:35 init:359] Forward: local:tcp:49571 -> remote:tcp:7912
+[D 230606 17:46:35 init:362] atx-agent version 0.10.0
+[D 230606 17:46:35 init:365] device wlan ip: 192.168.232.2
+06/06/2023 05:46:38 [DEBUG] [reproduce:reproducer] [match_reproducer.py-46] Trying to reinit uiautomator
+[I 230606 17:46:38 init:156] uiautomator2 version: 2.16.13
+[I 230606 17:46:38 init:372] Install minicap, minitouch
+[D 230606 17:46:38 init:59] Use cached assets: ~/.uiautomator2/cache/minitouch-1e3ccbf4fa/minitouch
+[D 230606 17:46:38 init:238] Push to /data/local/tmp/minitouch:0755
+[I 230606 17:46:38 init:375] abi:x86 not supported well, skip install minicap
+[D 230606 17:46:38 init:256] apk-debug package-info: {'package_name': 'com.github.uiautomator', 'version_name': '2.3.3', 'version_code': '2003003', 'flags': ['DEBUGGABLE', 'HAS_CODE', 'ALLOW_CLEAR_USER_DATA', 'ALLOW_BACKUP'], 'first_install_time': datetime.datetime(2023, 4, 18, 11, 31, 56), 'last_update_time': datetime.datetime(2023, 4, 18, 11, 31, 56), 'signature': 'ae17cd86'}
+[D 230606 17:46:38 init:257] apk-debug-test package-info: {'package_name': 'com.github.uiautomator.test', 'version_name': 'null', 'version_code': '', 'flags': ['DEBUGGABLE', 'HAS_CODE', 'ALLOW_CLEAR_USER_DATA', 'ALLOW_BACKUP'], 'first_install_time': datetime.datetime(2023, 4, 18, 11, 31, 57), 'last_update_time': datetime.datetime(2023, 4, 18, 11, 31, 57), 'signature': 'ae17cd86'}
+[I 230606 17:46:38 init:390] Already installed com.github.uiautomator apks
+[D 230606 17:46:38 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--stop')
+[D 230606 17:46:39 init:295] Real version: [0, 10, 0], Expect version: [0, 10, 0]
+[D 230606 17:46:39 init:167] Shell: ('/data/local/tmp/atx-agent', 'server', '--nouia', '-d', '--addr', '127.0.0.1:7912')
+[I 230606 17:46:39 init:350] Check atx-agent version
+[D 230606 17:46:39 init:359] Forward: local:tcp:49571 -> remote:tcp:7912
+[D 230606 17:46:40 init:359] Forward: local:tcp:49571 -> remote:tcp:7912
+[D 230606 17:46:40 init:362] atx-agent version 0.10.0
+[D 230606 17:46:40 init:365] device wlan ip: 192.168.232.2
+Successfully init AdbDevice(serial=emulator-5562)
+[D 230606 17:46:40 __init__:661] [pid:148533] [emulator-5562] kill process(ps): uiautomator
+[D 230606 17:46:41 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 40.0s
+[D 230606 17:46:42 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 39.0s
+[D 230606 17:46:43 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 38.0s
+[D 230606 17:46:44 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 37.0s
+[D 230606 17:46:45 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 36.0s
+[D 230606 17:46:46 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 35.0s
+[D 230606 17:46:47 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 34.0s
+[D 230606 17:46:47 __init__:696] [pid:148533] [emulator-5562] show float window
+[D 230606 17:46:48 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 32.9s
+[D 230606 17:46:49 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 31.9s
+[D 230606 17:46:50 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 30.9s
+[D 230606 17:46:51 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 29.9s
+[D 230606 17:46:52 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 28.9s
+[D 230606 17:46:53 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 27.9s
+[D 230606 17:46:54 __init__:682] [pid:148533] [emulator-5562] uiautomator-v2 is starting ... left: 26.9s
+[I 230606 17:46:54 __init__:643] [pid:148533] [emulator-5562] uiautomator back to normal
+06/06/2023 05:46:54 [DEBUG] [reproduce:reproducer] [match_reproducer.py-43] Android emulator info: {'currentPackageName': 'org.fossasia.phimpme', 'displayHeight': 2392, 'displayRotation': 0, 'displaySizeDpX': 411, 'displaySizeDpY': 731, 'displayWidth': 1440, 'productName': 'sdk_gphone_x86', 'screenOn': True, 'sdkInt': 26, 'naturalOrientation': True}
+06/06/2023 05:46:54 [INFO] [reproduce:reproducer] [match_reproducer.py-159] Setup delay: 24.018675088882446
+06/06/2023 05:46:57 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1216, 182)
+06/06/2023 05:47:00 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (244, 524)
+06/06/2023 05:47:02 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (113, 2294)
+06/06/2023 05:47:05 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Back
+06/06/2023 05:47:08 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (349, 2294)
+06/06/2023 05:47:11 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (615, 2287)
+06/06/2023 05:47:13 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (360, 2037)
+06/06/2023 05:47:15 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Rotate
+06/06/2023 05:47:20 [DEBUG] [reproduce:reproducer] [match_reproducer.py-78] Performing Click on (1369, 2287)
+06/06/2023 05:47:23 [INFO] [reproduce:reproducer] [match_reproducer.py-64] Path 0 Time: 53.8268940448761 seconds.
+06/06/2023 05:47:23 [INFO] [reproduce:reproducer] [match_reproducer.py-66] Successfully Reproduced when executing path number 0.
+06/06/2023 05:47:23 [INFO] [reproduce:main] [tool_main.py-65] **************** TOOL Ended. Result: Success. ****************
